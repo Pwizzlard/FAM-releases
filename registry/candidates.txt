@@ -1,0 +1,121 @@
+# Candidate official sources, verified into official.json by: python -m fam.officialbuild ["Name" ...]
+# Format:  Name | source, source, ...
+#   github:owner/repo     author's repo (several may be listed; first that verifies wins)
+#   wowi:auto             find on WoWInterface by exact name (or wowi:<id>)
+#   tukui:<slug>
+#   website:<https url>   author's own download page (browser download; no update checks)
+#   curseforge:<slug>     CurseForge project, checked via cfwidget (browser download; update checks work).
+#                         Every line also gets curseforge:auto (slug guessed from the name, title must
+#                         match) as its last source unless it lists curseforge:<slug> or curseforge:none
+#   folders:A;B           main addon folders, when no verified source can tell us
+# Lines starting with # are ignored.
+
+# --- Boss mods / combat ---
+Deadly Boss Mods | github:DeadlyBossMods/DeadlyBossMods, wowi:auto
+BigWigs | github:BigWigsMods/BigWigs, wowi:auto, curseforge:big-wigs
+LittleWigs | github:BigWigsMods/LittleWigs, wowi:auto
+Details! Damage Meter | github:Tercioo/Details-Damage-Meter, wowi:auto, curseforge:details
+Skada | github:bkader/Skada-Classic, wowi:auto
+Metails | github:Pwizzlard/Metails, curseforge:none
+Recount | wowi:auto
+WeakAuras | github:WeakAuras/WeakAuras2, wowi:auto, curseforge:weakauras-2
+Hekili | github:Hekili/hekili, wowi:auto
+OmniCC | github:tullamods/OmniCC, wowi:auto, curseforge:omni-cc
+ClassicCastbars | github:wardz/ClassicCastbars, wowi:auto
+Quartz | github:Nevcairiel/Quartz, wowi:auto
+ThreatClassic2 | github:dfherr/ThreatClassic2, wowi:auto
+Decursive | github:2072/Decursive, wowi:auto
+Method Raid Tools | wowi:auto
+Simulationcraft | github:simulationcraft/simc-addon
+
+# --- Questing / leveling / maps ---
+Questie | github:Questie/Questie, wowi:auto
+Guidelime | github:max-ri/Guidelime, wowi:auto
+WoW-Pro Guides | github:Ludovicus-Maior/WoW-Pro-Guides, wowi:auto, curseforge:wow-pro
+RXPGuides | github:RestedXP/RXPGuides
+TomTom | github:jnwhiteh/TomTom, wowi:auto
+HandyNotes | github:Nevcairiel/HandyNotes, wowi:auto
+Mapster | github:Nevcairiel/Mapster, wowi:auto
+GatherMate2 | github:Nevcairiel/GatherMate2, wowi:auto
+Routes | github:Nevcairiel/Routes, wowi:auto
+AtlasLootClassic | github:Hoizame/AtlasLootClassic, wowi:auto
+AtlasLoot | github:Hoizame/AtlasLoot, wowi:auto, curseforge:atlasloot-enhanced
+Immersion | github:seblindfors/Immersion, wowi:auto
+Leatrix Plus | wowi:auto
+Leatrix Maps | wowi:auto
+SexyMap | github:funkydude/SexyMap, wowi:auto
+Questie Companion | wowi:auto
+Nova World Buffs | github:Novaspark/NovaWorldBuffs, wowi:auto
+Nova Instance Tracker | github:Novaspark/NovaInstanceTracker, wowi:auto
+Attune | wowi:auto
+BtWQuests | github:Breeni/BtWQuests, wowi:auto
+AutoBiographer | github:AaronV-T/AutoBiographer, wowi:auto
+
+# --- Action bars / UI ---
+Bartender4 | github:Nevcairiel/Bartender4, wowi:auto
+Dominos | github:tullamods/Dominos, wowi:auto
+ElvUI | tukui:elvui
+Tukui | tukui:tukui
+Masque | github:SFX-WoW/Masque, wowi:auto
+MoveAny | github:d4kir92/MoveAny, wowi:auto
+ConsolePort | github:seblindfors/ConsolePort, wowi:auto
+ls: UI | github:ls-/ls_UI, wowi:auto
+ls: Toasts | github:ls-/ls_Toasts, wowi:auto
+Advanced Interface Options | github:Stanzilla/AdvancedInterfaceOptions, wowi:auto
+TipTac | github:frozn/TipTac, wowi:auto
+Titan Panel | github:TitanPanel/TitanPanel, wowi:auto
+Chattynator | github:plusmouse/Chattynator, wowi:auto
+Prat 3.0 | github:Prat-Addon/Prat-3.0, wowi:auto
+WIM (WoW Instant Messenger) | github:Legacy-of-Sylvanaar/wow-instant-messenger, wowi:auto
+Opie | wowi:auto
+BugSack | github:funkydude/BugSack, wowi:auto
+BugGrabber | github:funkydude/BugGrabber, wowi:auto, curseforge:bug-grabber
+TinyTooltip | github:xhwsd/TinyTooltip, wowi:auto
+Narcissus | github:Peterodox/Narcissus, wowi:auto
+Kui Nameplates | github:kesava-wow/kuinameplates2, wowi:auto
+Plater Nameplates | github:Tercioo/Plater-Nameplates, wowi:auto
+Threat Plates | wowi:auto, github:Backupiseasy/ThreatPlates
+
+# --- Unit / raid frames ---
+Shadowed Unit Frames | github:Nevcairiel/ShadowedUnitFrames, wowi:auto
+PitBull Unit Frames 4.0 | github:nebularg/PitBull4, wowi:auto
+Grid2 | github:michaelnpsp/Grid2, wowi:auto
+VuhDo | wowi:auto
+HealBot Continued | wowi:auto
+Clique | github:jnwhiteh/Clique, wowi:auto
+Cell | github:enderneko/Cell, wowi:auto
+
+# --- Bags / items / economy ---
+Bagnon | github:tullamods/Bagnon, wowi:auto
+AdiBags | github:AdiAddons/AdiBags, wowi:auto
+Baganator | github:plusmouse/Baganator, wowi:auto
+Syndicator | github:plusmouse/Syndicator, wowi:auto
+BagSync | github:Xruptor/BagSync, wowi:auto
+Auctionator | github:Auctionator/Auctionator, wowi:auto
+TradeSkillMaster | wowi:auto, curseforge:tradeskill-master
+Postal | github:Kemayo/Postal, wowi:auto
+Pawn | wowi:auto
+ItemRack | github:Rottenbeer/ItemRack, wowi:auto
+Outfitter | wowi:auto
+Scrap | github:Jaliborc/Scrap, wowi:auto
+Altoholic | github:teelolws/Altoholic-Retail, wowi:auto
+Rarity | github:WowRarity/Rarity, wowi:auto
+Missing TradeSkills List | wowi:auto
+RatingBuster | github:raethkcj/RatingBuster, wowi:auto
+CharacterStatsClassic | github:getov/CharacterStatsClassic, wowi:auto
+
+# --- PvP / misc ---
+OlympusMute | curseforge:olympusmute, folders:OlympusMute
+Spy | wowi:auto
+Gladius | wowi:auto
+AutoTurnIn | github:lure/AutoTurnIn, wowi:auto
+Leatrix Sounds | wowi:auto
+Hardcore | github:Zarant/WoW_Hardcore, wowi:auto
+
+# --- Reviewed 2026-09-26: not self-hosted anywhere we can verify ---
+# These publish packaged builds only on CurseForge/Wago (or their own site is gone),
+# and every GitHub hit was a mirror, fork, or private-server port:
+# Details!, Bagnon, Baganator, Syndicator, Chattynator, Auctionator, Leatrix Plus/Maps/Sounds,
+# Scrap, Postal, Spy, Attune, Method Raid Tools, Recount, OPie, Gladius, BugGrabber,
+# Nova World Buffs, Nova Instance Tracker, Missing TradeSkills List, Skada, AtlasLoot (retail), Hardcore.
+# Known mirror/re-upload accounts to never trust: hippuli, curseforge-mirror, sirus-addons, WoWruRU-ClassicAddons.
