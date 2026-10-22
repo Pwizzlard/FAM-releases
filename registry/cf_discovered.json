@@ -953,7 +953,7 @@
       "forever"
      ],
      "updated": "2026-10-14",
-     "cf_downloads": 5127424
+     "cf_downloads": 5127677
     }
    ]
   },
@@ -2465,7 +2465,7 @@
       "forever"
      ],
      "updated": "2026-10-16",
-     "cf_downloads": 1323327
+     "cf_downloads": 1324070
     }
    ]
   },
@@ -5831,7 +5831,7 @@
       "forever"
      ],
      "updated": "2026-10-14",
-     "cf_downloads": 191298
+     "cf_downloads": 191340
     }
    ]
   },
@@ -7566,7 +7566,7 @@
   {
    "name": "Masque Blizzard Inventory",
    "summary": "Enables Masque to skin the built-in WoW inventory UI",
-   "updated": "2026-10-04",
+   "updated": "2026-10-07",
    "category": "bags",
    "sources": [
     {
@@ -7576,7 +7576,7 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-10-04",
+     "updated": "2026-10-07",
      "cf_downloads": 101137
     }
    ]
@@ -12786,7 +12786,7 @@
   {
    "name": "SmartError",
    "summary": "Provide audible alerts for common combat events",
-   "updated": "2026-09-21",
+   "updated": "2026-10-15",
    "category": "qol",
    "sources": [
     {
@@ -12796,7 +12796,7 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-09-21",
+     "updated": "2026-10-15",
      "cf_downloads": 22375
     }
    ]
@@ -14136,7 +14136,7 @@
   {
    "name": "FunFact",
    "summary": "Entertain (or annoy) your friends, party, raid, or guild with fun facts!",
-   "updated": "2026-09-26",
+   "updated": "2026-10-14",
    "category": "roleplay",
    "sources": [
     {
@@ -14146,7 +14146,7 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-09-26",
+     "updated": "2026-10-14",
      "cf_downloads": 16154
     }
    ]
@@ -17387,7 +17387,7 @@
       "forever"
      ],
      "updated": "2026-10-05",
-     "cf_downloads": 7733
+     "cf_downloads": 7736
     }
    ]
   },
@@ -17664,7 +17664,7 @@
   {
    "name": "AutoSkip",
    "summary": "Automate NPC Gossip and Quests",
-   "updated": "2026-10-12",
+   "updated": "2026-10-14",
    "category": "quests",
    "sources": [
     {
@@ -17674,7 +17674,7 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-10-12",
+     "updated": "2026-10-14",
      "cf_downloads": 7332
     }
    ]
@@ -31918,6 +31918,24 @@
    ]
   },
   {
+   "name": "AzerothGPS",
+   "summary": "A car-style GPS for Azeroth. Plot routes that follow the roads, get a turn-by-turn arrow with ETAs, plan multi-stop trips, and import TomTom /way waypoints.",
+   "updated": "2026-10-16",
+   "category": "quests",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "azerothgps",
+     "id": 1712208,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-16",
+     "cf_downloads": 1100
+    }
+   ]
+  },
+  {
    "name": "StBu Master Questlog | Forever",
    "summary": "The Ultimate Classic Questing, Leveling & Profession Companion with double Questlog Layout",
    "updated": "2026-10-17",
@@ -32003,24 +32021,6 @@
       "forever"
      ],
      "updated": "2026-10-15",
-     "cf_downloads": 1092
-    }
-   ]
-  },
-  {
-   "name": "AzerothGPS",
-   "summary": "A car-style GPS for Azeroth. Plot routes that follow the roads, get a turn-by-turn arrow with ETAs, plan multi-stop trips, and import TomTom /way waypoints.",
-   "updated": "2026-10-16",
-   "category": "quests",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "azerothgps",
-     "id": 1712208,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
      "cf_downloads": 1092
     }
    ]
@@ -33232,6 +33232,24 @@
    ]
   },
   {
+   "name": "S'more Skills",
+   "summary": "Find WoW Forever campsites on the zone map. Use a Basic Campfire Kit to host, then click Find so others can see the fire, the three camping-item slots, and whether your trade is useful there. Same faction, opt-in.",
+   "updated": "2026-09-25",
+   "category": "auras",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "smore-skills",
+     "id": 1696940,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-25",
+     "cf_downloads": 942
+    }
+   ]
+  },
+  {
    "name": "Titan Panel [Reagents]",
    "summary": "Titan Panel plugin that tracks and auto-buys your class's spell reagents at any vendor. Supports Classic Era, TBC Classic and WoW: Forever.",
    "updated": "2026-09-23",
@@ -33498,24 +33516,6 @@
      ],
      "updated": "2026-09-28",
      "cf_downloads": 918
-    }
-   ]
-  },
-  {
-   "name": "S'more Skills",
-   "summary": "Find WoW Forever campsites on the zone map. Use a Basic Campfire Kit to host, then click Find so others can see the fire, the three camping-item slots, and whether your trade is useful there. Same faction, opt-in.",
-   "updated": "2026-09-25",
-   "category": "auras",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "smore-skills",
-     "id": 1696940,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-25",
-     "cf_downloads": 917
     }
    ]
   },
@@ -37912,6 +37912,24 @@
    ]
   },
   {
+   "name": "PallyBuffs",
+   "summary": "A modern, lightweight raid blessing manager and auto-buffer for Paladins in WoW Forever.",
+   "updated": "2026-10-14",
+   "category": "auras",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "pallybuffs",
+     "id": 1716791,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-14",
+     "cf_downloads": 600
+    }
+   ]
+  },
+  {
    "name": "ClassicTooltip",
    "summary": "ClassicTooltip",
    "updated": "2026-09-28",
@@ -37961,24 +37979,6 @@
       "forever"
      ],
      "updated": "2026-09-19",
-     "cf_downloads": 599
-    }
-   ]
-  },
-  {
-   "name": "PallyBuffs",
-   "summary": "A modern, lightweight raid blessing manager and auto-buffer for Paladins in WoW Forever.",
-   "updated": "2026-10-14",
-   "category": "auras",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "pallybuffs",
-     "id": 1716791,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-14",
      "cf_downloads": 599
     }
    ]
@@ -38416,6 +38416,24 @@
    ]
   },
   {
+   "name": "Abgesattelt",
+   "summary": "Deathcounter for the Guild with scoreboard of total deaths",
+   "updated": "2026-09-25",
+   "category": "chat",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "abgesattelt",
+     "id": 1431741,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-25",
+     "cf_downloads": 583
+    }
+   ]
+  },
+  {
    "name": "PetAlarm",
    "summary": "Creates an alert on your screen when your pet is Dead/Missing, on Passive, or low HP.",
    "updated": "2026-10-14",
@@ -38448,24 +38466,6 @@
      ],
      "updated": "2026-09-22",
      "cf_downloads": 581
-    }
-   ]
-  },
-  {
-   "name": "Abgesattelt",
-   "summary": "Deathcounter for the Guild with scoreboard of total deaths",
-   "updated": "2026-09-25",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "abgesattelt",
-     "id": 1431741,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-25",
-     "cf_downloads": 580
     }
    ]
   },
@@ -39870,6 +39870,24 @@
      ],
      "updated": "2026-10-21",
      "cf_downloads": 517
+    }
+   ]
+  },
+  {
+   "name": "WoW Forever Addons",
+   "summary": "Creating useful Addons for WoW Forever",
+   "updated": "2026-09-25",
+   "category": "qol",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "wow-forever-addons",
+     "id": 1702791,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-25",
+     "cf_downloads": 516
     }
    ]
   },
@@ -47663,24 +47681,6 @@
       "forever"
      ],
      "updated": "2026-10-16",
-     "cf_downloads": 281
-    }
-   ]
-  },
-  {
-   "name": "WoW Forever Addons",
-   "summary": "Creating useful Addons for WoW Forever",
-   "updated": "2026-09-25",
-   "category": "qol",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "wow-forever-addons",
-     "id": 1702791,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-25",
      "cf_downloads": 281
     }
    ]
@@ -67378,6 +67378,24 @@
    ]
   },
   {
+   "name": "Macro Wow Builder",
+   "summary": "A visual, point-and-click macro builder \u2014 pick your spell, target, and conditions from menus and MacroWow writes the macro syntax for you. No slash-command knowledge required.",
+   "updated": "2026-09-25",
+   "category": "class",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "macro-wow-builder",
+     "id": 1706491,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-25",
+     "cf_downloads": 86
+    }
+   ]
+  },
+  {
    "name": "Target Health Percent Continued",
    "summary": "A fork of Target Health Percent with support continued, featuring a movable target-health percentage display, customizable execute colors, and optional maximum health.",
    "updated": "2026-09-27",
@@ -71262,24 +71280,6 @@
      ],
      "updated": "2026-10-21",
      "cf_downloads": 72
-    }
-   ]
-  },
-  {
-   "name": "Macro Wow Builder",
-   "summary": "A visual, point-and-click macro builder \u2014 pick your spell, target, and conditions from menus and MacroWow writes the macro syntax for you. No slash-command knowledge required.",
-   "updated": "2026-09-25",
-   "category": "class",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "macro-wow-builder",
-     "id": 1706491,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-25",
-     "cf_downloads": 71
     }
    ]
   },
@@ -84372,7 +84372,7 @@
   {
    "name": "Vanilla Varnish",
    "summary": "Thoughful updates to the vanilla WoW Forever UI with tweaks to tooltips, nameplates, party frames, the quest tracker and more.",
-   "updated": "2026-10-13",
+   "updated": "2026-10-14",
    "category": "nameplates",
    "sources": [
     {
@@ -84382,7 +84382,7 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-10-13",
+     "updated": "2026-10-14",
      "cf_downloads": 38
     }
    ]
