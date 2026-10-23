@@ -31,7 +31,7 @@
    ],
    "stars": 362,
    "summary": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs ",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -255,7 +255,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 146,
+   "stars": 147,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -1302,7 +1302,7 @@
    ],
    "stars": 27,
    "summary": "A simple spam blocker & reporter for World of Warcraft.",
-   "updated": "2026-07-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -1311,6 +1311,7 @@
       "bcc",
       "cata",
       "classic",
+      "forever",
       "mainline",
       "mists",
       "titan",
@@ -1335,6 +1336,24 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "MeetingStone",
+   "category": "chat",
+   "folders": [
+    "MeetingStone",
+    "MeetingStoneEX"
+   ],
+   "stars": 26,
+   "summary": "\u9b54\u517d\u4e16\u754c\u96c6\u5408\u77f3\u63d2\u4ef6\u4fee\u6539\u7248",
+   "updated": "2026-10-21",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Lianzy-Baimiao/MeetingStone_Happy",
+     "flavors": []
     }
    ]
   },
@@ -1403,24 +1422,6 @@
       "mists",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "MeetingStone",
-   "category": "chat",
-   "folders": [
-    "MeetingStone",
-    "MeetingStoneEX"
-   ],
-   "stars": 25,
-   "summary": "\u9b54\u517d\u4e16\u754c\u96c6\u5408\u77f3\u63d2\u4ef6\u4fee\u6539\u7248",
-   "updated": "2026-10-21",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Lianzy-Baimiao/MeetingStone_Happy",
-     "flavors": []
     }
    ]
   },
@@ -3125,7 +3126,7 @@
    ],
    "stars": 13,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -3809,23 +3810,6 @@
    ]
   },
   {
-   "name": "Offhand",
-   "category": "qol",
-   "folders": [
-    "Offhand"
-   ],
-   "stars": 10,
-   "summary": "Equip your Offhand. Dual wield your monitors!",
-   "updated": "2026-10-13",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "N4UX-GIT/Offhand-DualMonitor",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Wowhead Quick Link",
    "category": "qol",
    "folders": [
@@ -4050,7 +4034,7 @@
    ],
    "stars": 10,
    "summary": "WoW Forever Addon",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -6198,7 +6182,7 @@
    ],
    "stars": 6,
    "summary": "SpellCoda  - Addon for World of Warcraft Classic",
-   "updated": "2026-10-21",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -6508,6 +6492,23 @@
       "mists",
       "wrath"
      ]
+    }
+   ]
+  },
+  {
+   "name": "tdInspect",
+   "category": "qol",
+   "folders": [
+    "tdInspect"
+   ],
+   "stars": 5,
+   "summary": "",
+   "updated": "2026-10-17",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "DengSir/tdInspect",
+     "flavors": []
     }
    ]
   },
@@ -6965,7 +6966,7 @@
    ],
    "stars": 5,
    "summary": "",
-   "updated": "2026-10-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -7046,7 +7047,7 @@
    ],
    "stars": 5,
    "summary": "Filter crap from your chat in World of Warcraft.",
-   "updated": "2026-07-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -7055,6 +7056,7 @@
       "bcc",
       "cata",
       "classic",
+      "forever",
       "mainline",
       "mists",
       "titan",
@@ -7161,7 +7163,7 @@
    ],
    "stars": 5,
    "summary": "World of Warcraft addon to tell you where treasures are in Battle for Azeroth (requires HandyNotes)",
-   "updated": "2026-08-29",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -7311,7 +7313,7 @@
    ],
    "stars": 5,
    "summary": "A data library addon for World of Warcraft that provides daily updated talent export codes from parses.gg.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -7764,23 +7766,6 @@
       "titan",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "tdInspect",
-   "category": "qol",
-   "folders": [
-    "tdInspect"
-   ],
-   "stars": 4,
-   "summary": "",
-   "updated": "2026-10-17",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "DengSir/tdInspect",
-     "flavors": []
     }
    ]
   },
@@ -10147,7 +10132,7 @@
    ],
    "stars": 3,
    "summary": "Lightweight WoW Forever addon that adds available quest markers to Blizzard\u2019s native world map using automatically generated ATT quest data.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -10538,7 +10523,7 @@
    ],
    "stars": 3,
    "summary": "Removes guild advertising from public channels in World of Warcraft.",
-   "updated": "2026-07-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -10547,6 +10532,7 @@
       "bcc",
       "cata",
       "classic",
+      "forever",
       "mainline",
       "mists",
       "titan",
@@ -10563,7 +10549,7 @@
    ],
    "stars": 3,
    "summary": "Log all chat that's removed by the various BadBoy addons in World of Warcraft.",
-   "updated": "2026-07-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -10572,6 +10558,7 @@
       "bcc",
       "cata",
       "classic",
+      "forever",
       "mainline",
       "mists",
       "titan",
@@ -10588,7 +10575,7 @@
    ],
    "stars": 3,
    "summary": "Filter whispers by level in World of Warcraft.",
-   "updated": "2026-07-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -10597,6 +10584,7 @@
       "bcc",
       "cata",
       "classic",
+      "forever",
       "mainline",
       "mists",
       "titan",
@@ -11075,16 +11063,15 @@
    ]
   },
   {
-   "name": "LoreForever_Voice_Female",
+   "name": "LoreForever_Edition_Densuad_esES_Text",
    "category": "raids",
    "folders": [
-    "LoreForever_Voice_Female",
-    "LoreForever_Voice_Female_Alliance",
-    "LoreForever_Voice_Female_Horde"
+    "LoreForever_Edition_Densuad_esES_Audio",
+    "LoreForever_Edition_Densuad_esES_Text"
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -12473,7 +12460,7 @@
    ],
    "stars": 2,
    "summary": "All-in-one UI for World of Warcraft: Forever: one clean look, a seamless world map, smart navigation with the World Marker, RestedXP compatibility, voiced quest givers, and frames, nameplates and bars with live designers",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -12835,13 +12822,12 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-03",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
      "repo": "Pingumania/ManiaTip",
      "flavors": [
-      "classic",
       "forever",
       "mainline"
      ]
@@ -17362,7 +17348,7 @@
    ],
    "stars": 1,
    "summary": "A world of warcraft addon that allows a global ignore list and spam filter with a feature for auto blocking people when declined for groups",
-   "updated": "2026-10-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -17497,7 +17483,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -18346,7 +18332,7 @@
    ],
    "stars": 1,
    "summary": "BLU Classic for World of Warcraft Classic.",
-   "updated": "2026-10-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -19058,7 +19044,7 @@
    ],
    "stars": 1,
    "summary": "Pally Power-style Priest buff manager for World of Warcraft Classic",
-   "updated": "2026-10-17",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -20840,7 +20826,7 @@
    ],
    "stars": 1,
    "summary": "A simple and infinite ignore list to block chat from players in World of Warcraft.",
-   "updated": "2026-07-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -20849,6 +20835,7 @@
       "bcc",
       "cata",
       "classic",
+      "forever",
       "mainline",
       "mists",
       "titan",
@@ -22736,7 +22723,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides daily updated Best-in-Slot gear information from Archon.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -22804,7 +22791,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -22838,7 +22825,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -22889,7 +22876,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -22974,7 +22961,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits per dungeon and keystone level for PeaversSplits.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -28161,7 +28148,7 @@
    ],
    "stars": 0,
    "summary": "Raid leader's window for WoW: Forever.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-22",
    "sources": [
     {
      "type": "github",
@@ -28959,6 +28946,23 @@
       "mainline",
       "mists"
      ]
+    }
+   ]
+  },
+  {
+   "name": "Everloot",
+   "category": "qol",
+   "folders": [
+    "Everloot"
+   ],
+   "stars": 0,
+   "summary": "Open data companion for WoW: Forever: an addon that records what players see, and everloot.app, which publishes it. AGPL-3.0 code, CC BY-SA 4.0 data.",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Everloot/everloot",
+     "flavors": []
     }
    ]
   },
@@ -31582,7 +31586,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-20",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -32359,7 +32363,7 @@
    ],
    "stars": 0,
    "summary": "A simple World of Warcraft addon to provide missing world map texture in test server (ptr, xptr, beta) using locale other than enUS and frFR.",
-   "updated": "2026-10-16",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -33472,7 +33476,7 @@
    ],
    "stars": 0,
    "summary": "WoW Mythic+ dashboard addon with tooltips \u2014 companion to mrmythical.com (CurseForge/Wago)",
-   "updated": "2026-10-21",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -33510,7 +33514,7 @@
    ],
    "stars": 0,
    "summary": "In-game neural-net DPS prediction addon \u2014 model trained via SimC-Factory and exported to Lua",
-   "updated": "2026-10-21",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -38691,7 +38695,7 @@
    ],
    "stars": 0,
    "summary": "Profile sync (action bars, macros, keybindings, settings) across same-class characters for WoW: Forever, with backups",
-   "updated": "2026-10-13",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -38828,6 +38832,25 @@
    ]
   },
   {
+   "name": "Magely Forever",
+   "category": "qol",
+   "folders": [
+    "Magely"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Spotnick2/Magely",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "NodeRadar",
    "category": "qol",
    "folders": [
@@ -38854,7 +38877,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -38879,6 +38902,25 @@
      "type": "github",
      "repo": "Spotnick2/TimeIsMoney",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Wildly Forever",
+   "category": "qol",
+   "folders": [
+    "Wildly"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Spotnick2/Wildly",
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -38943,7 +38985,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-11",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -41425,7 +41467,7 @@
    ],
    "stars": 0,
    "summary": "Addon World of Warcraft Forever pour la gestion de raid : presets de groupes pr\u00e9-plac\u00e9s pour les membres de la guilde, ready check (/rc), compatible FR/EN et EllesmereUI.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -44518,7 +44560,7 @@
    ],
    "stars": 0,
    "summary": "Beautiful one-bag inventory with categories, snapshots and smart selling",
-   "updated": "2026-10-20",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -47624,7 +47666,7 @@
    ],
    "stars": 0,
    "summary": "Thin dark borders and flat bars for the default interface in WoW: Forever.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -48659,7 +48701,7 @@
    ],
    "stars": 0,
    "summary": "Blightfall - The Ultimate Death Knight Experience (WoW addon)",
-   "updated": "2026-10-14",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -53866,7 +53908,7 @@
    ],
    "stars": 0,
    "summary": "Addon de WoW de Rebirth Knights: prende el registro de combate avanzado al entrar a una banda",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -56111,7 +56153,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever Terminal add-on. Universal fuzzy-finder style search.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -57362,7 +57404,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -57380,7 +57422,7 @@
    ],
    "stars": 0,
    "summary": "Downloads for Saga and Saga Companion, WoW addons for Forever and Retail that record your character's story, and the optional SagaUploader",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -60302,7 +60344,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever Warlock addon",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
