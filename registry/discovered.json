@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-10-23",
+ "built": "2026-10-24",
  "tier": "discovered",
  "addons": [
   {
@@ -9,7 +9,7 @@
    "folders": [
     "NDui"
    ],
-   "stars": 379,
+   "stars": 378,
    "summary": "NDui for World of Warcraft",
    "updated": "2026-10-22",
    "sources": [
@@ -97,9 +97,9 @@
     "EllesmereUIResourceBars",
     "EllesmereUIUnitFrames"
    ],
-   "stars": 255,
+   "stars": 256,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -255,7 +255,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 149,
+   "stars": 150,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -298,7 +298,7 @@
    ],
    "stars": 100,
    "summary": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -469,7 +469,7 @@
    "folders": [
     "Factoruide_Profile"
    ],
-   "stars": 69,
+   "stars": 71,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
    "updated": "2026-10-20",
    "sources": [
@@ -509,7 +509,7 @@
    "folders": [
     "SpokenQuestsAudio_esES"
    ],
-   "stars": 58,
+   "stars": 59,
    "summary": "Voiced quest dialogue, zone lore and in-world books for World of Warcraft Forever/Classic \u2014 addons, the site behind them, and the pipelines that generate the audio.",
    "updated": "2026-10-20",
    "sources": [
@@ -733,7 +733,7 @@
    ],
    "stars": 44,
    "summary": "RaiderIO AddOn",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -1594,25 +1594,6 @@
    ]
   },
   {
-   "name": "WarpDeplete",
-   "category": "raids",
-   "folders": [
-    "WarpDeplete"
-   ],
-   "stars": 23,
-   "summary": "Mythic+ Timer Addon for World of Warcraft",
-   "updated": "2026-09-10",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "happenslol/WarpDeplete",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Umbra Unit Frames",
    "category": "unitframes",
    "folders": [
@@ -1713,6 +1694,25 @@
      "repo": "Reloe/NorthernSkyRaidTools",
      "flavors": [
       "forever",
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "WarpDeplete",
+   "category": "raids",
+   "folders": [
+    "WarpDeplete"
+   ],
+   "stars": 22,
+   "summary": "Mythic+ Timer Addon for World of Warcraft",
+   "updated": "2026-09-10",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "happenslol/WarpDeplete",
+     "flavors": [
       "mainline"
      ]
     }
@@ -1916,7 +1916,7 @@
    ],
    "stars": 19,
    "summary": "AlterEgo is a World of Warcraft addon to track the Mythic+ progress of all your characters",
-   "updated": "2026-10-15",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -3467,14 +3467,14 @@
    ]
   },
   {
-   "name": "Routine Data",
+   "name": "Routine",
    "category": "qol",
    "folders": [
-    "RoutineData"
+    "MidnightRoutine"
    ],
    "stars": 11,
    "summary": "A world of warcraft todo list",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -4945,6 +4945,23 @@
    ]
   },
   {
+   "name": "Blinkiis_Portraits",
+   "category": "unitframes",
+   "folders": [
+    "Blinkiis_Portraits"
+   ],
+   "stars": 8,
+   "summary": "Add stylized 2D portraits to supported World of Warcraft unit frames with flexible positioning, class icons, overlay textures, and shareable profiles. ",
+   "updated": "2026-10-17",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mBlinkii/Blinkiis-Portraits",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Pixel Perfect Align",
    "category": "libraries",
    "folders": [
@@ -5299,7 +5316,7 @@
    ],
    "stars": 7,
    "summary": "Adds Reagents column to Public Orders so you can see if materials are provided",
-   "updated": "2026-10-19",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -5473,23 +5490,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Blinkiis_Portraits",
-   "category": "unitframes",
-   "folders": [
-    "Blinkiis_Portraits"
-   ],
-   "stars": 7,
-   "summary": "Add stylized 2D portraits to supported World of Warcraft unit frames with flexible positioning, class icons, overlay textures, and shareable profiles. ",
-   "updated": "2026-10-17",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "mBlinkii/Blinkiis-Portraits",
-     "flavors": []
     }
    ]
   },
@@ -6937,6 +6937,31 @@
    ]
   },
   {
+   "name": "LootAppraiser Reloaded",
+   "category": "professions",
+   "folders": [
+    "LootAppraiserReloaded"
+   ],
+   "stars": 5,
+   "summary": "An addon which keeps track of looted items and relative AH value.",
+   "updated": "2026-10-15",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "berickus/LootAppraiserReloaded",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "mainline",
+      "mists",
+      "titan",
+      "wrath"
+     ]
+    }
+   ]
+  },
+  {
    "name": "BagAppraiser",
    "category": "bags",
    "folders": [
@@ -7330,7 +7355,7 @@
    ],
    "stars": 5,
    "summary": "A data library addon for World of Warcraft that provides daily updated talent export codes from parses.gg.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -8534,31 +8559,6 @@
    ]
   },
   {
-   "name": "LootAppraiser Reloaded",
-   "category": "professions",
-   "folders": [
-    "LootAppraiserReloaded"
-   ],
-   "stars": 4,
-   "summary": "An addon which keeps track of looted items and relative AH value.",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "berickus/LootAppraiserReloaded",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ]
-    }
-   ]
-  },
-  {
    "name": "ArtisanFinder",
    "category": "qol",
    "folders": [
@@ -8585,7 +8585,7 @@
    ],
    "stars": 4,
    "summary": "WoW addon for keeping track of the weekly rewards progress accross all your characters.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -11106,7 +11106,7 @@
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -11224,7 +11224,7 @@
    ],
    "stars": 3,
    "summary": "Breakables addon for World of Warcraft",
-   "updated": "2026-08-12",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -11232,6 +11232,7 @@
      "flavors": [
       "bcc",
       "classic",
+      "forever",
       "mainline",
       "mists",
       "titan"
@@ -12478,7 +12479,7 @@
    ],
    "stars": 2,
    "summary": "All-in-one UI for World of Warcraft: Forever: one clean look, a seamless world map, smart navigation with the World Marker, RestedXP compatibility, voiced quest givers, and frames, nameplates and bars with live designers",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -14213,7 +14214,7 @@
    ],
    "stars": 2,
    "summary": "LibIconPicker is a reusable World of Warcraft addon library that provides a flexible and efficient icon chooser dialog for addon developers.",
-   "updated": "2026-10-19",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -14798,6 +14799,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "NpcAbilities",
+   "category": "tooltips",
+   "folders": [
+    "NpcAbilities"
+   ],
+   "stars": 2,
+   "summary": "",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "rubenzantingh/NpcAbilities",
+     "flavors": []
     }
    ]
   },
@@ -16517,7 +16535,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -18471,7 +18489,7 @@
    ],
    "stars": 1,
    "summary": "Modular library for WoW addon development - Fonts, Colors, Textures",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -18907,7 +18925,7 @@
    ],
    "stars": 1,
    "summary": "High Fidelity World Map for World of Warcraft (currently only supported on WoW Forever) Replaces the default paper-style world map art with a satellite-style view stitched from the game's minimap terrain tiles.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -22853,7 +22871,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides daily updated Best-in-Slot gear information from Archon.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -22921,7 +22939,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -22938,7 +22956,7 @@
    ],
    "stars": 1,
    "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -22955,7 +22973,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -23006,7 +23024,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -23091,7 +23109,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits per dungeon and keystone level for PeaversSplits.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -23430,23 +23448,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "NpcAbilities",
-   "category": "tooltips",
-   "folders": [
-    "NpcAbilities"
-   ],
-   "stars": 1,
-   "summary": "",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "rubenzantingh/NpcAbilities",
-     "flavors": []
     }
    ]
   },
@@ -25340,7 +25341,7 @@
    ],
    "stars": 0,
    "summary": "Character stats and gear HUD for WoW Retail and Forever beta, with customizable layouts, profiles and Retail-only Archon references.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -25547,7 +25548,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-09-01",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -28911,7 +28912,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -34581,7 +34582,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -36603,7 +36604,7 @@
    ],
    "stars": 0,
    "summary": "Reference addon demonstrating RGX Framework integration.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -38190,7 +38191,7 @@
    ],
    "stars": 0,
    "summary": "Loot council voting for Retail and WoW Forever raids",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -38248,7 +38249,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "SirEggbert/ctrlmark",
+     "repo": "Lutz-Family/ctrlmark",
      "flavors": []
     }
    ]
@@ -41748,8 +41749,6 @@
    "category": "raids",
    "folders": [
     "WarLegendRaidTool",
-    "WarLegendRaidTool_DoesItDie",
-    "WarLegendRaidTool_Myslot",
     "WarLegendRaidTool_PvP",
     "WarLegendRaidTool_Raid",
     "WarLegendRaidTool_Skyborne"
@@ -48988,7 +48987,7 @@
     "OpenMap"
    ],
    "stars": 0,
-   "summary": "OpenMap \u7b80\u4f53\u4e2d\u6587\u6c49\u5316\u7248\uff1a\u526f\u672c\u5730\u56fe\u540d\u79f0\u4e0e BOSS \u540d\u79f0\u6c49\u5316\uff08\u57fa\u4e8e v0.7.2-beta\uff09",
+   "summary": "OpenMap \u7b80\u4f53\u4e2d\u6587\u6c49\u5316\u7248\uff1a\u526f\u672c\u5730\u56fe\u540d\u79f0\u4e0e BOSS \u540d\u79f0\u6c49\u5316",
    "updated": "2026-10-23",
    "sources": [
     {
@@ -51264,7 +51263,7 @@
    ],
    "stars": 0,
    "summary": "Personal retail fork of the Wayfinder WoW addon (compass banner), tuned to work with Waypoint UI.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -54212,7 +54211,7 @@
    ],
    "stars": 0,
    "summary": "Beginner-friendly WoW Forever spell rotation references and gear stat priorities. Levels 1\u201330, 27 talent trees, native settings, rarity-colour upgrade glows and Need/Greed hints. Written with OpenAI Codex.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -54292,7 +54291,7 @@
    ],
    "stars": 0,
    "summary": "Addon de WoW de Rebirth Knights: prende el registro de combate avanzado al entrar a una banda",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -55835,7 +55834,7 @@
    ],
    "stars": 0,
    "summary": "Seramate PvP Inspect - PvP rating tooltips",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -58308,7 +58307,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -60963,7 +60962,7 @@
    ],
    "stars": 0,
    "summary": "Quality-of-life tools for EllesmereUI on WoW Forever: mage utilities, merchant tools, offline inventory, mail, tooltips and crafting profit.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -61967,7 +61966,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail equipment inspection and recommendations with optional EllesmereUI styling",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
