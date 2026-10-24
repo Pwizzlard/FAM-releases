@@ -298,7 +298,7 @@
    ],
    "stars": 100,
    "summary": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-   "updated": "2026-10-19",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -9109,6 +9109,23 @@
    ]
   },
   {
+   "name": "ForLeiJun",
+   "category": "qol",
+   "folders": [
+    "ForLeiJun"
+   ],
+   "stars": 4,
+   "summary": "\u4e3a\u4e86\u96f7\u83cc\u513f\uff01",
+   "updated": "2026-10-18",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "xiaoyu20062032-ai/forleijun",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Premade Regions",
    "category": "chat",
    "folders": [
@@ -9897,7 +9914,7 @@
    ],
    "stars": 3,
    "summary": "",
-   "updated": "2026-10-19",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -11403,23 +11420,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForLeiJun",
-   "category": "qol",
-   "folders": [
-    "ForLeiJun"
-   ],
-   "stars": 3,
-   "summary": "\u4e3a\u4e86\u96f7\u83cc\u513f\uff01",
-   "updated": "2026-10-18",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "xiaoyu20062032-ai/forleijun",
-     "flavors": []
     }
    ]
   },
@@ -15479,7 +15479,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -16558,7 +16558,7 @@
    ],
    "stars": 1,
    "summary": "WeakAuras-style addon for World of Warcraft: Forever that keeps working in combat despite secret values.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -17547,7 +17547,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -17585,7 +17585,7 @@
    ],
    "stars": 1,
    "summary": "Plugin module for World of Warcraft AddOn: BetterBags that sorts all items that provides \"hearthing\" mechanics",
-   "updated": "2026-08-12",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -17593,6 +17593,7 @@
      "flavors": [
       "bcc",
       "classic",
+      "forever",
       "mainline",
       "mists"
      ]
@@ -22776,7 +22777,7 @@
    ],
    "stars": 1,
    "summary": "A damage meter for World of Warcraft: Midnight, built on Blizzard's official C_DamageMeter API, with an end-of-run scoreboard for Mythic+ and raids.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -25051,7 +25052,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -28571,7 +28572,7 @@
    ],
    "stars": 0,
    "summary": "Retail-style unit frames for WoW Forever, by Webby",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -29247,7 +29248,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-19",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -32639,7 +32640,7 @@
    ],
    "stars": 0,
    "summary": "A world of warcraft addon for Housing",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -34561,7 +34562,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -37845,7 +37846,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-09",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -41755,7 +41756,7 @@
    ],
    "stars": 0,
    "summary": "Addon World of Warcraft Forever pour la gestion de raid : presets de groupes pr\u00e9-plac\u00e9s pour les membres de la guilde, ready check (/rc), compatible FR/EN et EllesmereUI.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -41886,12 +41887,13 @@
    ],
    "stars": 0,
    "summary": "Artistic panels for your World of Warcraft interface: backgrounds, borders, text and scripts. Retail and WoW Forever.",
-   "updated": "2026-09-28",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
      "repo": "WillOli7/nxPanels",
      "flavors": [
+      "bcc",
       "forever",
       "mainline"
      ]
@@ -42075,7 +42077,7 @@
    ],
    "stars": 0,
    "summary": "Transmog collection addon for wow ",
-   "updated": "2026-09-15",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -46223,7 +46225,7 @@
     "PatchTools"
    ],
    "stars": 0,
-   "summary": "Quality-of-life tools for World of Warcraft: Forever",
+   "summary": "Quality-of-life tools for World of Warcraft: Forever and Classic Era. English and German included.",
    "updated": "2026-10-23",
    "sources": [
     {
@@ -46240,7 +46242,7 @@
     "PatchToolsMaps"
    ],
    "stars": 0,
-   "summary": "Optional world map controls for PatchTools",
+   "summary": "Optional map controls for PatchTools on WoW Forever and Classic Era: zoom, move, resize and reveal. English and German included.",
    "updated": "2026-10-23",
    "sources": [
     {
@@ -51980,7 +51982,7 @@
    ],
    "stars": 0,
    "summary": "A lightweight World of Warcraft addon that lets players quickly save, manage, and switch between gear sets to adapt to different roles, specs, and gameplay situations with ease..",
-   "updated": "2026-10-19",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -55439,7 +55441,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -55939,7 +55941,7 @@
    ],
    "stars": 0,
    "summary": "The World of Warcraft mounts you are still missing, ordered from easiest to hardest, with a card explaining how each one is obtained. For Midnight.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -57317,7 +57319,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "sources": [
     {
      "type": "github",
@@ -60783,7 +60785,7 @@
    ],
    "stars": 0,
    "summary": "WoW add-on  for creating macros with fun!",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
