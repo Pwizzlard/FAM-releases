@@ -163,7 +163,7 @@
    "folders": [
     "ElvUI_WindTools"
    ],
-   "stars": 180,
+   "stars": 179,
    "summary": "\ud83d\udcaf Maybe the BEST ElvUI plugin to enhance your WoW experience.",
    "updated": "2026-10-15",
    "sources": [
@@ -208,25 +208,6 @@
    ]
   },
   {
-   "name": "SavedInstances",
-   "category": "raids",
-   "folders": [
-    "SavedInstances"
-   ],
-   "stars": 151,
-   "summary": "Addon that keeps track of the instance/raid lockouts saved against your characters, and related currencies and cooldowns.",
-   "updated": "2026-09-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "SavedInstances/SavedInstances",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Polestar",
    "category": "quests",
    "folders": [
@@ -255,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 150,
+   "stars": 153,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -263,6 +244,25 @@
      "type": "github",
      "repo": "fitzforge/polestar",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "SavedInstances",
+   "category": "raids",
+   "folders": [
+    "SavedInstances"
+   ],
+   "stars": 151,
+   "summary": "Addon that keeps track of the instance/raid lockouts saved against your characters, and related currencies and cooldowns.",
+   "updated": "2026-09-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "SavedInstances/SavedInstances",
+     "flavors": [
+      "mainline"
+     ]
     }
    ]
   },
@@ -389,6 +389,24 @@
    ]
   },
   {
+   "name": "AzerothAdmin",
+   "category": "libraries",
+   "folders": [
+    "AzerothAdmin",
+    "AzerothAdmin_Models"
+   ],
+   "stars": 77,
+   "summary": "AzerothAdmin is an admin panel for AzerothCore. Allows commands to be used from a GUI. Can be helpful for MODS/GMs/ADMINS.",
+   "updated": "2026-07-18",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "superstyro/AzerothAdmin",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "NeatPlates",
    "category": "nameplates",
    "folders": [
@@ -408,7 +426,7 @@
     "NeatPlates_Slim_Horizontal",
     "NeatPlates_Slim_Vertical"
    ],
-   "stars": 77,
+   "stars": 76,
    "summary": "NeatPlates is a continuation of the original Tidy Plates in an attempt to keep it update date in the absence of its authors.",
    "updated": "2025-09-21",
    "sources": [
@@ -427,19 +445,18 @@
    ]
   },
   {
-   "name": "AzerothAdmin",
-   "category": "libraries",
+   "name": "Factoruide_Profile",
+   "category": "quests",
    "folders": [
-    "AzerothAdmin",
-    "AzerothAdmin_Models"
+    "Factoruide_Profile"
    ],
-   "stars": 77,
-   "summary": "AzerothAdmin is an admin panel for AzerothCore. Allows commands to be used from a GUI. Can be helpful for MODS/GMs/ADMINS.",
-   "updated": "2026-07-18",
+   "stars": 73,
+   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
+   "updated": "2026-10-20",
    "sources": [
     {
      "type": "github",
-     "repo": "superstyro/AzerothAdmin",
+     "repo": "brouznouf/factoruide",
      "flavors": []
     }
    ]
@@ -460,23 +477,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Factoruide_Profile",
-   "category": "quests",
-   "folders": [
-    "Factoruide_Profile"
-   ],
-   "stars": 71,
-   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
-   "updated": "2026-10-20",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "brouznouf/factoruide",
-     "flavors": []
     }
    ]
   },
@@ -965,7 +965,7 @@
    ],
    "stars": 33,
    "summary": "WoW Addon - Raid Frames",
-   "updated": "2026-10-15",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -2017,7 +2017,7 @@
    ],
    "stars": 19,
    "summary": "The original Classic look on WoW Forever and Retail.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -10166,7 +10166,7 @@
    ],
    "stars": 3,
    "summary": "Lightweight WoW Forever addon that adds available quest markers to Blizzard\u2019s native world map using automatically generated ATT quest data.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -12324,7 +12324,7 @@
    ],
    "stars": 2,
    "summary": "Fan edit of AzeriteUI5",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -13113,23 +13113,6 @@
    ]
   },
   {
-   "name": "UltimateCastbars",
-   "category": "auras",
-   "folders": [
-    "UltimateCastbars"
-   ],
-   "stars": 2,
-   "summary": "Ultimate Castbar aims to be the last castbar World of Warcraft addon you\u2019ll ever need.",
-   "updated": "2026-03-17",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "SicSo/UltimateCastbars",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Lib: TalentTome",
    "category": "libraries",
    "folders": [
@@ -13209,7 +13192,7 @@
    ],
    "stars": 2,
    "summary": "This library was created to make adding buttons to the world map easier and less dependant on other addons. Using this library will add a button to the top right of the map window from right to left in the order the addo",
-   "updated": "2026-10-03",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -18954,6 +18937,23 @@
    ]
   },
   {
+   "name": "UltimateCastbars",
+   "category": "auras",
+   "folders": [
+    "UltimateCastbars"
+   ],
+   "stars": 1,
+   "summary": "Ultimate Castbar aims to be the last castbar World of Warcraft addon you\u2019ll ever need.",
+   "updated": "2026-03-17",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "SicSo/UltimateCastbars",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Tally",
    "category": "qol",
    "folders": [
@@ -20428,7 +20428,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -26623,7 +26623,7 @@
     "Tessera"
    ],
    "stars": 0,
-   "summary": "Info bars that snap together, for WoW Forever: drag blocks against each other and they merge like mosaic tiles. Matches FlareUI, ElvUI, EllesmereUI. Gold, bags, FPS, Legacy, camping, minimap buttons, DataBroker.",
+   "summary": "Info blocks that snap together, for WoW Forever: drag blocks against each other and they merge like mosaic tiles. Matches FlareUI, ElvUI, EllesmereUI. Gold, bags, FPS, Legacy, camping, minimap buttons, DataBroker.",
    "updated": "2026-10-23",
    "sources": [
     {
@@ -28194,7 +28194,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -30682,7 +30682,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: spell damage on your buttons, DoTs that will kill, stats against what you wear, a combo point sound and a range mark, each switchable",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -33158,41 +33158,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "SpeedrunSplits",
-   "category": "qol",
-   "folders": [
-    "SpeedrunSplits"
-   ],
-   "stars": 0,
-   "summary": "SpeedrunSplits fixed by Poki: /played per level and personal bests for Classic Era and WoW Forever",
-   "updated": "2026-10-21",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Maxkowa/SpeedrunSplits",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "styx",
-   "category": "qol",
-   "folders": [
-    "styx",
-    "styx_mapdots"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-22",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Maxkowa/styx",
-     "flavors": []
     }
    ]
   },
@@ -35734,7 +35699,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -36270,7 +36235,7 @@
    ],
    "stars": 0,
    "summary": "Offline World of Warcraft addon for Quick WoW Talents import strings.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -39645,7 +39610,7 @@
    ],
    "stars": 0,
    "summary": "A lean controller addon for retail World of Warcraft (Midnight, 12.1.5).",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -42076,11 +42041,30 @@
    ],
    "stars": 0,
    "summary": "Transmog collection addon for wow ",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
      "repo": "XalaMental/XalsArmoire",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Xal's Emporium",
+   "category": "collections",
+   "folders": [
+    "XalsEmporium"
+   ],
+   "stars": 0,
+   "summary": "ow housing collection addon",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "XalaMental/XalsEmporium",
      "flavors": [
       "mainline"
      ]
@@ -42400,7 +42384,7 @@
    ],
    "stars": 0,
    "summary": "Builds de talentos para WoW Forever: Talents Forever, Icy Veins y tus enlaces, con actualizacion diaria",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -56159,7 +56143,7 @@
    ],
    "stars": 0,
    "summary": "WoW Classic Hardcore addon that warns solo players about dangerous quests",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -56815,7 +56799,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -60926,7 +60910,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
