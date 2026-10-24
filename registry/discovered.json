@@ -97,7 +97,7 @@
     "EllesmereUIResourceBars",
     "EllesmereUIUnitFrames"
    ],
-   "stars": 256,
+   "stars": 257,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
    "updated": "2026-10-24",
    "sources": [
@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 153,
+   "stars": 157,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -2200,7 +2200,7 @@
    ],
    "stars": 17,
    "summary": "World of Warcraft addon enhancing loot related functionality",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -3857,7 +3857,7 @@
    ],
    "stars": 10,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -8104,7 +8104,7 @@
    ],
    "stars": 4,
    "summary": "",
-   "updated": "2026-10-14",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -10336,7 +10336,7 @@
    ],
    "stars": 3,
    "summary": "",
-   "updated": "2026-08-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -11002,7 +11002,7 @@
    ],
    "stars": 3,
    "summary": "",
-   "updated": "2026-10-17",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -15948,6 +15948,23 @@
    ]
   },
   {
+   "name": "CombatCues",
+   "category": "qol",
+   "folders": [
+    "CombatCues"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Claypaenguin/Combat-Cues",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "DirectDeposit",
    "category": "bags",
    "folders": [
@@ -16850,7 +16867,7 @@
    ],
    "stars": 1,
    "summary": "Teams-style whisper messenger. Left pane lists your conversations, right pane shows the open thread.",
-   "updated": "2026-10-19",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -16972,7 +16989,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -19725,7 +19742,7 @@
    ],
    "stars": 1,
    "summary": "Little Warlock games for WoW: Forever - in the browser and as an addon",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -19742,7 +19759,7 @@
    ],
    "stars": 1,
    "summary": "In-game Addon of the Warlock Sim",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -19883,7 +19900,7 @@
    ],
    "stars": 1,
    "summary": "A small window that displays the total current armour durability.",
-   "updated": "2026-10-13",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -19935,7 +19952,7 @@
    ],
    "stars": 1,
    "summary": "Know exactly how far you are from the title. A World of Warcraft addon with live Mythic+ rating cutoffs for the top 0.1% title and every percentile bracket, updated daily.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -19954,7 +19971,7 @@
    ],
    "stars": 1,
    "summary": "See what the best Mythic+ groups are actually playing. A World of Warcraft addon that shows how often each specialization appears in top-ranked Mythic+ runs, updated daily.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -20455,6 +20472,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "PulseHaptics",
+   "category": "ui",
+   "folders": [
+    "PulseHaptics"
+   ],
+   "stars": 1,
+   "summary": "World of Warcraft addon suite turning in-game events into controller vibration",
+   "updated": "2026-10-18",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "codingdoctorbot/PulseSensation",
+     "flavors": []
     }
    ]
   },
@@ -25434,7 +25468,7 @@
    ],
    "stars": 0,
    "summary": "Convenience for Blizzard's built-in Damage Meter: hover details, a right-click menu, extra windows, snapping and readable numbers. No parsing of its own.",
-   "updated": "2026-10-11",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -26541,7 +26575,7 @@
    ],
    "stars": 0,
    "summary": "In-game addon for World of Warcraft: Forever \u2014 talent guides, a dungeon quest panel beside the group finder, and character export for wowforeverbuilds.com",
-   "updated": "2026-10-05",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -27484,23 +27518,6 @@
       "forever",
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "CombatCues",
-   "category": "qol",
-   "folders": [
-    "CombatCues"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Claypaenguin/Combat-Cues",
-     "flavors": []
     }
    ]
   },
@@ -29100,23 +29117,6 @@
    ]
   },
   {
-   "name": "Everloot",
-   "category": "qol",
-   "folders": [
-    "Everloot"
-   ],
-   "stars": 0,
-   "summary": "Open data companion for WoW: Forever: an addon that records what players see, and everloot.app, which publishes it. AGPL-3.0 code, CC BY-SA 4.0 data.",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Everloot/everloot",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "RareScanner_EllesmereUI",
    "category": "ui",
    "folders": [
@@ -29162,7 +29162,7 @@
    ],
    "stars": 0,
    "summary": "Lightweight mouseover tooltip: item level, Mythic+ rating, mount, target and quest progress, with the lowest CPU and memory cost.",
-   "updated": "2026-10-14",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -31953,7 +31953,7 @@
    ],
    "stars": 0,
    "summary": "Adds ranked PvP ratings, personal bests and season stats to player tooltips. Hover any player to see 2v2/3v3/Shuffle/RBG/Blitz ratings instantly \u2014 no clicks, no website. Updated frequently.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -33744,7 +33744,7 @@
    ],
    "stars": 0,
    "summary": "Addon f\u00fcr Holy Storm",
-   "updated": "2026-10-04",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -34427,7 +34427,7 @@
    ],
    "stars": 0,
    "summary": "Warband Ratings makes it easy to track all your characters\u2019 ratings",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -40551,7 +40551,7 @@
    ],
    "stars": 0,
    "summary": "A small companion addon for WoW Forever that fills the gaps around an EllesmereUI setup, and makes it easy to share your addon setup with friends.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -43123,7 +43123,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -49437,7 +49437,7 @@
    ],
    "stars": 0,
    "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -51097,7 +51097,7 @@
    ],
    "stars": 0,
    "summary": "A World of Warcraft addon that opens a clickable list when there are mounts, toys, battle pets, or housing decor items in your bags or bank that you can learn.",
-   "updated": "2026-10-15",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -53402,7 +53402,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-15",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -55979,7 +55979,7 @@
    ],
    "stars": 0,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -57302,7 +57302,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -60459,7 +60459,7 @@
    ],
    "stars": 0,
    "summary": "A World of Warcraft quality-of-life addon (retail)",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
