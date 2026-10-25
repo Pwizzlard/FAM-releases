@@ -99,7 +99,7 @@
    ],
    "stars": 257,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -450,7 +450,7 @@
    "folders": [
     "Factoruide_Profile"
    ],
-   "stars": 74,
+   "stars": 75,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
    "updated": "2026-10-20",
    "sources": [
@@ -624,7 +624,7 @@
    ],
    "stars": 50,
    "summary": "The best roleplaying add-on for World of Warcraft.",
-   "updated": "2026-10-16",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -763,25 +763,6 @@
    ]
   },
   {
-   "name": "SUI",
-   "category": "ui",
-   "folders": [
-    "SUI"
-   ],
-   "stars": 43,
-   "summary": "SUI - The Dark Side of World of Warcraft",
-   "updated": "2025-03-04",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Syiana/SUI",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "idTip",
    "category": "auras",
    "folders": [
@@ -801,6 +782,25 @@
       "mainline",
       "mists",
       "titan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "SUI",
+   "category": "ui",
+   "folders": [
+    "SUI"
+   ],
+   "stars": 42,
+   "summary": "SUI - The Dark Side of World of Warcraft",
+   "updated": "2025-03-04",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Syiana/SUI",
+     "flavors": [
+      "mainline"
      ]
     }
    ]
@@ -3467,10 +3467,10 @@
    ]
   },
   {
-   "name": "Routine",
+   "name": "Routine Data",
    "category": "qol",
    "folders": [
-    "MidnightRoutine"
+    "RoutineData"
    ],
    "stars": 11,
    "summary": "A world of warcraft todo list",
@@ -3642,6 +3642,27 @@
     {
      "type": "github",
      "repo": "mantaskazlauskas/ChattyLittleNpc",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ForeverAuras",
+   "category": "auras",
+   "folders": [
+    "ForeverAuras",
+    "ForeverAurasArchive",
+    "ForeverAurasModelPaths",
+    "ForeverAurasOptions",
+    "ForeverAurasTemplates"
+   ],
+   "stars": 11,
+   "summary": "WoW Forever Addon",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "neroxrw/foreverauras",
      "flavors": []
     }
    ]
@@ -4036,27 +4057,6 @@
       "mainline",
       "mists"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForeverAuras",
-   "category": "auras",
-   "folders": [
-    "ForeverAuras",
-    "ForeverAurasArchive",
-    "ForeverAurasModelPaths",
-    "ForeverAurasOptions",
-    "ForeverAurasTemplates"
-   ],
-   "stars": 10,
-   "summary": "WoW Forever Addon",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "neroxrw/foreverauras",
-     "flavors": []
     }
    ]
   },
@@ -7355,7 +7355,7 @@
    ],
    "stars": 5,
    "summary": "A data library addon for World of Warcraft that provides daily updated talent export codes from parses.gg.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -9010,7 +9010,7 @@
    ],
    "stars": 4,
    "summary": "WoW Retail addon. Automatically restores your lost companion pet or/and periodically auto-summons a new one from a configurable pool. Can be set to work globally (same pet(s) for all alts), or per char.",
-   "updated": "2026-09-17",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -12356,6 +12356,25 @@
    ]
   },
   {
+   "name": "NexEnhance",
+   "category": "bags",
+   "folders": [
+    "NexEnhance"
+   ],
+   "stars": 2,
+   "summary": "NexEnhance supercharges the stock World of Warcraft interface without throwing it away. Instead of replacing Blizzard's UI with a heavy custom skin, it layers dozens of small, opt-in modules on top of the default frames ",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Kkthnx-Wow/NexEnhance",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "NodeSight",
    "category": "professions",
    "folders": [
@@ -14511,6 +14530,23 @@
    ]
   },
   {
+   "name": "ImprovedForever_Wiki",
+   "category": "qol",
+   "folders": [
+    "ImprovedForever_Wiki"
+   ],
+   "stars": 2,
+   "summary": "WoW Forever addon: quality-of-life tweaks for playing with a gamepad (wheels, touchpad, vibration, button overrides)",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "markgravity/ImprovedForever",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Encounter Planner",
    "category": "raids",
    "folders": [
@@ -16026,7 +16062,7 @@
    ],
    "stars": 1,
    "summary": "Solex's Collection of raid utilities",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -17582,7 +17618,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -19678,7 +19714,7 @@
    ],
    "stars": 1,
    "summary": "Unit Frame for WoW Retail 12.0+",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -22314,23 +22350,6 @@
    ]
   },
   {
-   "name": "ImprovedForever_Wiki",
-   "category": "qol",
-   "folders": [
-    "ImprovedForever_Wiki"
-   ],
-   "stars": 1,
-   "summary": "WoW Forever addon: quality-of-life tweaks for playing with a gamepad (wheels, touchpad, vibration, button overrides)",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "markgravity/ImprovedForever",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "WowSimsGearHelper",
    "category": "qol",
    "folders": [
@@ -22939,7 +22958,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides daily updated Best-in-Slot gear information from Archon.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -23092,7 +23111,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -23177,7 +23196,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits per dungeon and keystone level for PeaversSplits.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -25465,7 +25484,7 @@
    ],
    "stars": 0,
    "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -33737,7 +33756,7 @@
    ],
    "stars": 0,
    "summary": "WoW Mythic+ dashboard addon with tooltips \u2014 companion to mrmythical.com (CurseForge/Wago)",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -33775,7 +33794,7 @@
    ],
    "stars": 0,
    "summary": "In-game neural-net DPS prediction addon \u2014 model trained via SimC-Factory and exported to Lua",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -39361,7 +39380,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -52365,7 +52384,7 @@
   },
   {
    "name": "HandyNotes: Wrath of the Lich King",
-   "category": "maps",
+   "category": "qol",
    "folders": [
     "HandyNotes_WrathOfTheLichKing"
    ],
@@ -52457,7 +52476,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-17",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -53035,7 +53054,7 @@
    ],
    "stars": 0,
    "summary": "LFG filter addon for wow",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -55899,7 +55918,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -56087,7 +56106,7 @@
    ],
    "stars": 0,
    "summary": "Addon for managing alts in WoW",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -60120,7 +60139,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "swirladdons/swirluicore",
+     "repo": "swirladdons/swirlui",
      "flavors": [
       "mainline"
      ]
@@ -61425,7 +61444,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
