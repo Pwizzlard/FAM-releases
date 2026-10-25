@@ -97,7 +97,7 @@
     "EllesmereUIResourceBars",
     "EllesmereUIUnitFrames"
    ],
-   "stars": 257,
+   "stars": 258,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
    "updated": "2026-10-25",
    "sources": [
@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 158,
+   "stars": 159,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -733,7 +733,7 @@
    ],
    "stars": 44,
    "summary": "RaiderIO AddOn",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -1601,7 +1601,7 @@
    ],
    "stars": 23,
    "summary": "Modern unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames. Class-colored edges, rectangular portraits, and a clean, focused layout.",
-   "updated": "2026-10-02",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -5501,18 +5501,17 @@
    ],
    "stars": 7,
    "summary": "World of Warcraft addon to take screenshots at specific events",
-   "updated": "2025-08-11",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "martinbjeldbak/Shotta",
      "flavors": [
       "bcc",
-      "cata",
       "classic",
+      "forever",
       "mainline",
-      "mists",
-      "wrath"
+      "mists"
      ]
     }
    ]
@@ -11919,7 +11918,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -13700,7 +13699,7 @@
    ],
    "stars": 2,
    "summary": "World of Warcraft addon suite turning in-game events into controller vibration",
-   "updated": "2026-10-18",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -20498,7 +20497,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -28285,7 +28284,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -31395,13 +31394,13 @@
   },
   {
    "name": "CustomNames",
-   "category": "libraries",
+   "category": "qol",
    "folders": [
     "CustomNames"
    ],
    "stars": 0,
    "summary": "WoW Addon that allows for the management and setup of Custom Nicknames for other players",
-   "updated": "2026-10-15",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -31463,13 +31462,18 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-03-25",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "Jods-GH/CustomNames_Guild",
      "flavors": [
-      "mainline"
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "titan"
      ]
     }
    ]
@@ -33594,7 +33598,7 @@
    ],
    "stars": 0,
    "summary": "Wow addon",
-   "updated": "2026-10-18",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -33614,7 +33618,7 @@
    ],
    "stars": 0,
    "summary": "A package of custom glows that are consumed by LibOrbitGlow.",
-   "updated": "2026-10-05",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -33634,7 +33638,7 @@
    ],
    "stars": 0,
    "summary": "Orbit: Portal gives quick access to your character's portals, favorites and travel items.",
-   "updated": "2026-10-18",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -33871,7 +33875,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -36414,7 +36418,7 @@
    ],
    "stars": 0,
    "summary": "Offline World of Warcraft addon for Quick WoW Talents import strings.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -37200,7 +37204,7 @@
    ],
    "stars": 0,
    "summary": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043e\u0437\u0432\u0443\u0447\u043a\u0430 \u043a\u0432\u0435\u0441\u0442\u043e\u0432 \u0434\u043b\u044f WoW Classic Era: 2267 \u043a\u0432\u0435\u0441\u0442\u043e\u0432, \u043c\u043e\u0434\u0443\u043b\u044c \u0434\u043b\u044f VoiceOver. \u041e\u0437\u0432\u0443\u0447\u043a\u0430 \u2014 CatQuest Voices (Cathey), CC BY-NC-SA 4.0.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -38335,7 +38339,7 @@
    ],
    "stars": 0,
    "summary": "Loot council voting for Retail and WoW Forever raids",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -39680,6 +39684,23 @@
    ]
   },
   {
+   "name": "GuildSheet",
+   "category": "chat",
+   "folders": [
+    "GuildSheet"
+   ],
+   "stars": 0,
+   "summary": "WoW Forever addon + helper that keeps your guild's Google Sheet up to date (roster, professions, guild bank)",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Swochz/GuildSheet",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "CozyFire",
    "category": "auras",
    "folders": [
@@ -39793,7 +39814,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "Taidana94/GoldCompass",
+     "repo": "Taidana94/Coinwise",
      "flavors": []
     }
    ]
@@ -41916,7 +41937,7 @@
    ],
    "stars": 0,
    "summary": "Addon World of Warcraft Forever pour la gestion de raid : presets de groupes pr\u00e9-plac\u00e9s pour les membres de la guilde, ready check (/rc), compatible FR/EN et EllesmereUI.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -42036,19 +42057,22 @@
    ]
   },
   {
-   "name": "AzerothSignature",
+   "name": "Azeroth Signature",
    "category": "chat",
    "folders": [
     "AzerothSignature"
    ],
    "stars": 0,
    "summary": "A lightweight World of Warcraft addon that adds customizable prefixes to chat messages.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "WickedHanschen/AzerothSignature",
-     "flavors": []
+     "flavors": [
+      "forever",
+      "mainline"
+     ]
     }
    ]
   },
@@ -42060,7 +42084,7 @@
    ],
    "stars": 0,
    "summary": "The emote soundboard for your roleplay",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -42118,6 +42142,44 @@
    ]
   },
   {
+   "name": "Geardon",
+   "category": "bags",
+   "folders": [
+    "Geardon"
+   ],
+   "stars": 0,
+   "summary": "Item level for World of Warcraft: Forever. Every slot, bags, bank, loot and rewards with upgrade arrows, tooltip compare, inspect and group overview.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "WoW-Forever-Addons/geardon",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Luredon",
+   "category": "unitframes",
+   "folders": [
+    "Luredon"
+   ],
+   "stars": 0,
+   "summary": "Fishing helper for World of Warcraft: Forever. Double-click casting, automatic lures, louder splash, gear swap, catch stats and skill check per zone.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "WoW-Forever-Addons/luredon",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Questdon",
    "category": "quests",
    "folders": [
@@ -42125,12 +42187,13 @@
    ],
    "stars": 0,
    "summary": "Quest helper for World of Warcraft: Forever. Available quests and quest mobs on the map, direction arrow, auto accept and turn-in, best reward, XP bar and planner. Works alongside Questie.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "WoW-Forever-Addons/questdon",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -46340,7 +46403,7 @@
    ],
    "stars": 0,
    "summary": "Shows three buttons that display the cheapest items in your inventory in WoW: Classic.",
-   "updated": "2026-09-20",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -50240,7 +50303,7 @@
    ],
    "stars": 0,
    "summary": "The Gold Forever addon for WoW: Forever (source-available, all rights reserved)",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -51067,7 +51130,7 @@
    ],
    "stars": 0,
    "summary": "Mythic+ Warcraft Logs DPS/HPS profiles for WoW group recruitment, with a Windows Companion. Discuss the addon on Discord: https://discord.gg/URUukHCUW",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -52134,6 +52197,23 @@
    ]
   },
   {
+   "name": "HearthstoneToysContinued",
+   "category": "collections",
+   "folders": [
+    "HearthstoneToysContinued"
+   ],
+   "stars": 0,
+   "summary": "A World of Warcraft Retail addon for managing hearthstones, teleport toys and spells, with random selection, cooldown displays and customisable buttons. Continued from Gerlock\u2019s Hearthstone Toys.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "justwes/HearthstoneToysContinued",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Wizard Buff",
    "category": "auras",
    "folders": [
@@ -52965,7 +53045,7 @@
    ],
    "stars": 0,
    "summary": "Modifies the target frame to have some additional profile info.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -57315,7 +57395,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
