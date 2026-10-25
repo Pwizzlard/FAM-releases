@@ -31,7 +31,7 @@
    ],
    "stars": 362,
    "summary": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs ",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -450,7 +450,7 @@
    "folders": [
     "Factoruide_Profile"
    ],
-   "stars": 75,
+   "stars": 76,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
    "updated": "2026-10-20",
    "sources": [
@@ -1935,7 +1935,7 @@
    ],
    "stars": 19,
    "summary": "Twintop's Resource Bar (formerly Twintop's Insanity Bar), a multi-class resource addon for World of Warcraft",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -4467,7 +4467,7 @@
    ],
    "stars": 9,
    "summary": "mMediaTag is a plugin for ElvUI with additional Textures, Chatbackgrounds, Tags for the Unitframes, Datatext and more.",
-   "updated": "2026-10-15",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -7487,7 +7487,7 @@
    ],
    "stars": 5,
    "summary": "Track missing buffs at a glance",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -11834,7 +11834,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -12323,7 +12323,7 @@
    ],
    "stars": 2,
    "summary": "Fan edit of AzeriteUI5",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -20004,7 +20004,7 @@
    ],
    "stars": 1,
    "summary": "Know exactly how far you are from the title. A World of Warcraft addon with live Mythic+ rating cutoffs for the top 0.1% title and every percentile bracket, updated daily.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -21183,12 +21183,12 @@
   },
   {
    "name": "Carpenter",
-   "category": "quests",
+   "category": "maps",
    "folders": [
     "Carpenter"
    ],
    "stars": 1,
-   "summary": "Experience the game how it was meant to be, plus some minor improvements.",
+   "summary": "Quality-of-life cleanup for Blizzard's UI, including Chat Cleaner, Class Colored Health, World Map Cleanup, Consumable Macros and more.",
    "updated": "2026-10-23",
    "sources": [
     {
@@ -21210,7 +21210,7 @@
     "StoryMode"
    ],
    "stars": 1,
-   "summary": "A quest story companion that helps you discover, follow, and understand WoW's storylines.",
+   "summary": "Azeroth's best quest chains as guided adventures you can actually follow. A World of Warcraft addon for Classic Era, Burning Crusade Classic and Retail.",
    "updated": "2026-10-14",
    "sources": [
     {
@@ -23526,7 +23526,7 @@
    ],
    "stars": 1,
    "summary": "WoW addon that gives an ingame overview of know secrets",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -30569,7 +30569,7 @@
    ],
    "stars": 0,
    "summary": "A free World of Warcraft addon that explains why, not just what: weekly planning, Great Vault advice, Delves coaching, a beginner professions course and a class keybind coach. Seven languages built in, no dependencies.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -31394,7 +31394,7 @@
   },
   {
    "name": "CustomNames",
-   "category": "qol",
+   "category": "libraries",
    "folders": [
     "CustomNames"
    ],
@@ -32082,7 +32082,7 @@
    ],
    "stars": 0,
    "summary": "Adds ranked PvP ratings, personal bests and season stats to player tooltips. Hover any player to see 2v2/3v3/Shuffle/RBG/Blitz ratings instantly \u2014 no clicks, no website. Updated frequently.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -42700,7 +42700,7 @@
    ],
    "stars": 0,
    "summary": "Builds de talentos para WoW Forever: Talents Forever, Icy Veins y tus enlaces, con actualizacion diaria",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -45745,6 +45745,25 @@
      "type": "github",
      "repo": "bssdmnc/roll-window-mover-forever",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "FadeUI",
+   "category": "ui",
+   "folders": [
+    "FadeUI"
+   ],
+   "stars": 0,
+   "summary": "WoW Addon for hiding UI elements similar to Alt-Z",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "bstotmeister/fadeui",
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -49770,7 +49789,7 @@
    ],
    "stars": 0,
    "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -50343,12 +50362,13 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft chat style addon",
-   "updated": "2026-10-18",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "goobyspace/ChitChat",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -52726,7 +52746,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -61383,7 +61403,7 @@
    ],
    "stars": 0,
    "summary": "WoW add-on  for creating macros with fun!",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -61400,7 +61420,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever Warlock addon",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -62718,7 +62738,7 @@
    ],
    "stars": 0,
    "summary": "Feature-completion addon for the BiaoGe auction spreadsheet (BGLite Pure Edition) / \u91d1\u56e2\u8868\u683c BGLite \u7eaf\u51c0\u7248\u529f\u80fd\u8865\u5168\u63d2\u4ef6",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
