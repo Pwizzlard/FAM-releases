@@ -31,7 +31,7 @@
    ],
    "stars": 362,
    "summary": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs ",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 157,
+   "stars": 158,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -450,7 +450,7 @@
    "folders": [
     "Factoruide_Profile"
    ],
-   "stars": 73,
+   "stars": 74,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
    "updated": "2026-10-20",
    "sources": [
@@ -1252,7 +1252,7 @@
    ],
    "stars": 28,
    "summary": "World of Warcraft addon to find rare mobs",
-   "updated": "2026-10-19",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -2453,7 +2453,7 @@
    ],
    "stars": 16,
    "summary": "Achievement Filter completely replaces the default Achievements tab and adds several tabs to the Achievement Window that order the achievements by expansion, pvp, events or other curated lists.",
-   "updated": "2026-10-14",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -2580,7 +2580,7 @@
    ],
    "stars": 15,
    "summary": "Track your profession knowledge across your characters",
-   "updated": "2026-10-15",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -3042,7 +3042,7 @@
    ],
    "stars": 13,
    "summary": "A collection of module to display informations about own character, friends, guild and more on minimap or panel addons like Bazooka, ChcolateBar, TitanPanel and more.",
-   "updated": "2026-10-18",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -3637,7 +3637,7 @@
    ],
    "stars": 11,
    "summary": "Lua addon for playing quest sounds in natural AI voice.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -4496,7 +4496,7 @@
    ],
    "stars": 9,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -4991,7 +4991,7 @@
    ],
    "stars": 8,
    "summary": "Adds a custom panel for easy add-on management.",
-   "updated": "2026-10-16",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -6343,7 +6343,7 @@
    ],
    "stars": 6,
    "summary": "Addon makes it possible to sort mounts on waterfowl, flying, ground and allows to use in suitable conditions (random mount summoning).",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -6797,7 +6797,7 @@
    ],
    "stars": 5,
    "summary": "Merchant Frame Extended is a small addon that lets you extend the default 5 rows, 2 columns merchant frame up to 10 rows and 6 columns. The direction in which the items fill the window is also adjustable.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -8434,6 +8434,25 @@
    ]
   },
   {
+   "name": "DoesItDie",
+   "category": "qol",
+   "folders": [
+    "DoesItDie"
+   ],
+   "stars": 4,
+   "summary": "WoW Forever addon: marks remaining DoT damage on the target's health bar and shows a skull when your DoTs will finish it off.",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "swirllyman/DoesItDie",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "LootRollMover",
    "category": "ui",
    "folders": [
@@ -8979,25 +8998,6 @@
      "repo": "solocommand/Scoreboard",
      "flavors": [
       "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "DoesItDie",
-   "category": "qol",
-   "folders": [
-    "DoesItDie"
-   ],
-   "stars": 4,
-   "summary": "WoW Forever addon: marks remaining DoT damage on the target's health bar and shows a skull when your DoTs will finish it off.",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "swirllyman/DoesItDie",
-     "flavors": [
-      "forever"
      ]
     }
    ]
@@ -12316,7 +12316,7 @@
    ]
   },
   {
-   "name": "Azerite UI 5.32 JuNNeZ Edition",
+   "name": "Azerite UI 5.34 JuNNeZ Edition",
    "category": "ui",
    "folders": [
     "AzeriteUI5_JuNNeZ_Edition",
@@ -12352,6 +12352,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "NodeSight",
+   "category": "professions",
+   "folders": [
+    "NodeSight"
+   ],
+   "stars": 2,
+   "summary": "See what every herb and ore on your minimap is, and make the ones near you sparkle. WoW Forever addon",
+   "updated": "2026-10-20",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Krelock/NodeSight",
+     "flavors": []
     }
    ]
   },
@@ -13607,7 +13624,7 @@
    ],
    "stars": 2,
    "summary": "The fastest way anywhere in WoW: Forever: walks, flight paths, boats, zeppelins, lifts, the tram and portals, guided turn by turn",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -13653,6 +13670,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "PulseHaptics",
+   "category": "ui",
+   "folders": [
+    "PulseHaptics"
+   ],
+   "stars": 2,
+   "summary": "World of Warcraft addon suite turning in-game events into controller vibration",
+   "updated": "2026-10-18",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "codingdoctorbot/PulseSensation",
+     "flavors": []
     }
    ]
   },
@@ -15480,7 +15514,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -16807,7 +16841,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -17067,23 +17101,6 @@
     {
      "type": "github",
      "repo": "KonigTX/Livery",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "NodeSight",
-   "category": "professions",
-   "folders": [
-    "NodeSight"
-   ],
-   "stars": 1,
-   "summary": "See what every herb and ore on your minimap is, and make the ones near you sparkle. WoW Forever addon",
-   "updated": "2026-10-20",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Krelock/NodeSight",
      "flavors": []
     }
    ]
@@ -20104,7 +20121,7 @@
    ],
    "stars": 1,
    "summary": "A modernised roleplaying addon for WoW: Forever",
-   "updated": "2026-10-19",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -20472,23 +20489,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "PulseHaptics",
-   "category": "ui",
-   "folders": [
-    "PulseHaptics"
-   ],
-   "stars": 1,
-   "summary": "World of Warcraft addon suite turning in-game events into controller vibration",
-   "updated": "2026-10-18",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "codingdoctorbot/PulseSensation",
-     "flavors": []
     }
    ]
   },
@@ -22278,6 +22278,23 @@
    ]
   },
   {
+   "name": "ChattyLittleNpc_Vanilla_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Vanilla_voiceovers"
+   ],
+   "stars": 1,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Vanilla WoW",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Vanilla-Voiceovers",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "RetTwistHUD",
    "category": "ui",
    "folders": [
@@ -22822,6 +22839,23 @@
    ]
   },
   {
+   "name": "EUIAddonSkins",
+   "category": "ui",
+   "folders": [
+    "EUIAddonSkins"
+   ],
+   "stars": 1,
+   "summary": "Optional skins for World of Warcraft addons, matching EllesmereUI themes, fonts and accents.",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "oopsie-glitch/EUI-AddonSkins",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Rocket Meter",
    "category": "combat",
    "folders": [
@@ -22848,7 +22882,7 @@
    ],
    "stars": 1,
    "summary": "Presets that tie specialization, talents, gear and appearance together \u2014 switch all four with one click. For World of Warcraft: Midnight.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -24091,7 +24125,7 @@
    ],
    "stars": 1,
    "summary": "A standalone replacement for the World of Warcraft objective tracker. The tracker half of Everything Quests, extracted so you can use just the tracker.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -24149,7 +24183,7 @@
    ],
    "stars": 1,
    "summary": "An ultra-lightweight (350KB) loot and combat text manager for World of Warcraft.",
-   "updated": "2026-10-17",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -24235,7 +24269,7 @@
    ],
    "stars": 1,
    "summary": "A World of Warcraft addon that keeps a permanent history of your PvP matches: arena, Solo Shuffle, Blitz, battlegrounds and duels, with everyone who played in them.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -25307,6 +25341,26 @@
       "mainline",
       "mists",
       "wrath"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pandy Guild Management",
+   "category": "chat",
+   "folders": [
+    "PandyGuildManagement"
+   ],
+   "stars": 0,
+   "summary": "World of Warcraft Guild Management Addon",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "AndyPandyTX/PandyGuildManagement",
+     "flavors": [
+      "forever",
+      "mainline"
      ]
     }
    ]
@@ -29141,7 +29195,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: a trainer-style window on level-up showing your gains and the class skills you can now buy",
-   "updated": "2026-10-07",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -30113,6 +30167,57 @@
    ]
   },
   {
+   "name": "ECProbe",
+   "category": "libraries",
+   "folders": [
+    "ECProbe"
+   ],
+   "stars": 0,
+   "summary": "Azeroth Survivors addon dev tool: explore the game\u2019s addon API (globals, tables, UI frames).",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Hearts47/ECProbe",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "EnemyCounter",
+   "category": "maps",
+   "folders": [
+    "EnemyCounter"
+   ],
+   "stars": 0,
+   "summary": "Azeroth Survivors addon: shows how many enemies are alive on the map.",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Hearts47/EnemyCounter",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "RunPace",
+   "category": "raids",
+   "folders": [
+    "RunPace"
+   ],
+   "stars": 0,
+   "summary": "Azeroth Survivors addon: kills/min and XP/min tracker with low-HP, enemy-count and boss alerts.",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Hearts47/RunPace",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Todo Tracker",
    "category": "qol",
    "folders": [
@@ -30445,7 +30550,7 @@
    ],
    "stars": 0,
    "summary": "A free World of Warcraft addon that explains why, not just what: weekly planning, Great Vault advice, Delves coaching, a beginner professions course and a class keybind coach. Seven languages built in, no dependencies.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -31520,7 +31625,7 @@
    ],
    "stars": 0,
    "summary": "Manual buff/cooldown timer tracking for WoW Midnight",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -32723,6 +32828,40 @@
    ]
   },
   {
+   "name": "CtrlMarks",
+   "category": "qol",
+   "folders": [
+    "CtrlMarks"
+   ],
+   "stars": 0,
+   "summary": "ctrlmark, a small World of Warcraft marking addon from Makers Shack. Source only. Family vault stays out.",
+   "updated": "2026-10-09",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Lutz-Family/ctrlmark",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "LuzennaForever",
+   "category": "qol",
+   "folders": [
+    "LuzennaForever"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Luzenna/wowaddon-LuzennaForever",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Only Rejects Guild Addon",
    "category": "chat",
    "folders": [
@@ -33331,7 +33470,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft addon for improving data and analytics around all things crafting.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -34046,7 +34185,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-20",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -34656,25 +34795,6 @@
     {
      "type": "github",
      "repo": "NintendoLink07/CurrencySearch",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "RepSearch",
-   "category": "qol",
-   "folders": [
-    "RepSearch"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2024-10-24",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "NintendoLink07/RepSearch",
      "flavors": [
       "mainline"
      ]
@@ -35414,7 +35534,7 @@
    ],
    "stars": 0,
    "summary": "Addon for the Spectrum Federation - Garona Guild",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -36039,6 +36159,45 @@
     {
      "type": "github",
      "repo": "PlemonsBrett/FieldJournal",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "SpeedrunSplits",
+   "category": "qol",
+   "folders": [
+    "SpeedrunSplits"
+   ],
+   "stars": 0,
+   "summary": "SpeedrunSplits fixed by Poki: /played per level and personal bests for Classic Era and WoW Forever",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Pokixdd/SpeedrunSplits",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "styx",
+   "category": "qol",
+   "folders": [
+    "styx",
+    "styx_inspect",
+    "styx_mapdots",
+    "styx_professions",
+    "styx_raidplanner",
+    "styx_soundboard"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Pokixdd/styx",
      "flavors": []
     }
    ]
@@ -38203,23 +38362,6 @@
    ]
   },
   {
-   "name": "CtrlMarks",
-   "category": "qol",
-   "folders": [
-    "CtrlMarks"
-   ],
-   "stars": 0,
-   "summary": "ctrlmark, a small World of Warcraft marking addon from Makers Shack. Source only. Family vault stays out.",
-   "updated": "2026-10-09",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Lutz-Family/ctrlmark",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Grid2 TrailOfLight",
    "category": "unitframes",
    "folders": [
@@ -38528,6 +38670,23 @@
     {
      "type": "github",
      "repo": "SnowMewKat/wow-farmmap",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "SpellClarity",
+   "category": "qol",
+   "folders": [
+    "SpellClarity"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Snuffsis/SpellClarity",
      "flavors": []
     }
    ]
@@ -39599,6 +39758,23 @@
       "mainline",
       "wrath"
      ]
+    }
+   ]
+  },
+  {
+   "name": "GoldCompass",
+   "category": "economy",
+   "folders": [
+    "GoldCompass"
+   ],
+   "stars": 0,
+   "summary": "Gold Compass (Goldkompass) \u2013 WoW-Addon: wie du in deiner Zeit am meisten Gold machst und Items am g\u00fcnstigsten bekommst. Getestet in WoW Classic Era, nicht in Forever getestet.",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Taidana94/GoldCompass",
+     "flavors": []
     }
    ]
   },
@@ -41823,6 +41999,63 @@
    ]
   },
   {
+   "name": "BagSmuggler",
+   "category": "bags",
+   "folders": [
+    "BagSmuggler"
+   ],
+   "stars": 0,
+   "summary": "All-in-one bag addon for WoW TBC Classic Anniversary & WoW Forever: one big bag with auto categories, smart search, merged stacks, bank anywhere and alt inventories.",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "WhiteKnight1800/BagSmuggler",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "AzerothSignature",
+   "category": "chat",
+   "folders": [
+    "AzerothSignature"
+   ],
+   "stars": 0,
+   "summary": "A lightweight World of Warcraft addon that adds customizable prefixes to chat messages.",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "WickedHanschen/AzerothSignature",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Thespian",
+   "category": "roleplay",
+   "folders": [
+    "Thespian"
+   ],
+   "stars": 0,
+   "summary": "The emote soundboard for your roleplay",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "WickedHanschen/Thespian",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
+     ]
+    }
+   ]
+  },
+  {
    "name": "MinimalFrames",
    "category": "unitframes",
    "folders": [
@@ -43112,6 +43345,23 @@
      "flavors": [
       "forever"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ForeverMoments",
+   "category": "qol",
+   "folders": [
+    "ForeverMoments"
+   ],
+   "stars": 0,
+   "summary": "Automatic screenshot taker for World of Warcraft: Forever",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "adambowles/forever-moments",
+     "flavors": []
     }
    ]
   },
@@ -45878,7 +46128,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -45897,7 +46147,7 @@
    ],
    "stars": 0,
    "summary": "Classic profession-levelling numbers (required skill, thresholds, skill-up chance) in WoW: Forever's Professions window",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -45917,7 +46167,7 @@
    ],
    "stars": 0,
    "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -46226,7 +46476,7 @@
    ],
    "stars": 0,
    "summary": "Optional map controls for PatchTools on WoW Forever and Classic Era: zoom, move, resize and reveal. English and German included.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -49420,7 +49670,7 @@
    ],
    "stars": 0,
    "summary": "ForeverThreat is a lightweight, taint-free combat threat meter designed specifically for the WoW Forever modern engine. It delivers clean, real-time threat tracking across solo, party, and raid encounters without trigger",
-   "updated": "2026-10-17",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -50108,7 +50358,7 @@
    ],
    "stars": 0,
    "summary": "WoW Addon that plays music for your entire group",
-   "updated": "2026-10-14",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -51629,6 +51879,25 @@
    ]
   },
   {
+   "name": "Espi Bag Rules",
+   "category": "bags",
+   "folders": [
+    "EspiBagRules"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "joshespi/EspiBagRules",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "GCDBar",
    "category": "qol",
    "folders": [
@@ -51913,7 +52182,7 @@
    ],
    "stars": 0,
    "summary": "LuaDevKit is an in-game Lua dev toolkit: edit/view code with line numbers and gutter, evaluate the buffer, and inspect variable         values on the fly. Font, size, and wrap are user-configurable.",
-   "updated": "2026-10-17",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -51982,7 +52251,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-18",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -52192,7 +52461,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "kemicofa/warbound",
+     "repo": "kemicofa/warboard-pvp",
      "flavors": []
     }
    ]
@@ -54029,6 +54298,193 @@
    ]
   },
   {
+   "name": "ChattyLittleNpc_Battle_for_Azeroth_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Battle_for_Azeroth_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Battle For Azeroth expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Battle-for-Azeroth-English-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Cataclysm_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Cataclysm_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Cataclysm expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Cataclysm-english-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Dragonflight_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Dragonflight_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Dragonflight expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Dragonflight-English-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Legion_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Legion_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Legion expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Legion-english-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Midnight_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Midnight_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "Voiceover pack for ChattyLittleNpc addon Midnight Wow expansion",
+   "updated": "2026-10-15",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Midnight-english-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Mists_of_Pandaria_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Mists_of_Pandaria_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Mists of Pandaria expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Mists-of-Pandaria-english-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Shadowlands_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Shadowlands_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Shadowlands expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Shadowlands-English-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_The_Burning_Crusade_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_The_Burning_Crusade_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for The Burning Crusade expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-The-Burning-Crusade-english-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_The_War_Within_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_The_War_Within_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for The War Within expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-The-War-Within-English-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Warlords_of_Draenor_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Warlords_of_Draenor_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Warlords of Draenor expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Warlords-of-Draenor-english-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ChattyLittleNpc_Wrath_of_the_Lich_King_voiceovers",
+   "category": "qol",
+   "folders": [
+    "ChattyLittleNpc_Wrath_of_the_Lich_King_voiceovers"
+   ],
+   "stars": 0,
+   "summary": "WoW addon ChattyLittleNPC Voiceover pack for Wrath Of The Lich King expansion",
+   "updated": "2026-10-11",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mantaskazlauskas/ChattyLittleNPC-Wrath-Of-The-Lich-King-english-voiceover-pack",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "TankTools",
    "category": "qol",
    "folders": [
@@ -54264,6 +54720,25 @@
      "type": "github",
      "repo": "mekkaboy/mekkaboy",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Looking For Work",
+   "category": "professions",
+   "folders": [
+    "LookingForWork"
+   ],
+   "stars": 0,
+   "summary": "WoW Forever addon that shares profession info with your guild.",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mendeleevforever/LookingForWork",
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -55949,6 +56424,27 @@
      "type": "github",
      "repo": "othiar/OthTips",
      "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "BG Comms",
+   "category": "pvp",
+   "folders": [
+    "BattlegroundComms"
+   ],
+   "stars": 0,
+   "summary": "World of Warcraft battleground addon \u2014 priority-based Cap/Defend and CTF callouts with intelligent channel selection.",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "ownjoo/bgcomms",
+     "flavors": [
+      "bcc",
+      "forever",
       "mainline"
      ]
     }
@@ -58662,6 +59158,25 @@
    ]
   },
   {
+   "name": "Mailworthy",
+   "category": "bags",
+   "folders": [
+    "Mailworthy"
+   ],
+   "stars": 0,
+   "summary": "WoW Forever addon: at a mailbox, one controller-friendly button mails bag items worth more on the AH (or disenchanted) to your bank alt",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "sjdodge123/mailworthy",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "WoWhisper",
    "category": "chat",
    "folders": [
@@ -59601,7 +60116,7 @@
    ],
    "stars": 0,
    "summary": "Core interface tweaks",
-   "updated": "2026-10-21",
+   "updated": "2026-10-24",
    "sources": [
     {
      "type": "github",
@@ -62150,26 +62665,6 @@
     {
      "type": "github",
      "repo": "zmann85/BarPlan",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Itinerary",
-   "category": "qol",
-   "folders": [
-    "Itinerary",
-    "Itinerary_Data"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "zmann85/Itinerary",
      "flavors": [
       "forever"
      ]
