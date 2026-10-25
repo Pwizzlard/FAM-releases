@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-10-24",
+ "built": "2026-10-25",
  "tier": "discovered",
  "addons": [
   {
@@ -9,7 +9,7 @@
    "folders": [
     "NDui"
    ],
-   "stars": 378,
+   "stars": 379,
    "summary": "NDui for World of Warcraft",
    "updated": "2026-10-22",
    "sources": [
@@ -1152,6 +1152,31 @@
    ]
   },
   {
+   "name": "Addon Update Notifications",
+   "category": "qol",
+   "folders": [
+    "WowUp"
+   ],
+   "stars": 30,
+   "summary": "The official WowUp World of Warcraft addon",
+   "updated": "2026-10-14",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "WowUp/WowUp.Addon",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "wrath"
+     ]
+    }
+   ]
+  },
+  {
    "name": "AddOnSkins",
    "category": "ui",
    "folders": [
@@ -1188,31 +1213,6 @@
      "flavors": [
       "bcc",
       "classic"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Addon Update Notifications",
-   "category": "qol",
-   "folders": [
-    "WowUp"
-   ],
-   "stars": 29,
-   "summary": "The official WowUp World of Warcraft addon",
-   "updated": "2026-10-14",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "WowUp/WowUp.Addon",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "wrath"
      ]
     }
    ]
@@ -2017,7 +2017,7 @@
    ],
    "stars": 19,
    "summary": "The original Classic look on WoW Forever and Retail.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -16605,7 +16605,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -16973,7 +16973,7 @@
    ],
    "stars": 1,
    "summary": "WoW Forever addon that records each character's road from level 1 to 60 and replays it on the world map, with an app that keeps it backed up on every PC.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -22829,7 +22829,7 @@
    ],
    "stars": 1,
    "summary": "A Mythic+ companion addon that helps players understand each dungeon, build stronger groups and walk into every key with a plan.",
-   "updated": "2026-10-17",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -23026,7 +23026,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -23043,7 +23043,7 @@
    ],
    "stars": 1,
    "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -23060,7 +23060,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -23618,7 +23618,7 @@
    ],
    "stars": 1,
    "summary": "World of Warcraft addon that provides rarity data of mounts among the playerbase",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -25448,7 +25448,7 @@
    ],
    "stars": 0,
    "summary": "Character stats and gear HUD for WoW Retail and Forever beta, with customizable layouts, profiles and Retail-only Archon references.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -25655,7 +25655,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -27580,7 +27580,7 @@
    ],
    "stars": 0,
    "summary": "A World of Warcraft: Forever addon that extends the default mailbox.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -27589,7 +27589,8 @@
       "bcc",
       "classic",
       "forever",
-      "mainline"
+      "mainline",
+      "mists"
      ]
     }
    ]
@@ -29002,7 +29003,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -35589,7 +35590,7 @@
    ],
    "stars": 0,
    "summary": "MIrror of garrison-mission-manager by rowaasr13",
-   "updated": "2026-10-15",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -36430,7 +36431,7 @@
    ],
    "stars": 0,
    "summary": "Write, run and save Lua snippets in-game.",
-   "updated": "2026-10-13",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -40314,7 +40315,7 @@
    ],
    "stars": 0,
    "summary": "A WoW talent management addon",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -44023,7 +44024,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -44954,7 +44955,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever addon and uploader that record drops, quests, vendors and your characters for wowdb.wiki",
-   "updated": "2026-10-12",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -45102,7 +45103,7 @@
    ],
    "stars": 0,
    "summary": "Beautiful one-bag inventory with categories, snapshots and smart selling",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -52384,7 +52385,7 @@
   },
   {
    "name": "HandyNotes: Wrath of the Lich King",
-   "category": "qol",
+   "category": "maps",
    "folders": [
     "HandyNotes_WrathOfTheLichKing"
    ],
@@ -55650,7 +55651,7 @@
    ],
    "stars": 0,
    "summary": "SpArc \u2014 Data-Driven Markdown (.md) Pseudocode FSM Rotation, Channel-Interrupt & Cooldown HUD for World of Warcraft. Created by Gemini (Tiger) & Anya (5cr3am1ng5oul).",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -56312,7 +56313,7 @@
    ],
    "stars": 0,
    "summary": "Seramate PvP Inspect - PvP rating tooltips",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -62484,7 +62485,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail equipment inspection and recommendations with optional EllesmereUI styling",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
