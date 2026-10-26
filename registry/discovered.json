@@ -4,20 +4,20 @@
  "tier": "discovered",
  "addons": [
   {
-   "name": "NDui Classic",
-   "category": "qol",
+   "name": "NDui",
+   "category": "ui",
    "folders": [
     "NDui"
    ],
    "stars": 379,
    "summary": "NDui for World of Warcraft",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "siweia/NDui",
      "flavors": [
-      "mists"
+      "forever"
      ]
     }
    ]
@@ -139,7 +139,7 @@
    ],
    "stars": 185,
    "summary": "ALL THE THINGS - Addon for Tracking Collections & Account Completion in World of Warcraft",
-   "updated": "2026-10-20",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -298,7 +298,7 @@
    ],
    "stars": 100,
    "summary": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -389,6 +389,23 @@
    ]
   },
   {
+   "name": "Factoruide_Profile",
+   "category": "quests",
+   "folders": [
+    "Factoruide_Profile"
+   ],
+   "stars": 77,
+   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
+   "updated": "2026-10-20",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "brouznouf/factoruide",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "AzerothAdmin",
    "category": "libraries",
    "folders": [
@@ -441,23 +458,6 @@
       "mists",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Factoruide_Profile",
-   "category": "quests",
-   "folders": [
-    "Factoruide_Profile"
-   ],
-   "stars": 76,
-   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
-   "updated": "2026-10-20",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "brouznouf/factoruide",
-     "flavors": []
     }
    ]
   },
@@ -1624,7 +1624,7 @@
    ],
    "stars": 23,
    "summary": "Vendor price with stack information to make better decisions (WoW Classic, BC and Shadowlands)",
-   "updated": "2026-10-10",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -2105,19 +2105,20 @@
   },
   {
    "name": "MAMA MooreaTv's/minimal yet Awesome Multiboxing Assistant (/mama)",
-   "category": "chat",
+   "category": "qol",
    "folders": [
     "Mama"
    ],
    "stars": 18,
    "summary": "Minimal yet Awesome Multiboxing Assistant - WoW addon",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "mooreatv/MAMA-multiboxing",
      "flavors": [
-      "forever"
+      "forever",
+      "mainline"
      ]
     }
    ]
@@ -2657,6 +2658,23 @@
    ]
   },
   {
+   "name": "Questie-X",
+   "category": "quests",
+   "folders": [
+    "Questie-X"
+   ],
+   "stars": 15,
+   "summary": "A universal WoW quest-helper addon with a plugin architecture for custom private servers.",
+   "updated": "2026-06-12",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Xurkon/Questie-X",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "MuteSoundFile",
    "category": "roleplay",
    "folders": [
@@ -2864,23 +2882,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Questie-X",
-   "category": "quests",
-   "folders": [
-    "Questie-X"
-   ],
-   "stars": 14,
-   "summary": "A universal WoW quest-helper addon with a plugin architecture for custom private servers.",
-   "updated": "2026-06-12",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Xurkon/Questie-X",
-     "flavors": []
     }
    ]
   },
@@ -3126,7 +3127,7 @@
    ],
    "stars": 13,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -4496,7 +4497,7 @@
    ],
    "stars": 9,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -4515,7 +4516,7 @@
    ],
    "stars": 9,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -6609,25 +6610,6 @@
    ]
   },
   {
-   "name": "Map Pin Enhanced",
-   "category": "maps",
-   "folders": [
-    "MapPinEnhanced"
-   ],
-   "stars": 5,
-   "summary": "Map Pin Enhanced is a World of Warcraft addon to enhance the ingame waypoint system.",
-   "updated": "2026-10-14",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Nercus/MapPinEnhanced",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "NorskenUI",
    "category": "ui",
    "folders": [
@@ -8603,7 +8585,7 @@
    ],
    "stars": 4,
    "summary": "WoW addon for keeping track of the weekly rewards progress accross all your characters.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -10165,7 +10147,7 @@
    ],
    "stars": 3,
    "summary": "Lightweight WoW Forever addon that adds available quest markers to Blizzard\u2019s native world map using automatically generated ATT quest data.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -11001,7 +10983,7 @@
    ],
    "stars": 3,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -11105,7 +11087,7 @@
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -14096,7 +14078,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-20",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -15144,7 +15126,7 @@
    ],
    "stars": 2,
    "summary": "A unified replacement for the Blizzard quest experience for WoW: Midnight \u2014 tracker, world map overlays, and a chain guide. Install TomTom for chain-guide waypoint arrows.",
-   "updated": "2026-10-18",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -15549,7 +15531,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -20023,7 +20005,7 @@
    ],
    "stars": 1,
    "summary": "See what the best Mythic+ groups are actually playing. A World of Warcraft addon that shows how often each specialization appears in top-ranked Mythic+ runs, updated daily.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -21211,7 +21193,7 @@
    ],
    "stars": 1,
    "summary": "Azeroth's best quest chains as guided adventures you can actually follow. A World of Warcraft addon for Classic Era, Burning Crusade Classic and Retail.",
-   "updated": "2026-10-14",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -22066,7 +22048,7 @@
    ],
    "stars": 1,
    "summary": "Your characters. Your time. A World of Warcraft playtime tracker for Retail and Classic, from the Soundstone addon family.",
-   "updated": "2026-09-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -25483,7 +25465,7 @@
    ],
    "stars": 0,
    "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -33116,7 +33098,7 @@
    ],
    "stars": 0,
    "summary": "MSUF Suite: modular interface tools for Retail and WoW Forever. Alpha; requires MSUF 6.5 (6.50).",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -37936,23 +37918,6 @@
    ]
   },
   {
-   "name": "Nexus",
-   "category": "qol",
-   "folders": [
-    "Nexus"
-   ],
-   "stars": 0,
-   "summary": "Community-maintained Nexus 1.96 compatibility release for Project Ebonhold, pending Better Nexus 1.20.",
-   "updated": "2026-08-31",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "SchmidtCode/Good-Enough-Nexus",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "SchmittySlapperGrave",
    "category": "qol",
    "folders": [
@@ -39750,7 +39715,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon: lightweight combat helpers, one switch each. Loadout switching per scenario, stats HUD, range, small extras. What is off is never loaded.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -39941,6 +39906,82 @@
      "repo": "Tanntoe/PBSSaleRate",
      "flavors": [
       "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vulcan DuoQuest",
+   "category": "quests",
+   "folders": [
+    "VulcanDuoQuest"
+   ],
+   "stars": 0,
+   "summary": "Your duo partner's quest log next to yours: missing quests, side-by-side progress, one-click Share. Part of the Vulcan Suite for WoW: Forever.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Tavlius/VulcanDuoQuest",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vulcan GrindWatch",
+   "category": "economy",
+   "folders": [
+    "VulcanGrindWatch"
+   ],
+   "stars": 0,
+   "summary": "Kills, XP and gold per hour while you farm or level, with a slowing-spot alert and a duo rate. Part of the Vulcan Suite for WoW: Forever.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Tavlius/VulcanGrindWatch",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vulcan RunBook",
+   "category": "raids",
+   "folders": [
+    "VulcanRunBook"
+   ],
+   "stars": 0,
+   "summary": "Dungeon and raid run log: clear times, boss splits, deaths, drops, gold and XP per run. Part of the Vulcan Suite for WoW: Forever.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Tavlius/VulcanRunBook",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vulcan SimBench",
+   "category": "class",
+   "folders": [
+    "VulcanSimBench"
+   ],
+   "stars": 0,
+   "summary": "Copies your gear, talents and stats for the Vulcan Sim at vulcanaddons.com. Part of the Vulcan Suite for WoW: Forever.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Tavlius/VulcanSimBench",
+     "flavors": [
+      "forever"
      ]
     }
    ]
@@ -40342,6 +40383,25 @@
      "type": "github",
      "repo": "TheWolfIsLoose/TalentKeeper",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Nexus",
+   "category": "raids",
+   "folders": [
+    "Nexus"
+   ],
+   "stars": 0,
+   "summary": "World of Warcraft Retail Mythic+ companion: gear goals, stat comparisons, enchants, gems, consumables and role rankings for all 40 specs.",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Therealwixin/Nexus",
+     "flavors": [
+      "mainline"
+     ]
     }
    ]
   },
@@ -42472,7 +42532,7 @@
    ],
    "stars": 0,
    "summary": "A customizable loot window and roll frame replacement for World of Warcraft",
-   "updated": "2026-10-14",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -46463,7 +46523,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-04",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47279,7 +47339,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone WoW Forever quest audio, pack 1 of 2. Install both packs. Requires SpeakStone_Forever_Main.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47298,7 +47358,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone WoW Forever quest audio, pack 2 of 2. Install both packs. Requires SpeakStone_Forever_Main.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47317,7 +47377,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone Narration - WoW Forever gossip and book audio. Unofficial; not affiliated with Blizzard Entertainment.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47336,7 +47396,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone base addon for WoW Forever (Classic+, interface 16001). Generated from SpeakStone_Main.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47355,7 +47415,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47374,7 +47434,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47393,7 +47453,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone Narration audio pack",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47412,7 +47472,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone Narration audio pack. Unofficial; not affiliated with Blizzard Entertainment.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47431,7 +47491,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone Narration audio pack",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47450,7 +47510,7 @@
    ],
    "stars": 0,
    "summary": "SpeakStone Narration audio pack",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47469,7 +47529,7 @@
    ],
    "stars": 0,
    "summary": "Quest Reader voiceover pack - Classic, part 1 of 7. Split to stay under CurseForge's 500 MB file cap.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47488,7 +47548,7 @@
    ],
    "stars": 0,
    "summary": "Quest Reader voiceover pack - Classic, part 2 of 7. Split to stay under CurseForge's 500 MB file cap.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47507,7 +47567,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47526,7 +47586,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47545,7 +47605,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47564,7 +47624,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47583,7 +47643,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47602,7 +47662,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47621,7 +47681,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47640,7 +47700,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -47659,7 +47719,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -50369,7 +50429,8 @@
      "repo": "goobyspace/ChitChat",
      "flavors": [
       "classic",
-      "forever"
+      "forever",
+      "mainline"
      ]
     }
    ]
@@ -51260,12 +51321,13 @@
    ],
    "stars": 0,
    "summary": "Buff reminders for any class in World of Warcraft: Forever: a pulsing icon for each missing or expiring class buff, click to cast, and a Paladin seal timer.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/DyresBuffReminders",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51279,12 +51341,13 @@
    ],
    "stars": 0,
    "summary": "A targeting macro that follows your focused quest in World of Warcraft: Forever: one key finds and marks the mobs and NPCs the quest needs.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/DyresQuestTargeting",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51298,12 +51361,13 @@
    ],
    "stars": 0,
    "summary": "A crescent that shows your remaining shield, for any class in World of Warcraft: Forever: Power Word: Shield, Ice Barrier, wards, and any other absorb.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/DyresShieldsUp",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51317,12 +51381,13 @@
    ],
    "stars": 0,
    "summary": "The sounds and sound picker that Dyre's AddOns share, for World of Warcraft: Forever.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/DyresSounds",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51336,12 +51401,13 @@
    ],
    "stars": 0,
    "summary": "The shared toolkit for Dyre's AddOns on World of Warcraft: Forever: one layout mode, a snapping grid, a minimap button, and one settings home.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/DyresToolkit",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51355,12 +51421,13 @@
    ],
    "stars": 0,
    "summary": "Quality-of-life tools for Mages in World of Warcraft: Forever: conjured food, water and mana gems with level-matched trading, a shield absorb arc, and cooldown chimes.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/MageToolsForever",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51374,12 +51441,13 @@
    ],
    "stars": 0,
    "summary": "Quality-of-life tools for Warlocks in WoW: Forever, starting with automatic Soul Shard management",
-   "updated": "2026-10-22",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/WarlockToolsForever",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51393,12 +51461,13 @@
    ],
    "stars": 0,
    "summary": "Simple WOW Forever Add-On that allows setting up and switching weapon sets.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/WeaponSetsForever",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51412,12 +51481,13 @@
    ],
    "stars": 0,
    "summary": "Track up to four weapon skills or professions with on-screen progress bars for WoW: Forever",
-   "updated": "2026-10-20",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
      "repo": "jbedworth/WeaponSkillsForever",
      "flavors": [
+      "classic",
       "forever"
      ]
     }
@@ -51757,7 +51827,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon for the Hidden Lodge guild \u2014 syncs Preparedness/Attendance/Great Vault/Raid Signup/Droptimizer data from the guild's desktop app and website, adds RCLootCouncil voting columns, raid invite/comp/organize tools, ",
-   "updated": "2026-09-23",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -53155,7 +53225,7 @@
    ],
    "stars": 0,
    "summary": "LFG filter addon for wow",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
@@ -61094,7 +61164,7 @@
    ],
    "stars": 0,
    "summary": "A World of Warcraft quality-of-life addon (retail)",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "sources": [
     {
      "type": "github",
