@@ -9,7 +9,7 @@
    "folders": [
     "NDui"
    ],
-   "stars": 379,
+   "stars": 380,
    "summary": "NDui for World of Warcraft",
    "updated": "2026-10-25",
    "sources": [
@@ -31,7 +31,7 @@
    ],
    "stars": 362,
    "summary": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs ",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -117,7 +117,7 @@
    "folders": [
     "oUF"
    ],
-   "stars": 237,
+   "stars": 238,
    "summary": "WoW AddOn - Unit frame framework.",
    "updated": "2026-10-05",
    "sources": [
@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 161,
+   "stars": 163,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -296,7 +296,7 @@
    "folders": [
     "BetterBags"
    ],
-   "stars": 100,
+   "stars": 101,
    "summary": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
    "updated": "2026-10-26",
    "sources": [
@@ -622,7 +622,7 @@
     "totalRP3",
     "totalRP3_Data"
    ],
-   "stars": 50,
+   "stars": 51,
    "summary": "The best roleplaying add-on for World of Warcraft.",
    "updated": "2026-10-25",
    "sources": [
@@ -745,30 +745,12 @@
    ]
   },
   {
-   "name": "HeroLib",
-   "category": "libraries",
-   "folders": [
-    "HeroCache",
-    "HeroLib"
-   ],
-   "stars": 44,
-   "summary": "WoW Addon - Core Library used by HeroRotation and AethysTools, can also be used by others 3rd-Party Addons.",
-   "updated": "2025-12-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "herotc/hero-lib",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "idTip",
    "category": "auras",
    "folders": [
     "idTip"
    ],
-   "stars": 43,
+   "stars": 44,
    "summary": "WoW Addon: Adds IDs to the ingame tooltips",
    "updated": "2026-10-15",
    "sources": [
@@ -783,6 +765,24 @@
       "mists",
       "titan"
      ]
+    }
+   ]
+  },
+  {
+   "name": "HeroLib",
+   "category": "libraries",
+   "folders": [
+    "HeroCache",
+    "HeroLib"
+   ],
+   "stars": 44,
+   "summary": "WoW Addon - Core Library used by HeroRotation and AethysTools, can also be used by others 3rd-Party Addons.",
+   "updated": "2025-12-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "herotc/hero-lib",
+     "flavors": []
     }
    ]
   },
@@ -1001,7 +1001,7 @@
    ],
    "stars": 32,
    "summary": "This mod will add support for 5 man Dungeons and World Events, spanning Classic all the way to Dragonflight, to Deadly Boss Mods (DBM).",
-   "updated": "2026-10-19",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -1040,6 +1040,25 @@
       "mists",
       "titan",
       "wrath"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CraftSim",
+   "category": "economy",
+   "folders": [
+    "CraftSim"
+   ],
+   "stars": 32,
+   "summary": "",
+   "updated": "2026-09-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "derfloh205/CraftSim",
+     "flavors": [
+      "mainline"
      ]
     }
    ]
@@ -1107,25 +1126,6 @@
     {
      "type": "github",
      "repo": "Merathilis/ElvUI_MerathilisUI",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "CraftSim",
-   "category": "economy",
-   "folders": [
-    "CraftSim"
-   ],
-   "stars": 31,
-   "summary": "",
-   "updated": "2026-09-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "derfloh205/CraftSim",
      "flavors": [
       "mainline"
      ]
@@ -2414,6 +2414,29 @@
    ]
   },
   {
+   "name": "Lib: HereBeDragons",
+   "category": "libraries",
+   "folders": [
+    "HereBeDragons"
+   ],
+   "stars": 16,
+   "summary": "",
+   "updated": "2026-10-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Nevcairiel/HereBeDragons",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
+     ]
+    }
+   ]
+  },
+  {
    "name": "BigAuras",
    "category": "auras",
    "folders": [
@@ -2606,29 +2629,6 @@
     {
      "type": "github",
      "repo": "LenweSaralonde/Musician",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Lib: HereBeDragons",
-   "category": "libraries",
-   "folders": [
-    "HereBeDragons"
-   ],
-   "stars": 15,
-   "summary": "",
-   "updated": "2026-10-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Nevcairiel/HereBeDragons",
      "flavors": [
       "bcc",
       "classic",
@@ -3018,7 +3018,7 @@
    ],
    "stars": 13,
    "summary": "Deadly Boss Mods (DBM) - Vanilla and Season of Discovery mods (Classic and Retail)",
-   "updated": "2026-10-19",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -4033,6 +4033,23 @@
    ]
   },
   {
+   "name": "HelloWorld",
+   "category": "qol",
+   "folders": [
+    "HelloWorld"
+   ],
+   "stars": 10,
+   "summary": "Example addon with GUI",
+   "updated": "2025-02-05",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "ketho-wow/HelloWorld",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Cube",
    "category": "qol",
    "folders": [
@@ -4075,6 +4092,37 @@
       "forever",
       "mainline",
       "mists"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Naowh Forever",
+   "category": "qol",
+   "folders": [
+    "NaowhForever",
+    "NaowhForever_BiS",
+    "NaowhForever_Combat",
+    "NaowhForever_Discovery",
+    "NaowhForever_DiscoveryData",
+    "NaowhForever_DungeonJournal",
+    "NaowhForever_JourneysData",
+    "NaowhForever_Locales",
+    "NaowhForever_Professions",
+    "NaowhForever_QoL",
+    "NaowhForever_SearchIndex",
+    "NaowhForever_Training",
+    "NaowhForever_Utilities"
+   ],
+   "stars": 10,
+   "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
+   "updated": "2026-10-26",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "naowh-gaming/NaowhForever",
+     "flavors": [
+      "forever"
      ]
     }
    ]
@@ -4461,23 +4509,6 @@
    ]
   },
   {
-   "name": "HelloWorld",
-   "category": "qol",
-   "folders": [
-    "HelloWorld"
-   ],
-   "stars": 9,
-   "summary": "Example addon with GUI",
-   "updated": "2025-02-05",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "ketho-wow/HelloWorld",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "!mMT_MediaPack",
    "category": "unitframes",
    "folders": [
@@ -4492,37 +4523,6 @@
      "type": "github",
      "repo": "mBlinkii/mMediaTag",
      "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "Naowh Forever",
-   "category": "qol",
-   "folders": [
-    "NaowhForever",
-    "NaowhForever_BiS",
-    "NaowhForever_Combat",
-    "NaowhForever_Discovery",
-    "NaowhForever_DiscoveryData",
-    "NaowhForever_DungeonJournal",
-    "NaowhForever_JourneysData",
-    "NaowhForever_Locales",
-    "NaowhForever_Professions",
-    "NaowhForever_QoL",
-    "NaowhForever_SearchIndex",
-    "NaowhForever_Training",
-    "NaowhForever_Utilities"
-   ],
-   "stars": 9,
-   "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-25",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "naowh-gaming/NaowhForever",
-     "flavors": [
-      "forever"
-     ]
     }
    ]
   },
@@ -5224,7 +5224,7 @@
    ],
    "stars": 7,
    "summary": "Gambling Addon for WoW",
-   "updated": "2026-10-22",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -7727,7 +7727,7 @@
    ],
    "stars": 4,
    "summary": "Deadly Boss Mods (DBM) - Legion mods",
-   "updated": "2026-10-14",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -9519,7 +9519,7 @@
    ],
    "stars": 3,
    "summary": "Deadly Boss Mods (DBM) - WoD mods",
-   "updated": "2026-10-14",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -9538,7 +9538,7 @@
    ],
    "stars": 3,
    "summary": "",
-   "updated": "2026-10-17",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -12242,7 +12242,7 @@
    ],
    "stars": 2,
    "summary": "An in-game library for reading, organizing, and bookmarking books and notes in World of Warcraft",
-   "updated": "2026-10-19",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -15090,7 +15090,7 @@
    ],
    "stars": 2,
    "summary": "Takes and returns your quests automatically.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -15568,7 +15568,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -17501,7 +17501,7 @@
    ],
    "stars": 1,
    "summary": "A world of warcraft addon that allows a global ignore list and spam filter with a feature for auto blocking people when declined for groups",
-   "updated": "2026-10-23",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -19830,7 +19830,7 @@
    ],
    "stars": 1,
    "summary": "Little Warlock games for WoW: Forever - in the browser and as an addon",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -19847,7 +19847,7 @@
    ],
    "stars": 1,
    "summary": "In-game Addon of the Warlock Sim",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -20059,7 +20059,7 @@
    ],
    "stars": 1,
    "summary": "See what the best Mythic+ groups are actually playing. A World of Warcraft addon that shows how often each specialization appears in top-ranked Mythic+ runs, updated daily.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -20280,6 +20280,29 @@
      "flavors": [
       "forever",
       "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Arcane Wizard: Library",
+   "category": "libraries",
+   "folders": [
+    "ArcaneWizardLibrary"
+   ],
+   "stars": 1,
+   "summary": "This addon is a library for World of Warcraft that bundles recurring code segments and functionalities.",
+   "updated": "2026-10-21",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "arcane-wizard-dev/Library",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
      ]
     }
    ]
@@ -23725,7 +23748,7 @@
    ],
    "stars": 1,
    "summary": "WoW Forever addon: at a mailbox, one controller-friendly button mails bag items worth more on the AH (or disenchanted) to your bank alt",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -27612,7 +27635,7 @@
    ],
    "stars": 0,
    "summary": "A WoW Addon to automatically distribute gear upgrades to alts",
-   "updated": "2026-10-10",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -32878,7 +32901,7 @@
    ],
    "stars": 0,
    "summary": "A world of warcraft addon for Housing",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -33402,7 +33425,7 @@
    ],
    "stars": 0,
    "summary": "ComboPoints tracker for retail WoW",
-   "updated": "2026-10-12",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -33907,7 +33930,7 @@
    ],
    "stars": 0,
    "summary": "In-game neural-net DPS prediction addon \u2014 model trained via SimC-Factory and exported to Lua",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -34083,7 +34106,7 @@
    ],
    "stars": 0,
    "summary": "Adds Archaeology items to BetterBags virtual groups",
-   "updated": "2026-08-12",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -34799,7 +34822,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -36026,7 +36049,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -38514,7 +38537,7 @@
    ],
    "stars": 0,
    "summary": "Brutosaur Tracker retail WoW addon repo",
-   "updated": "2026-10-21",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -40147,7 +40170,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon: lightweight combat helpers, one switch each. Loadout switching per scenario, stats HUD, range, small extras. What is off is never loaded.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -40224,7 +40247,7 @@
    ],
    "stars": 0,
    "summary": "A lean controller addon for retail World of Warcraft (Midnight, 12.1.5).",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -44330,7 +44353,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon: see which of your alts can craft a linked item and whisper the requester in one click",
-   "updated": "2026-10-23",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -44722,29 +44745,6 @@
      "flavors": [
       "forever",
       "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Arcane Wizard: Library",
-   "category": "libraries",
-   "folders": [
-    "ArcaneWizardLibrary"
-   ],
-   "stars": 0,
-   "summary": "This addon is a library for World of Warcraft that bundles recurring code segments and functionalities.",
-   "updated": "2026-10-21",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "arcane-wizard-dev/Library",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
      ]
     }
    ]
@@ -48469,7 +48469,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-20",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -49946,7 +49946,7 @@
    ],
    "stars": 0,
    "summary": "A simple notepad addon for World of Warcraft.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -50356,7 +50356,7 @@
    ],
    "stars": 0,
    "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -51236,7 +51236,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -52348,12 +52348,12 @@
   },
   {
    "name": "HiddenLodge",
-   "category": "raids",
+   "category": "libraries",
    "folders": [
     "HiddenLodge"
    ],
    "stars": 0,
-   "summary": "WoW addon for the Hidden Lodge guild \u2014 syncs Preparedness/Attendance/Great Vault/Raid Signup/Droptimizer data from the guild's desktop app and website, adds RCLootCouncil voting columns, raid invite/comp/organize tools, ",
+   "summary": "WoW addon for the Hidden Lodge guild: shows guild data synced by the desktop app (preparedness, Great Vault, Droptimizer upgrades) in-game and as RCLootCouncil voting columns, plus raid invite and comp tools, guild note ",
    "updated": "2026-10-25",
    "sources": [
     {
@@ -53174,7 +53174,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -54819,7 +54819,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
@@ -57279,7 +57279,7 @@
    ],
    "stars": 0,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "sources": [
     {
      "type": "github",
