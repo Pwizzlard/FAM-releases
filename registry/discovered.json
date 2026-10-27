@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-10-26",
+ "built": "2026-10-27",
  "tier": "discovered",
  "addons": [
   {
@@ -99,7 +99,7 @@
    ],
    "stars": 259,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 164,
+   "stars": 165,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -394,7 +394,7 @@
    "folders": [
     "Factoruide_Profile"
    ],
-   "stars": 80,
+   "stars": 81,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
    "updated": "2026-10-20",
    "sources": [
@@ -509,7 +509,7 @@
    "folders": [
     "SpokenQuestsAudio_esES"
    ],
-   "stars": 61,
+   "stars": 62,
    "summary": "Voiced quest dialogue, zone lore and in-world books for World of Warcraft Forever/Classic \u2014 addons, the site behind them, and the pipelines that generate the audio.",
    "updated": "2026-10-20",
    "sources": [
@@ -733,7 +733,7 @@
    ],
    "stars": 44,
    "summary": "RaiderIO AddOn",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -2039,7 +2039,7 @@
    ],
    "stars": 19,
    "summary": "The original Classic look on WoW Forever and Retail.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -2330,29 +2330,6 @@
    ]
   },
   {
-   "name": "GladiusEx",
-   "category": "pvp",
-   "folders": [
-    "GladiusEx"
-   ],
-   "stars": 17,
-   "summary": "",
-   "updated": "2025-09-18",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "vendethiel/GladiusEx",
-     "flavors": [
-      "bcc",
-      "cata",
-      "mainline",
-      "mists",
-      "wrath"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Diminish",
    "category": "pvp",
    "folders": [
@@ -2575,6 +2552,29 @@
       "forever",
       "mainline",
       "mists"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "GladiusEx",
+   "category": "pvp",
+   "folders": [
+    "GladiusEx"
+   ],
+   "stars": 16,
+   "summary": "",
+   "updated": "2025-09-18",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "vendethiel/GladiusEx",
+     "flavors": [
+      "bcc",
+      "cata",
+      "mainline",
+      "mists",
+      "wrath"
      ]
     }
    ]
@@ -4192,25 +4192,6 @@
    ]
   },
   {
-   "name": "REPorter",
-   "category": "pvp",
-   "folders": [
-    "REPorter"
-   ],
-   "stars": 9,
-   "summary": "Provide proper battleground map.",
-   "updated": "2026-04-22",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "AcidWeb/REPorter",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "RETabBinder",
    "category": "pvp",
    "folders": [
@@ -4535,7 +4516,7 @@
    ],
    "stars": 9,
    "summary": "",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -4605,6 +4586,25 @@
      "repo": "p3lim-wow/InteractiveWormholes",
      "flavors": [
       "forever",
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "REPorter",
+   "category": "pvp",
+   "folders": [
+    "REPorter"
+   ],
+   "stars": 8,
+   "summary": "Provide proper battleground map.",
+   "updated": "2026-04-22",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "AcidWeb/REPorter",
+     "flavors": [
       "mainline"
      ]
     }
@@ -7465,7 +7465,7 @@
    ],
    "stars": 5,
    "summary": "WoWSims Exporter addon repo",
-   "updated": "2026-08-05",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -11098,14 +11098,14 @@
    ]
   },
   {
-   "name": "LoreForever_Voice_Default_Quests",
+   "name": "LoreForever_Voice_Female_Quests3",
    "category": "quests",
    "folders": [
-    "LoreForever_Voice_Default_Quests"
+    "LoreForever_Voice_Female_Quests3"
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -11918,7 +11918,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -13642,7 +13642,7 @@
    ],
    "stars": 2,
    "summary": "The fastest way anywhere in WoW: Forever: walks, flight paths, boats, zeppelins, lifts, the tram and portals, guided turn by turn",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -14115,7 +14115,7 @@
    ],
    "stars": 2,
    "summary": "\u9b54\u517d\u4e16\u754c\u59d3\u540d\u677f\u63d2\u4ef6",
-   "updated": "2026-10-20",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -15770,7 +15770,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -15789,7 +15789,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -15808,7 +15808,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -15827,7 +15827,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -15846,7 +15846,7 @@
    ],
    "stars": 1,
    "summary": "Tradeskill Addon for WoW Forever",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -16643,7 +16643,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -17134,23 +17134,6 @@
      "flavors": [
       "forever"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForeverBots",
-   "category": "qol",
-   "folders": [
-    "ForeverBots"
-   ],
-   "stars": 1,
-   "summary": "",
-   "updated": "2026-10-27",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Karrz1/Karrz-playerbots-wow-forever",
-     "flavors": []
     }
    ]
   },
@@ -19209,7 +19192,7 @@
    ],
    "stars": 1,
    "summary": "Essential Quality of Life Tweaks to Native Blizzard UIs",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -20622,7 +20605,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -22568,7 +22551,7 @@
    ],
    "stars": 1,
    "summary": "Displays notifications for new loot in WoW.",
-   "updated": "2026-07-11",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -22576,6 +22559,7 @@
      "flavors": [
       "bcc",
       "classic",
+      "forever",
       "mainline",
       "mists"
      ]
@@ -23936,6 +23920,25 @@
    ]
   },
   {
+   "name": "Forever Loot Sparkles",
+   "category": "quests",
+   "folders": [
+    "ForeverLootSparkles"
+   ],
+   "stars": 1,
+   "summary": "WoW Forever addon: always show the sparkle effect on lootable quest items",
+   "updated": "2026-10-21",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "svengabr/ForeverLootSparkles",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Underlight Angler Auto",
    "category": "professions",
    "folders": [
@@ -24448,7 +24451,7 @@
    ],
    "stars": 1,
    "summary": "A World of Warcraft addon that keeps a permanent history of your PvP matches: arena, Solo Shuffle, Blitz, battlegrounds and duels, with everyone who played in them.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -25586,7 +25589,7 @@
    ],
    "stars": 0,
    "summary": "Character stats and gear HUD for WoW Retail and Forever beta, with customizable layouts, profiles and Retail-only Archon references.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -28479,7 +28482,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -29050,7 +29053,7 @@
    ],
    "stars": 0,
    "summary": "Public Repository for the Guild Paragon WoW Addon",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -29197,7 +29200,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -30634,7 +30637,7 @@
    ],
    "stars": 0,
    "summary": "A library for colors. Contains 3 list of named colors and some functions to get/convert colors into hex code, color table and more.",
-   "updated": "2026-08-12",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -32311,7 +32314,7 @@
    ],
    "stars": 0,
    "summary": "Adds ranked PvP ratings, personal bests and season stats to player tooltips. Hover any player to see 2v2/3v3/Shuffle/RBG/Blitz ratings instantly \u2014 no clicks, no website. Updated frequently.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -36756,7 +36759,7 @@
    ],
    "stars": 0,
    "summary": "Offline World of Warcraft addon for Quick WoW Talents import strings.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -39507,7 +39510,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -40596,7 +40599,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever addon: remember a player and assist their target with one key. Based on SimpleAssist by Schnoggo (CC BY-NC 3.0).",
-   "updated": "2026-10-20",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -40979,7 +40982,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail Mythic+ companion: gear goals, stat comparisons, enchants, gems, consumables and role rankings for all 40 specs.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -41592,7 +41595,7 @@
    ],
    "stars": 0,
    "summary": "\u041f\u043e\u0438\u0441\u043a \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 \u043d\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u0430\u0445 \u0432 WoW Forever",
-   "updated": "2026-10-22",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -43345,7 +43348,7 @@
    ],
    "stars": 0,
    "summary": "Builds de talentos para WoW Forever: Talents Forever, Icy Veins y tus enlaces, con actualizacion diaria",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -44483,7 +44486,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon: see which of your alts can craft a linked item and whisper the requester in one click",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -45771,7 +45774,7 @@
    ],
    "stars": 0,
    "summary": "Addon for SszorakHelper in patch 12.1",
-   "updated": "2026-10-12",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -45810,7 +45813,7 @@
    ],
    "stars": 0,
    "summary": "Beautiful one-bag inventory with categories, snapshots and smart selling",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -46874,7 +46877,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -46893,7 +46896,7 @@
    ],
    "stars": 0,
    "summary": "Classic profession-levelling numbers (required skill, thresholds, skill-up chance) in WoW: Forever's Professions window",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -46913,7 +46916,7 @@
    ],
    "stars": 0,
    "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -47146,7 +47149,7 @@
    ],
    "stars": 0,
    "summary": "Compact dispel panel for World of Warcraft \u2014 one click to remove Curse, Disease, Poison and Magic.",
-   "updated": "2026-10-17",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -50027,7 +50030,7 @@
    ],
    "stars": 0,
    "summary": "A simple notepad addon for World of Warcraft.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -53871,7 +53874,7 @@
    ],
    "stars": 0,
    "summary": "mythic+ Top X% for your rating and DPS, by role, class and spec",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -54919,7 +54922,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -57010,7 +57013,7 @@
    ],
    "stars": 0,
    "summary": "Addon for managing alts in WoW",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -57216,7 +57219,7 @@
    ],
    "stars": 0,
    "summary": "Seramate PvP Inspect - PvP rating tooltips",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -58235,7 +58238,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -60961,25 +60964,6 @@
    ]
   },
   {
-   "name": "Forever Loot Sparkles",
-   "category": "quests",
-   "folders": [
-    "ForeverLootSparkles"
-   ],
-   "stars": 0,
-   "summary": "WoW Forever addon: always show the sparkle effect on lootable quest items",
-   "updated": "2026-10-21",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "svengabr/ForeverLootSparkles",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
    "name": "KeepOrSell",
    "category": "economy",
    "folders": [
@@ -62046,7 +62030,7 @@
    ],
    "stars": 0,
    "summary": "Should you invite the stranger who applied to your key? bmpl vets a World of Warcraft Mythic+ applicant from their Warcraft Logs and Raider.IO history \u2014 a verdict with its reasons, and an in-game addon that pulls your Gr",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -63482,7 +63466,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail equipment inspection and recommendations with optional EllesmereUI styling",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
