@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-10-27",
+ "built": "2026-10-28",
  "tier": "discovered",
  "addons": [
   {
@@ -9,7 +9,7 @@
    "folders": [
     "NDui"
    ],
-   "stars": 380,
+   "stars": 379,
    "summary": "NDui for World of Warcraft",
    "updated": "2026-10-25",
    "sources": [
@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 165,
+   "stars": 166,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -394,7 +394,7 @@
    "folders": [
     "Factoruide_Profile"
    ],
-   "stars": 82,
+   "stars": 83,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
    "updated": "2026-10-20",
    "sources": [
@@ -733,7 +733,7 @@
    ],
    "stars": 44,
    "summary": "RaiderIO AddOn",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -1720,6 +1720,28 @@
    ]
   },
   {
+   "name": "Lib: EditMode",
+   "category": "libraries",
+   "folders": [
+    "LibEditMode"
+   ],
+   "stars": 22,
+   "summary": "Library that allows integration with the Edit Mode",
+   "updated": "2026-09-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "p3lim-wow/LibEditMode",
+     "flavors": [
+      "bcc",
+      "forever",
+      "mainline",
+      "mists"
+     ]
+    }
+   ]
+  },
+  {
    "name": "ElvUI_Extras",
    "category": "ui",
    "folders": [
@@ -1733,28 +1755,6 @@
      "type": "github",
      "repo": "noname08662/ElvUI_Extras",
      "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "Lib: EditMode",
-   "category": "libraries",
-   "folders": [
-    "LibEditMode"
-   ],
-   "stars": 21,
-   "summary": "Library that allows integration with the Edit Mode",
-   "updated": "2026-09-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "p3lim-wow/LibEditMode",
-     "flavors": [
-      "bcc",
-      "forever",
-      "mainline",
-      "mists"
-     ]
     }
    ]
   },
@@ -3792,14 +3792,14 @@
    ]
   },
   {
-   "name": "Routine Data",
+   "name": "Routine",
    "category": "qol",
    "folders": [
-    "RoutineData"
+    "MidnightRoutine"
    ],
    "stars": 10,
    "summary": "A world of warcraft todo list",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -5825,6 +5825,23 @@
    ]
   },
   {
+   "name": "BattlefieldInfo",
+   "category": "maps",
+   "folders": [
+    "BattlefieldInfo"
+   ],
+   "stars": 6,
+   "summary": "Addon for Wow Era Battlefield Map. (and wow Forever when it releases)",
+   "updated": "2026-10-27",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "GalacticWandererAddon/BattlefieldInfo",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Account Played",
    "category": "class",
    "folders": [
@@ -7355,7 +7372,7 @@
    ],
    "stars": 5,
    "summary": "A data library addon for World of Warcraft that provides daily updated talent export codes from parses.gg.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -10206,7 +10223,7 @@
    ],
    "stars": 3,
    "summary": "WoW Forever addon: marks remaining DoT damage on the target's health bar and shows a skull when your DoTs will finish it off.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -10641,6 +10658,23 @@
     {
      "type": "github",
      "repo": "glassleo/Masque_Leo",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Icicle",
+   "category": "pvp",
+   "folders": [
+    "Icicle"
+   ],
+   "stars": 3,
+   "summary": "",
+   "updated": "2026-03-04",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "hiroshi-richi/Icicle-Reborn",
      "flavors": []
     }
    ]
@@ -13642,7 +13676,7 @@
    ],
    "stars": 2,
    "summary": "The fastest way anywhere in WoW: Forever: walks, flight paths, boats, zeppelins, lifts, the tram and portals, guided turn by turn",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -16643,7 +16677,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -17045,6 +17079,23 @@
     {
      "type": "github",
      "repo": "Jordanburch101/road-to-sixty",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "SmoothExperienceBar",
+   "category": "quests",
+   "folders": [
+    "SmoothExperienceBar"
+   ],
+   "stars": 1,
+   "summary": "A lightweight standalone take on the Luxthos Experience Bar WeakAura for WoW Classic Era, TBC Anniversary and WoW Forever, with quest and rested XP, session stats and optional themes.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Jordanburch101/smooth-experience-bar",
      "flavors": []
     }
    ]
@@ -17780,7 +17831,7 @@
    ],
    "stars": 1,
    "summary": "LDB plugin showing which food each Tiller eats, quantity per day fed, and where to find each Tiller",
-   "updated": "2026-08-12",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -20663,7 +20714,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -23141,7 +23192,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides daily updated Best-in-Slot gear information from Archon.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -23209,7 +23260,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -23226,7 +23277,7 @@
    ],
    "stars": 1,
    "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -23243,7 +23294,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -23379,7 +23430,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits per dungeon and keystone level for PeaversSplits.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -25647,7 +25698,7 @@
    ],
    "stars": 0,
    "summary": "Character stats and gear HUD for WoW Retail and Forever beta, with customizable layouts, profiles and Retail-only Archon references.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -29258,7 +29309,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -29282,6 +29333,27 @@
     {
      "type": "github",
      "repo": "Elanoran/ElanAddonHub",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "EldoUI",
+   "category": "ui",
+   "folders": [
+    "EldoUI",
+    "EldoUI_Emoji",
+    "EldoUI_Locale_daDK",
+    "EldoUI_LootData",
+    "EldoUI_LootSim"
+   ],
+   "stars": 0,
+   "summary": "An AI-made, deeply modular UI addon for WoW: Forever. More than 90 modules you can turn on or off, ten ready-made layouts, four roles and one consistent look across every window.",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Eldodeldo/EldoUI",
      "flavors": []
     }
    ]
@@ -30073,7 +30145,7 @@
    ],
    "stars": 0,
    "summary": "Guild management for WoW Forever: in-game addons, a Windows sync app, and a self-hosted dashboard for rosters, gear, raid planning, crafting, and availability.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -31627,6 +31699,40 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "OkBloomer",
+   "category": "qol",
+   "folders": [
+    "OkBloomer"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-27",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Jinxit/OkBloomer",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Paradoxical",
+   "category": "qol",
+   "folders": [
+    "Paradoxical"
+   ],
+   "stars": 0,
+   "summary": "WoW addon for announcing Spatial Paradox and Innervate in a very obvious way",
+   "updated": "2026-08-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Jinxit/Paradoxical",
+     "flavors": []
     }
    ]
   },
@@ -36813,6 +36919,23 @@
    ]
   },
   {
+   "name": "GearLab",
+   "category": "qol",
+   "folders": [
+    "GearLab"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "R4s0n3/gearlab",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "ResetRadar - Weekly & Daily Checklist",
    "category": "qol",
    "folders": [
@@ -39553,7 +39676,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -40030,7 +40153,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-17",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -41049,7 +41172,7 @@
    ],
    "stars": 0,
    "summary": "A WoW talent management addon",
-   "updated": "2026-10-25",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -44426,6 +44549,28 @@
    ]
   },
   {
+   "name": "SmartGuildRepairs",
+   "category": "chat",
+   "folders": [
+    "SmartGuildRepairs"
+   ],
+   "stars": 0,
+   "summary": "WoW-addon // Use your guild repair funds to the maximum effiency!",
+   "updated": "2026-10-14",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "ahakola/SmartGuildRepairs",
+     "flavors": [
+      "bcc",
+      "mainline",
+      "mists",
+      "titan"
+     ]
+    }
+   ]
+  },
+  {
    "name": "iLevel",
    "category": "qol",
    "folders": [
@@ -46961,7 +47106,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -46980,7 +47125,7 @@
    ],
    "stars": 0,
    "summary": "Classic profession-levelling numbers (required skill, thresholds, skill-up chance) in WoW: Forever's Professions window",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -47000,7 +47145,7 @@
    ],
    "stars": 0,
    "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -56163,6 +56308,25 @@
    ]
   },
   {
+   "name": "ForeverCommsVoice",
+   "category": "libraries",
+   "folders": [
+    "ForeverCommsVoice",
+    "ForeverGroupComms",
+    "ForeverGuildComms"
+   ],
+   "stars": 0,
+   "summary": "World of Warcraft Forever Communications Bundle - Guild and Group + Shared Library",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mreillyorg/ForeverCommsBundle",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "whoa UnitFrames",
    "category": "unitframes",
    "folders": [
@@ -57032,6 +57196,25 @@
    ]
   },
   {
+   "name": "StoryTracker",
+   "category": "quests",
+   "folders": [
+    "StoryTracker"
+   ],
+   "stars": 0,
+   "summary": "WoW addon that records every detail of your adventures for AI-generated narrative blog posts",
+   "updated": "2026-10-27",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "ninepointlabs/wow-storytracker-addon",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "NPRoster",
    "category": "chat",
    "folders": [
@@ -57303,7 +57486,7 @@
    ],
    "stars": 0,
    "summary": "Seramate PvP Inspect - PvP rating tooltips",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -58751,7 +58934,7 @@
    ],
    "stars": 0,
    "summary": "SpellPad Studio: macro and keybind manager with its own on-screen action bars, for Stream Deck and macro pads (WoW Retail and Forever)",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -62114,7 +62297,7 @@
    ],
    "stars": 0,
    "summary": "Should you invite the stranger who applied to your key? bmpl vets a World of Warcraft Mythic+ applicant from their Warcraft Logs and Raider.IO history \u2014 a verdict with its reasons, and an in-game addon that pulls your Gr",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -62939,7 +63122,7 @@
    ],
    "stars": 0,
    "summary": "World Of Warcraft Cooldown Enhancement Addon",
-   "updated": "2026-10-21",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -63550,7 +63733,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail equipment inspection and recommendations with optional EllesmereUI styling",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -63686,7 +63869,7 @@
    ],
    "stars": 0,
    "summary": "NE Stats is a lightweight World of Warcraft addon that displays your primary and secondary stats in a compact, movable panel. It supports profiles, stat ordering, current specialization main stat priority, font and scale",
-   "updated": "2026-10-21",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
