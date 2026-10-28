@@ -1225,7 +1225,7 @@
    ],
    "stars": 28,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -2019,7 +2019,7 @@
    ],
    "stars": 19,
    "summary": "Minimal yet Awesome Multiboxing Assistant - WoW addon",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -4117,7 +4117,7 @@
    ],
    "stars": 10,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -4795,7 +4795,7 @@
    ],
    "stars": 8,
    "summary": "WoW addon that creates a simple in-game To-Do list",
-   "updated": "2026-10-21",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -8467,25 +8467,6 @@
    ]
   },
   {
-   "name": "DoesItDie",
-   "category": "qol",
-   "folders": [
-    "DoesItDie"
-   ],
-   "stars": 4,
-   "summary": "WoW Forever addon: marks remaining DoT damage on the target's health bar and shows a skull when your DoTs will finish it off.",
-   "updated": "2026-10-27",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "swirllyman/DoesItDie",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
    "name": "LootRollMover",
    "category": "ui",
    "folders": [
@@ -8637,7 +8618,7 @@
    ],
    "stars": 4,
    "summary": "WoW addon for keeping track of the weekly rewards progress accross all your characters.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -8830,7 +8811,7 @@
    ],
    "stars": 4,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -8853,7 +8834,7 @@
    ],
    "stars": 4,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -10218,6 +10199,25 @@
    ]
   },
   {
+   "name": "DoesItDie",
+   "category": "qol",
+   "folders": [
+    "DoesItDie"
+   ],
+   "stars": 3,
+   "summary": "WoW Forever addon: marks remaining DoT damage on the target's health bar and shows a skull when your DoTs will finish it off.",
+   "updated": "2026-10-27",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "swirllyman/DoesItDie",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "ChatInputTop",
    "category": "chat",
    "folders": [
@@ -10710,7 +10710,7 @@
    ],
    "stars": 3,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -10733,7 +10733,7 @@
    ],
    "stars": 3,
    "summary": "Kapresoft-LibUtil",
-   "updated": "2026-10-16",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -14203,7 +14203,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -14226,7 +14226,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -14266,7 +14266,7 @@
    ],
    "stars": 2,
    "summary": "Addon Suite is an addon management for the World of Warcraft",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -15588,7 +15588,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -17204,6 +17204,40 @@
     {
      "type": "github",
      "repo": "KonigTX/Livery",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "CraftUpgrades",
+   "category": "professions",
+   "folders": [
+    "CraftUpgrades"
+   ],
+   "stars": 1,
+   "summary": "Shows potential gear upgrades you can craft with your professions, right at the top of your crafting window. WoW Forever addon",
+   "updated": "2026-10-26",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Krelock/CraftUpgrades",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "LootTriage",
+   "category": "bags",
+   "folders": [
+    "LootTriage"
+   ],
+   "stars": 1,
+   "summary": "Lightweight addon for looting with full bags: see which loot is worth taking and which items to delete. WoW Forever and Retail addon",
+   "updated": "2026-10-26",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Krelock/LootTriage",
      "flavors": []
     }
    ]
@@ -21662,7 +21696,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -21685,7 +21719,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -21728,7 +21762,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-15",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -21751,7 +21785,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -24329,7 +24363,7 @@
    ],
    "stars": 1,
    "summary": "A complete Delves companion addon for World of Warcraft: Midnight",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -25682,7 +25716,7 @@
    ],
    "stars": 0,
    "summary": "Convenience for Blizzard's built-in Damage Meter: hover details, a right-click menu, extra windows, snapping and readable numbers. No parsing of its own.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -31863,7 +31897,7 @@
    ],
    "stars": 0,
    "summary": "Manual buff/cooldown timer tracking for WoW Midnight",
-   "updated": "2026-10-24",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -32437,40 +32471,6 @@
    ]
   },
   {
-   "name": "CraftUpgrades",
-   "category": "professions",
-   "folders": [
-    "CraftUpgrades"
-   ],
-   "stars": 0,
-   "summary": "Shows potential gear upgrades you can craft with your professions, right at the top of your crafting window. WoW Forever addon",
-   "updated": "2026-10-26",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Krelock/CraftUpgrades",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "LootTriage",
-   "category": "bags",
-   "folders": [
-    "LootTriage"
-   ],
-   "stars": 0,
-   "summary": "Lightweight addon for looting with full bags: see which loot is worth taking and which items to delete. WoW Forever and Retail addon",
-   "updated": "2026-10-26",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Krelock/LootTriage",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "KroolWorldForever",
    "category": "quests",
    "folders": [
@@ -32674,6 +32674,29 @@
      "type": "github",
      "repo": "LatentRune/glance",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Level Ledger",
+   "category": "qol",
+   "folders": [
+    "LevelLedger"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-27",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "LazyLlamaDev/LevelLedger",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
+     ]
     }
    ]
   },
@@ -37401,6 +37424,26 @@
    ]
   },
   {
+   "name": "BeebMod",
+   "category": "qol",
+   "folders": [
+    "BeebMod"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-27",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Rathe001/BeebMod",
+     "flavors": [
+      "forever",
+      "mists"
+     ]
+    }
+   ]
+  },
+  {
    "name": "TrueParse",
    "category": "combat",
    "folders": [
@@ -38183,7 +38226,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -47208,7 +47251,7 @@
    ],
    "stars": 0,
    "summary": "Quality-of-life tools for World of Warcraft: Forever and Classic Era. English and German included.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -47225,7 +47268,7 @@
    ],
    "stars": 0,
    "summary": "Alpha bag module for PatchTools: compact shared inventory, visual sorting and stack consolidation for WoW Classic Era.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -47242,7 +47285,7 @@
    ],
    "stars": 0,
    "summary": "Optional map controls for PatchTools on WoW Forever and Classic Era: zoom, move, resize and reveal. English and German included.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -52983,7 +53026,7 @@
    ],
    "stars": 0,
    "summary": "LuaDevKit is an in-game Lua dev toolkit: edit/view code with line numbers and gutter, evaluate the buffer, and inspect variable         values on the fly. Font, size, and wrap are user-configurable.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -53251,10 +53294,10 @@
    ]
   },
   {
-   "name": "Warboard",
+   "name": "Highground",
    "category": "qol",
    "folders": [
-    "Warboard"
+    "Highground"
    ],
    "stars": 0,
    "summary": "",
@@ -53262,7 +53305,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "kemicofa/warboard-pvp",
+     "repo": "kemicofa/highground",
      "flavors": []
     }
    ]
@@ -56449,7 +56492,7 @@
    ],
    "stars": 0,
    "summary": "MAWM (Most Accurate World Map) \u2014 Lore-accurate, tectonically realigned Azeroth World Map addon for World of Warcraft (4K Blizzard CASC, all 11 client locales, native DB2 golden highlights)",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -56825,7 +56868,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
@@ -57401,7 +57444,7 @@
    ],
    "stars": 0,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "sources": [
     {
      "type": "github",
