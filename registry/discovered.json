@@ -10108,7 +10108,7 @@
    ],
    "stars": 3,
    "summary": "Adds icons to your items to show their collection status",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -12366,6 +12366,24 @@
       "forever",
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ForeverBots",
+   "category": "qol",
+   "folders": [
+    "ForeverBots",
+    "ForeverDots"
+   ],
+   "stars": 2,
+   "summary": "",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Karrz1/Karrz-playerbots-wow-forever",
+     "flavors": []
     }
    ]
   },
@@ -15234,17 +15252,22 @@
    "folders": [
     "EasyFind",
     "EasyFind_Calc",
+    "EasyFind_Chat",
+    "EasyFind_Clipboard",
+    "EasyFind_GPS",
     "EasyFind_Guide",
     "EasyFind_Icons",
     "EasyFind_Items",
+    "EasyFind_Notes",
     "EasyFind_Onboarding",
     "EasyFind_Options",
+    "EasyFind_Quicklists",
     "EasyFind_Settings",
     "EasyFind_Snippets"
    ],
    "stars": 2,
    "summary": "Search and command palette addon for WoW, inspired by Spotlight, Alfred, and Raycast. Quickly find commands, settings, items (mounts, pets, transmog outfits, housing items), and more.",
-   "updated": "2026-10-15",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -15471,7 +15494,7 @@
    ],
    "stars": 1,
    "summary": "World of Warcraft Guild Management Addon",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -23539,7 +23562,7 @@
    ],
    "stars": 1,
    "summary": "BGNext\uff1a\u57fa\u4e8e BGLite 2.4.0 \u7684\u975e\u5b98\u65b9\u793e\u533a\u7ef4\u62a4\u4e0e\u539f\u521b\u589e\u5f3a\u9879\u76ee",
-   "updated": "2026-10-11",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -25727,14 +25750,14 @@
    ]
   },
   {
-   "name": "Cast Ahead",
+   "name": "CastAhead",
    "category": "raids",
    "folders": [
     "CastAhead"
    ],
    "stars": 0,
    "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -27445,25 +27468,6 @@
    ]
   },
   {
-   "name": "Mount Tracker: Local Zones",
-   "category": "collections",
-   "folders": [
-    "Mount_Tracker_Local_Zones"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-27",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "CesttPlays/mount-local-tracker",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "GetInfoLink",
    "category": "qol",
    "folders": [
@@ -28591,7 +28595,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -32477,7 +32481,7 @@
    ],
    "stars": 0,
    "summary": "Adds ranked PvP ratings, personal bests and season stats to player tooltips. Hover any player to see 2v2/3v3/Shuffle/RBG/Blitz ratings instantly \u2014 no clicks, no website. Updated frequently.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -34628,7 +34632,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -36888,7 +36892,7 @@
    ],
    "stars": 0,
    "summary": "Offline World of Warcraft addon for Quick WoW Talents import strings.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -41189,7 +41193,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail Mythic+ companion: gear goals, stat comparisons, enchants, gems, consumables and role rankings for all 40 specs.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -41362,7 +41366,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-12",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -41802,7 +41806,7 @@
    ],
    "stars": 0,
    "summary": "\u041f\u043e\u0438\u0441\u043a \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 \u043d\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u0430\u0445 \u0432 WoW Forever",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -52451,7 +52455,7 @@
    ],
    "stars": 0,
    "summary": "Auto-play music during Bloodlust/Heroism/Time Warp",
-   "updated": "2026-10-21",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -53656,7 +53660,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -54662,7 +54666,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-22",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -58505,7 +58509,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -62551,7 +62555,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever Warlock addon",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
