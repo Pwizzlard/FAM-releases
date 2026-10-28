@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 166,
+   "stars": 167,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -394,7 +394,7 @@
    "folders": [
     "Factoruide_Profile"
    ],
-   "stars": 83,
+   "stars": 84,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
    "updated": "2026-10-20",
    "sources": [
@@ -504,14 +504,19 @@
    ]
   },
   {
-   "name": "SpokenQuestsAudio_esES",
+   "name": "Spoken",
    "category": "quests",
    "folders": [
-    "SpokenQuestsAudio_esES"
+    "Spoken",
+    "SpokenContributions",
+    "Spoken_NPCs",
+    "Spoken_Places",
+    "Spoken_Quests",
+    "Spoken_Readables"
    ],
    "stars": 62,
    "summary": "Voiced quest dialogue, zone lore and in-world books for World of Warcraft Forever/Classic \u2014 addons, the site behind them, and the pipelines that generate the audio.",
-   "updated": "2026-10-20",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -1140,7 +1145,7 @@
    ],
    "stars": 30,
    "summary": "NDui plugin",
-   "updated": "2026-09-06",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -11640,14 +11645,14 @@
    ]
   },
   {
-   "name": "Auto Say",
+   "name": "AutoSay",
    "category": "qol",
    "folders": [
     "AutoSay"
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-11",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -15865,7 +15870,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -15903,7 +15908,7 @@
    ],
    "stars": 1,
    "summary": "Tradeskill Addon for WoW Forever",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -20221,7 +20226,7 @@
    ],
    "stars": 1,
    "summary": "Know exactly how far you are from the title. A World of Warcraft addon with live Mythic+ rating cutoffs for the top 0.1% title and every percentile bracket, updated daily.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -20665,7 +20670,7 @@
    ],
    "stars": 1,
    "summary": "`isiLive` is a WoW group helper addon for Mythic+ pug/party flow.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -25511,7 +25516,7 @@
    ],
    "stars": 0,
    "summary": "MaxDPS Companion 4.0.4 Aegis: WinUI 3 retail Midnight 12.1 pixel-bridge driver for MaxDps (MaxDpsBridgeExp; Main master switch; 51-cell Ext4 wire)",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -28056,12 +28061,15 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-25",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
      "repo": "Consita/Red-Flag",
-     "flavors": []
+     "flavors": [
+      "bcc",
+      "forever"
+     ]
     }
    ]
   },
@@ -28073,12 +28081,15 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-25",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
      "repo": "Consita/Red-Flag-Sync",
-     "flavors": []
+     "flavors": [
+      "bcc",
+      "forever"
+     ]
     }
    ]
   },
@@ -28442,7 +28453,7 @@
    ],
    "stars": 0,
    "summary": " Deadly Boss Mods (DBM) - Burning Crusade mods",
-   "updated": "2026-10-14",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -29166,7 +29177,7 @@
    ],
    "stars": 0,
    "summary": "Public Repository for the Guild Paragon WoW Addon",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -33439,7 +33450,7 @@
    ],
    "stars": 0,
    "summary": "WoW Addon to track weekly Quests and more",
-   "updated": "2026-10-14",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -34222,7 +34233,7 @@
    ],
    "stars": 0,
    "summary": "In-game neural-net DPS prediction addon \u2014 model trained via SimC-Factory and exported to Lua",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -38170,7 +38181,7 @@
    ],
    "stars": 0,
    "summary": "Foundry is a small library for WoW addon authors who want to build on Blizzard's modern toolkit: the Settings API, the new menu system, ScrollBox, tooltip hooks, and the rest. Foundry's purpose is to make that easier, le",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -43046,7 +43057,7 @@
    ],
    "stars": 0,
    "summary": "Quest helper for World of Warcraft: Forever. Available quests and quest mobs on the map, direction arrow, auto accept and turn-in, best reward, XP bar and planner. Works alongside Questie.",
-   "updated": "2026-10-25",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -44968,7 +44979,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -45787,7 +45798,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-18",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -58249,7 +58260,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever Terminal add-on. Universal fuzzy-finder style search.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -58397,12 +58408,13 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft AddOn that provides configurable overlays for displaying customized information about characters in the Character Sheet and/or Character Inspect window(s).",
-   "updated": "2026-10-17",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
      "repo": "pranavius/PranGearView",
      "flavors": [
+      "forever",
       "mainline"
      ]
     }
@@ -61278,7 +61290,7 @@
    ],
    "stars": 0,
    "summary": "Guild manager for WoW Forever",
-   "updated": "2026-10-22",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -63890,7 +63902,7 @@
    ],
    "stars": 0,
    "summary": "Feature-completion addon for the BiaoGe auction spreadsheet (BGLite Pure Edition) / \u91d1\u56e2\u8868\u683c BGLite \u7eaf\u51c0\u7248\u529f\u80fd\u8865\u5168\u63d2\u4ef6",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
