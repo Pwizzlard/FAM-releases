@@ -97,7 +97,7 @@
     "EllesmereUIResourceBars",
     "EllesmereUIUnitFrames"
    ],
-   "stars": 259,
+   "stars": 260,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
    "updated": "2026-10-27",
    "sources": [
@@ -298,7 +298,7 @@
    ],
    "stars": 101,
    "summary": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -1581,6 +1581,27 @@
    ]
   },
   {
+   "name": "Northern Sky Raid Tools",
+   "category": "raids",
+   "folders": [
+    "NorthernSkyRaidTools",
+    "NorthernSkyRaidTools_UI"
+   ],
+   "stars": 23,
+   "summary": "",
+   "updated": "2026-10-19",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Reloe/NorthernSkyRaidTools",
+     "flavors": [
+      "forever",
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "RCLootCouncil",
    "category": "raids",
    "folders": [
@@ -1680,27 +1701,6 @@
       "cata",
       "mainline",
       "mists"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Northern Sky Raid Tools",
-   "category": "raids",
-   "folders": [
-    "NorthernSkyRaidTools",
-    "NorthernSkyRaidTools_UI"
-   ],
-   "stars": 22,
-   "summary": "",
-   "updated": "2026-10-19",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Reloe/NorthernSkyRaidTools",
-     "flavors": [
-      "forever",
-      "mainline"
      ]
     }
    ]
@@ -2024,7 +2024,7 @@
    ],
    "stars": 19,
    "summary": "Minimal yet Awesome Multiboxing Assistant - WoW addon",
-   "updated": "2026-10-27",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -3379,7 +3379,7 @@
    ],
    "stars": 12,
    "summary": "WoW Satchel Scanner",
-   "updated": "2026-09-13",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -3635,6 +3635,37 @@
    ]
   },
   {
+   "name": "Naowh Forever",
+   "category": "qol",
+   "folders": [
+    "NaowhForever",
+    "NaowhForever_BiS",
+    "NaowhForever_Combat",
+    "NaowhForever_Discovery",
+    "NaowhForever_DiscoveryData",
+    "NaowhForever_DungeonJournal",
+    "NaowhForever_JourneysData",
+    "NaowhForever_Locales",
+    "NaowhForever_Professions",
+    "NaowhForever_QoL",
+    "NaowhForever_SearchIndex",
+    "NaowhForever_Training",
+    "NaowhForever_Utilities"
+   ],
+   "stars": 11,
+   "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "naowh-gaming/NaowhForever",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "ForeverAuras",
    "category": "auras",
    "folders": [
@@ -3804,7 +3835,7 @@
    ],
    "stars": 10,
    "summary": "A world of warcraft todo list",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -4098,37 +4129,6 @@
       "forever",
       "mainline",
       "mists"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Naowh Forever",
-   "category": "qol",
-   "folders": [
-    "NaowhForever",
-    "NaowhForever_BiS",
-    "NaowhForever_Combat",
-    "NaowhForever_Discovery",
-    "NaowhForever_DiscoveryData",
-    "NaowhForever_DungeonJournal",
-    "NaowhForever_JourneysData",
-    "NaowhForever_Locales",
-    "NaowhForever_Professions",
-    "NaowhForever_QoL",
-    "NaowhForever_SearchIndex",
-    "NaowhForever_Training",
-    "NaowhForever_Utilities"
-   ],
-   "stars": 10,
-   "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "naowh-gaming/NaowhForever",
-     "flavors": [
-      "forever"
      ]
     }
    ]
@@ -6240,7 +6240,7 @@
    ],
    "stars": 6,
    "summary": "SpellCoda  - Addon for World of Warcraft Classic",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -7002,6 +7002,23 @@
       "mainline",
       "wrath"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ItemAutocomplete",
+   "category": "chat",
+   "folders": [
+    "ItemAutocomplete"
+   ],
+   "stars": 5,
+   "summary": "Chat autocomplete for item links in WoW Classic",
+   "updated": "2026-08-19",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "darfink/ItemAutocomplete",
+     "flavors": []
     }
    ]
   },
@@ -8255,6 +8272,25 @@
      "type": "github",
      "repo": "SwimmingTiger/MessageClassifier",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "BuyEmAll Continued",
+   "category": "economy",
+   "folders": [
+    "BuyEmAll"
+   ],
+   "stars": 4,
+   "summary": "Continuation of the BuyEmAll WoW vendor addon: buy more than a stack at once, with cost and bag-space limits shown first.",
+   "updated": "2026-10-14",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Tharavol/BuyEmAllContinued",
+     "flavors": [
+      "mainline"
+     ]
     }
    ]
   },
@@ -10109,25 +10145,6 @@
    ]
   },
   {
-   "name": "BuyEmAll Continued",
-   "category": "economy",
-   "folders": [
-    "BuyEmAll"
-   ],
-   "stars": 3,
-   "summary": "Continuation of the BuyEmAll WoW vendor addon: buy more than a stack at once, with cost and bag-space limits shown first.",
-   "updated": "2026-10-14",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Tharavol/BuyEmAllContinued",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Preybreaker",
    "category": "ui",
    "folders": [
@@ -10329,6 +10346,29 @@
      "repo": "alarofrunetotem/ItemLevelDisplay",
      "flavors": [
       "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Memento",
+   "category": "class",
+   "folders": [
+    "Memento"
+   ],
+   "stars": 3,
+   "summary": "This is a World of Warcraft addon that automatically takes screenshots of meaningful gameplay events and personal milestones.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "arcane-wizard-dev/Memento",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
      ]
     }
    ]
@@ -13314,6 +13354,23 @@
    ]
   },
   {
+   "name": "Aegis_Forever_Instance_Journal",
+   "category": "raids",
+   "folders": [
+    "Aegis_Forever_Instance_Journal"
+   ],
+   "stars": 2,
+   "summary": "Forever Instance Journal is an attempt to bring the retail instance journal and dungeon maps to forever.",
+   "updated": "2026-10-22",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Torchlite-bit/Aegis_Forever_Instance_Journal",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Forever GuideMate",
    "category": "quests",
    "folders": [
@@ -13577,24 +13634,109 @@
    ]
   },
   {
-   "name": "Memento",
-   "category": "class",
+   "name": "Aurarium",
+   "category": "economy",
    "folders": [
-    "Memento"
+    "Aurarium"
    ],
    "stars": 2,
-   "summary": "This is a World of Warcraft addon that automatically takes screenshots of meaningful gameplay events and personal milestones.",
-   "updated": "2026-10-21",
+   "summary": "This is a World of Warcraft addon that provides a detailed insight into wealth progression by tracking gold and currencies across all characters and displaying them over time.",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
-     "repo": "arcane-wizard-dev/Memento",
+     "repo": "arcane-wizard-dev/Aurarium",
      "flavors": [
       "bcc",
       "classic",
       "forever",
       "mainline",
       "mists"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Expositum",
+   "category": "tooltips",
+   "folders": [
+    "Expositum"
+   ],
+   "stars": 2,
+   "summary": "This is a World of Warcraft addon that provides additional information about items directly in the tooltip.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "arcane-wizard-dev/Expositum",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Horatum",
+   "category": "raids",
+   "folders": [
+    "Horatum"
+   ],
+   "stars": 2,
+   "summary": "This is a World of Warcraft addon that tracks every boss encounter and saves the fastest victory.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "arcane-wizard-dev/Horatum",
+     "flavors": [
+      "forever",
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Arcane Wizard: Library",
+   "category": "libraries",
+   "folders": [
+    "ArcaneWizardLibrary"
+   ],
+   "stars": 2,
+   "summary": "This addon is a library for World of Warcraft that bundles recurring code segments and functionalities.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "arcane-wizard-dev/Library",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Percursus",
+   "category": "auras",
+   "folders": [
+    "Percursus"
+   ],
+   "stars": 2,
+   "summary": "This is a World of Warcraft addon that displays a live timer during a race (e.g., Dragonriding & Skyriding) and provides a detailed time overview of all races.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "arcane-wizard-dev/Percursus",
+     "flavors": [
+      "mainline"
      ]
     }
    ]
@@ -13683,7 +13825,7 @@
    ],
    "stars": 2,
    "summary": "The fastest way anywhere in WoW: Forever: walks, flight paths, boats, zeppelins, lifts, the tram and portals, guided turn by turn",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -14307,7 +14449,7 @@
    ],
    "stars": 2,
    "summary": "Addon Suite is an addon management for the World of Warcraft",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -14745,6 +14887,25 @@
    ]
   },
   {
+   "name": "Rocket Meter",
+   "category": "combat",
+   "folders": [
+    "RocketMeter"
+   ],
+   "stars": 2,
+   "summary": "A damage meter for World of Warcraft: Midnight, built on Blizzard's official C_DamageMeter API, with an end-of-run scoreboard for Mythic+ and raids.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "otaviohonorio/RocketMeter",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Quest Automation",
    "category": "quests",
    "folders": [
@@ -14843,6 +15004,40 @@
    ]
   },
   {
+   "name": "PeaversConsumablesData",
+   "category": "libraries",
+   "folders": [
+    "PeaversConsumablesData"
+   ],
+   "stars": 2,
+   "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "peavers-warcraft/PeaversConsumablesData",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "PeaversCurrencyData",
+   "category": "economy",
+   "folders": [
+    "PeaversCurrencyData"
+   ],
+   "stars": 2,
+   "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
+   "updated": "2026-10-29",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "peavers-warcraft/PeaversCurrencyData",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "PeaversGetThere",
    "category": "quests",
    "folders": [
@@ -14855,6 +15050,23 @@
     {
      "type": "github",
      "repo": "peavers-warcraft/PeaversGetThere",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "PeaversGetThereData",
+   "category": "libraries",
+   "folders": [
+    "PeaversGetThereData"
+   ],
+   "stars": 2,
+   "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "peavers-warcraft/PeaversGetThereData",
      "flavors": []
     }
    ]
@@ -16000,6 +16212,23 @@
       "titan",
       "wrath"
      ]
+    }
+   ]
+  },
+  {
+   "name": "CherrysKit",
+   "category": "collections",
+   "folders": [
+    "CherrysKit"
+   ],
+   "stars": 1,
+   "summary": "Cherry's Kit: a modular collection of Runes of Magic addons.",
+   "updated": "2026-10-29",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Cherrybooze/Cherrys-Kit",
+     "flavors": []
     }
    ]
   },
@@ -17228,7 +17457,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -17581,6 +17810,25 @@
    ]
   },
   {
+   "name": "Rematch Switcher",
+   "category": "qol",
+   "folders": [
+    "Rematch_Switcher"
+   ],
+   "stars": 1,
+   "summary": "A World of Warcraft addon to provide more options to load and switch between Rematch teams.",
+   "updated": "2026-10-15",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "LiangYuxuan/Rematch_Switcher",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "BaimiaoToolbox",
    "category": "qol",
    "folders": [
@@ -17821,7 +18069,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -19716,23 +19964,6 @@
    ]
   },
   {
-   "name": "Aegis_Forever_Instance_Journal",
-   "category": "raids",
-   "folders": [
-    "Aegis_Forever_Instance_Journal"
-   ],
-   "stars": 1,
-   "summary": "Forever Instance Journal is an attempt to bring the retail instance journal and dungeon maps to forever.",
-   "updated": "2026-10-22",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Torchlite-bit/Aegis_Forever_Instance_Journal",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Aegis_Forever_Pathfinder",
    "category": "quests",
    "folders": [
@@ -20039,7 +20270,7 @@
    ],
    "stars": 1,
    "summary": "Little Warlock games for WoW: Forever - in the browser and as an addon",
-   "updated": "2026-10-27",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -20056,7 +20287,7 @@
    ],
    "stars": 1,
    "summary": "In-game Addon of the Warlock Sim",
-   "updated": "2026-10-27",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -20428,64 +20659,18 @@
    ]
   },
   {
-   "name": "Aurarium",
-   "category": "economy",
+   "name": "BshamelUI",
+   "category": "ui",
    "folders": [
-    "Aurarium"
+    "BshamelUI"
    ],
    "stars": 1,
-   "summary": "This is a World of Warcraft addon that provides a detailed insight into wealth progression by tracking gold and currencies across all characters and displaying them over time.",
-   "updated": "2026-10-21",
+   "summary": "Bshamel UI \u2014 suite d'am\u00e9liorations d'interface pour World of Warcraft retail",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
-     "repo": "arcane-wizard-dev/Aurarium",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Expositum",
-   "category": "tooltips",
-   "folders": [
-    "Expositum"
-   ],
-   "stars": 1,
-   "summary": "This is a World of Warcraft addon that provides additional information about items directly in the tooltip.",
-   "updated": "2026-10-16",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "arcane-wizard-dev/Expositum",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Horatum",
-   "category": "raids",
-   "folders": [
-    "Horatum"
-   ],
-   "stars": 1,
-   "summary": "This is a World of Warcraft addon that tracks every boss encounter and saves the fastest victory.",
-   "updated": "2026-10-21",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "arcane-wizard-dev/Horatum",
+     "repo": "anthonycosson/BshamelUI",
      "flavors": [
       "forever",
       "mainline"
@@ -20494,42 +20679,20 @@
    ]
   },
   {
-   "name": "Arcane Wizard: Library",
-   "category": "libraries",
+   "name": "Commodum",
+   "category": "qol",
    "folders": [
-    "ArcaneWizardLibrary"
+    "Commodum"
    ],
    "stars": 1,
-   "summary": "This addon is a library for World of Warcraft that bundles recurring code segments and functionalities.",
-   "updated": "2026-10-21",
+   "summary": "This is a World of Warcraft addon that adds a few quality-of-life improvements to everyday gameplay.",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
-     "repo": "arcane-wizard-dev/Library",
+     "repo": "arcane-wizard-dev/Commodum",
      "flavors": [
-      "bcc",
-      "classic",
       "forever",
-      "mainline",
-      "mists"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Percursus",
-   "category": "auras",
-   "folders": [
-    "Percursus"
-   ],
-   "stars": 1,
-   "summary": "This is a World of Warcraft addon that displays a live timer during a race (e.g., Dragonriding & Skyriding) and provides a detailed time overview of all races.",
-   "updated": "2026-10-21",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "arcane-wizard-dev/Percursus",
-     "flavors": [
       "mainline"
      ]
     }
@@ -20765,7 +20928,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -21939,6 +22102,24 @@
     {
      "type": "github",
      "repo": "kapresoft/wow-addon-actionbarplus-arclayout",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Gears",
+   "category": "bags",
+   "folders": [
+    "Gears",
+    "Gears-OptionsUI"
+   ],
+   "stars": 1,
+   "summary": "A lightweight World of Warcraft addon that lets players quickly save, manage, and switch between gear sets to adapt to different roles, specs, and gameplay situations with ease..",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "kapresoft/wow-addon-gears",
      "flavors": []
     }
    ]
@@ -23160,25 +23341,6 @@
    ]
   },
   {
-   "name": "Rocket Meter",
-   "category": "combat",
-   "folders": [
-    "RocketMeter"
-   ],
-   "stars": 1,
-   "summary": "A damage meter for World of Warcraft: Midnight, built on Blizzard's official C_DamageMeter API, with an end-of-run scoreboard for Mythic+ and raids.",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "otaviohonorio/RocketMeter",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Rocket Swap",
    "category": "collections",
    "folders": [
@@ -23299,57 +23461,6 @@
     {
      "type": "github",
      "repo": "peavers-warcraft/PeaversConsumables",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "PeaversConsumablesData",
-   "category": "libraries",
-   "folders": [
-    "PeaversConsumablesData"
-   ],
-   "stars": 1,
-   "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "peavers-warcraft/PeaversConsumablesData",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "PeaversCurrencyData",
-   "category": "economy",
-   "folders": [
-    "PeaversCurrencyData"
-   ],
-   "stars": 1,
-   "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "peavers-warcraft/PeaversCurrencyData",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "PeaversGetThereData",
-   "category": "libraries",
-   "folders": [
-    "PeaversGetThereData"
-   ],
-   "stars": 1,
-   "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "peavers-warcraft/PeaversGetThereData",
      "flavors": []
     }
    ]
@@ -23819,6 +23930,26 @@
      "repo": "rousseauxy/SecretChecklist",
      "flavors": [
       "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Yours Truly",
+   "category": "economy",
+   "folders": [
+    "YoursTruly"
+   ],
+   "stars": 1,
+   "summary": "Yours Truly, a World of Warcraft addon (Classic Era and Forever): the people whose quest chains you finished write you a letter, waiting at the next mailbox",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "salty-max/yours-truly",
+     "flavors": [
+      "classic",
+      "forever"
      ]
     }
    ]
@@ -24638,6 +24769,44 @@
       "classic",
       "mainline",
       "mists"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Flag Up",
+   "category": "economy",
+   "folders": [
+    "FlagUp"
+   ],
+   "stars": 1,
+   "summary": "A World of Warcraft addon that mail the items you choose to your alts, each to the right one, when you open a mailbox.",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "yannlugrin/FlagUp",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Who's Who",
+   "category": "qol",
+   "folders": [
+    "WhosWho"
+   ],
+   "stars": 1,
+   "summary": "A World of Warcraft add-on that let a player link all their characters into one identity, choose who sees it, and recognise other people across their alts.",
+   "updated": "2026-10-23",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "yannlugrin/WhosWho",
+     "flavors": [
+      "forever"
      ]
     }
    ]
@@ -28220,7 +28389,7 @@
    ],
    "stars": 0,
    "summary": "Automatically summon the perfect companion pet based on your location, activity, and customizable trigger rules.",
-   "updated": "2026-10-18",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -33043,25 +33212,6 @@
    ]
   },
   {
-   "name": "Rematch Switcher",
-   "category": "qol",
-   "folders": [
-    "Rematch_Switcher"
-   ],
-   "stars": 0,
-   "summary": "A World of Warcraft addon to provide more options to load and switch between Rematch teams.",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "LiangYuxuan/Rematch_Switcher",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "TestServerWorldMap",
    "category": "maps",
    "folders": [
@@ -34199,7 +34349,7 @@
    ],
    "stars": 0,
    "summary": "WoW Mythic+ dashboard addon with tooltips \u2014 companion to mrmythical.com (CurseForge/Wago)",
-   "updated": "2026-10-25",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -34869,7 +35019,7 @@
    ],
    "stars": 0,
    "summary": "CooldownTimeline 3 \u2014 cooldown tracking timeline bar for WoW. Fork/continuation of CDTL2 by cliffclive.",
-   "updated": "2026-10-17",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -35105,7 +35255,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -36240,23 +36390,6 @@
      "flavors": [
       "forever"
      ]
-    }
-   ]
-  },
-  {
-   "name": "IOU",
-   "category": "economy",
-   "folders": [
-    "IOU"
-   ],
-   "stars": 0,
-   "summary": "Your personal debt and favor ledger for Azeroth. Keep track of who owes you gold, items, or help, and what you owe other players.",
-   "updated": "2026-10-18",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "PhilForever/IOU",
-     "flavors": []
     }
    ]
   },
@@ -45036,26 +45169,6 @@
    ]
   },
   {
-   "name": "BshamelUI",
-   "category": "ui",
-   "folders": [
-    "BshamelUI"
-   ],
-   "stars": 0,
-   "summary": "Bshamel UI \u2014 suite d'am\u00e9liorations d'interface pour World of Warcraft retail",
-   "updated": "2026-10-17",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "anthonycosson/BshamelUI",
-     "flavors": [
-      "forever",
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "AhjCharacterPanel",
    "category": "qol",
    "folders": [
@@ -45088,26 +45201,6 @@
      "type": "github",
      "repo": "aohajin/AwakeningUpdater",
      "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Commodum",
-   "category": "qol",
-   "folders": [
-    "Commodum"
-   ],
-   "stars": 0,
-   "summary": "This is a World of Warcraft addon that adds a few quality-of-life improvements to everyday gameplay.",
-   "updated": "2026-10-16",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "arcane-wizard-dev/Commodum",
-     "flavors": [
-      "forever",
       "mainline"
      ]
     }
@@ -47108,7 +47201,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -47127,7 +47220,7 @@
    ],
    "stars": 0,
    "summary": "Classic profession-levelling numbers (required skill, thresholds, skill-up chance) in WoW: Forever's Professions window",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -47147,7 +47240,7 @@
    ],
    "stars": 0,
    "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -47763,7 +47856,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-20",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -47917,7 +48010,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-14",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -47969,7 +48062,7 @@
    ],
    "stars": 0,
    "summary": "RaidMarks, Pulltimer and more",
-   "updated": "2026-10-22",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -53214,7 +53307,7 @@
    ],
    "stars": 0,
    "summary": "LuaDevKit is an in-game Lua dev toolkit: edit/view code with line numbers and gutter, evaluate the buffer, and inspect variable         values on the fly. Font, size, and wrap are user-configurable.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -53253,24 +53346,6 @@
     {
      "type": "github",
      "repo": "kapresoft/wow-addon-actionbarplus-masque",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "Gears",
-   "category": "bags",
-   "folders": [
-    "Gears",
-    "Gears-OptionsUI"
-   ],
-   "stars": 0,
-   "summary": "A lightweight World of Warcraft addon that lets players quickly save, manage, and switch between gear sets to adapt to different roles, specs, and gameplay situations with ease..",
-   "updated": "2026-10-24",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "kapresoft/wow-addon-gears",
      "flavors": []
     }
    ]
@@ -59577,7 +59652,7 @@
    ],
    "stars": 0,
    "summary": "Exploration riddles and rare hunts for WoW, with a bestiary, an atlas and collections of fish, herbs and materials.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59598,7 +59673,7 @@
    ],
    "stars": 0,
    "summary": "Goodwill, a World of Warcraft addon (Classic Era and Forever): every faction's road to Exalted from where you stand, and a chapter of its story at each standing",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59618,7 +59693,7 @@
    ],
    "stars": 0,
    "summary": "A diary for your WoW character, written as you play. Read it in game or on hearthtale.app, and keep the journals of fallen Hardcore characters.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59638,7 +59713,7 @@
    ],
    "stars": 0,
    "summary": "Keep your WoW minimap tidy by collecting addon buttons in a drawer behind one key. Choose which buttons stay on the minimap.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59659,7 +59734,7 @@
    ],
    "stars": 0,
    "summary": "Discover Azeroth's lore as you explore, meet its people and complete quests. Collect the books and notes you read along the way.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59680,7 +59755,7 @@
    ],
    "stars": 0,
    "summary": "A chef's cookbook that fills in as you learn to cook, and the road to 300 cooking: what to cook next and how many. For WoW Classic Era and Forever.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59700,7 +59775,7 @@
    ],
    "stars": 0,
    "summary": "Quests and NPC conversations in a large, readable panel beside the NPC, answered from the keyboard. For WoW Classic Era, TBC Anniversary and Forever.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59721,7 +59796,7 @@
    ],
    "stars": 0,
    "summary": "Review close calls and deaths in WoW. See what hit you, which potions and abilities went unused, and patterns across your dangerous fights.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59750,26 +59825,6 @@
      "flavors": [
       "bcc",
       "classic"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Yours Truly",
-   "category": "economy",
-   "folders": [
-    "YoursTruly"
-   ],
-   "stars": 0,
-   "summary": "Yours Truly, a World of Warcraft addon (Classic Era and Forever): the people whose quest chains you finished write you a letter, waiting at the next mailbox",
-   "updated": "2026-10-26",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "salty-max/yours-truly",
-     "flavors": [
-      "classic",
-      "forever"
      ]
     }
    ]
@@ -61965,7 +62020,7 @@
    ],
    "stars": 0,
    "summary": "One minimap button for all",
-   "updated": "2026-02-25",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -63125,7 +63180,7 @@
    ],
    "stars": 0,
    "summary": "World Of Warcraft Cooldown Enhancement Addon",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -63354,6 +63409,7 @@
     "Goblinomics_Connector_CraftSim",
     "Goblinomics_Connector_GatherMate2",
     "Goblinomics_Connector_TSM",
+    "Goblinomics_Flips",
     "Goblinomics_Gatherer",
     "Goblinomics_Import",
     "Goblinomics_Insights",
@@ -63364,7 +63420,7 @@
    ],
    "stars": 0,
    "summary": "Track. Analyze. Profit. Make Gallywix Jealous.",
-   "updated": "2026-10-18",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -63518,44 +63574,6 @@
     {
      "type": "github",
      "repo": "yak3d/wow4e-scrolling-quest-text",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Flag Up",
-   "category": "economy",
-   "folders": [
-    "FlagUp"
-   ],
-   "stars": 0,
-   "summary": "A World of Warcraft addon that mail the items you choose to your alts, each to the right one, when you open a mailbox.",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "yannlugrin/FlagUp",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Who's Who",
-   "category": "qol",
-   "folders": [
-    "WhosWho"
-   ],
-   "stars": 0,
-   "summary": "A World of Warcraft add-on that let a player link all their characters into one identity, choose who sees it, and recognise other people across their alts.",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "yannlugrin/WhosWho",
      "flavors": [
       "forever"
      ]
