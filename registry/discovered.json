@@ -236,7 +236,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 167,
+   "stars": 168,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -321,7 +321,7 @@
    ],
    "stars": 89,
    "summary": "g",
-   "updated": "2026-10-14",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -1588,7 +1588,7 @@
    ],
    "stars": 23,
    "summary": "RCLootCouncil - addon for World of Warcraft",
-   "updated": "2026-10-13",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -1747,6 +1747,25 @@
    ]
   },
   {
+   "name": "Olympus",
+   "category": "maps",
+   "folders": [
+    "Olympus",
+    "OlympusSiteAggregate",
+    "Olympus_Arena"
+   ],
+   "stars": 21,
+   "summary": "Live census of every Olympus guild in WoW: Forever - army size, leaders, map, decrees and tabard inspection",
+   "updated": "2026-10-26",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "dnl-gentile/olympus-addon",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "ElvUI_Extras",
    "category": "ui",
    "folders": [
@@ -1805,25 +1824,6 @@
       "classic",
       "mists"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Olympus",
-   "category": "maps",
-   "folders": [
-    "Olympus",
-    "OlympusSiteAggregate",
-    "Olympus_Arena"
-   ],
-   "stars": 20,
-   "summary": "Live census of every Olympus guild in WoW: Forever - army size, leaders, map, decrees and tabard inspection",
-   "updated": "2026-10-26",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "dnl-gentile/olympus-addon",
-     "flavors": []
     }
    ]
   },
@@ -3646,7 +3646,7 @@
    ],
    "stars": 11,
    "summary": "WoW Forever Addon",
-   "updated": "2026-10-23",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -4122,7 +4122,7 @@
    ],
    "stars": 10,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -7006,23 +7006,6 @@
    ]
   },
   {
-   "name": "ItemAutocomplete",
-   "category": "chat",
-   "folders": [
-    "ItemAutocomplete"
-   ],
-   "stars": 5,
-   "summary": "Chat autocomplete for item links in WoW Classic",
-   "updated": "2026-08-19",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "darfink/ItemAutocomplete",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Baggins",
    "category": "qol",
    "folders": [
@@ -7991,7 +7974,7 @@
    ],
    "stars": 4,
    "summary": "Git source for the Better Timeline addon",
-   "updated": "2026-10-14",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -11137,14 +11120,15 @@
    ]
   },
   {
-   "name": "LoreForever_Voice_Female_Quests3",
-   "category": "quests",
+   "name": "LoreForever_Lang_frFR",
+   "category": "raids",
    "folders": [
-    "LoreForever_Voice_Female_Quests3"
+    "LoreForever_Lang_frFR",
+    "LoreForever_Voice_Female_frFR"
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -12438,7 +12422,7 @@
    ],
    "stars": 2,
    "summary": "See what every herb and ore on your minimap is, and make the ones near you sparkle. WoW Forever addon",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -15650,7 +15634,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -16135,6 +16119,23 @@
    ]
   },
   {
+   "name": "WeaponWise",
+   "category": "tooltips",
+   "folders": [
+    "WeaponWise"
+   ],
+   "stars": 1,
+   "summary": "A World of Warcraft: Forever addon. Weapon tooltips show your current skill with the weapon type, or which trainer teaches it, where they stand, and what it costs.",
+   "updated": "2026-10-15",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Cloudmancermedia/WeaponWise",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "DirectDeposit",
    "category": "bags",
    "folders": [
@@ -16439,7 +16440,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -16447,6 +16448,28 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "EldoUI",
+   "category": "ui",
+   "folders": [
+    "EldoUI",
+    "EldoUI_Emoji",
+    "EldoUI_GuideData",
+    "EldoUI_Locale_daDK",
+    "EldoUI_LootData",
+    "EldoUI_LootSim"
+   ],
+   "stars": 1,
+   "summary": "An AI-made, deeply modular UI addon for WoW: Forever. More than 90 modules you can turn on or off, ten ready-made layouts, four roles and one consistent look across every window.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Eldodeldo/EldoUI",
+     "flavors": []
     }
    ]
   },
@@ -16736,7 +16759,7 @@
    ],
    "stars": 1,
    "summary": "H3z0UI is a complete, lightweight, modular User Interface replacement and Quality-of-Life suite for World of Warcraft. Built for performance and modern aesthetics, it overhaul default frames, combat tracking, cooldown ma",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -17102,7 +17125,7 @@
    ],
    "stars": 1,
    "summary": "WoW Forever addon that records each character's road from level 1 to 60 and replays it on the world map, with an app that keeps it backed up on every PC.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -20245,7 +20268,7 @@
    ],
    "stars": 1,
    "summary": "See what the best Mythic+ groups are actually playing. A World of Warcraft addon that shows how often each specialization appears in top-ranked Mythic+ runs, updated daily.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -27170,6 +27193,25 @@
    ]
   },
   {
+   "name": "Friendly Forever",
+   "category": "auras",
+   "folders": [
+    "FriendlyForever"
+   ],
+   "stars": 0,
+   "summary": "WoW Forever addon: greets guildmates, welcomes group members, and thanks people who buff you.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "CKozanecki/FriendlyForever",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Alias",
    "category": "qol",
    "folders": [
@@ -27892,23 +27934,6 @@
     {
      "type": "github",
      "repo": "Cloryaddons/ClassVoiceAlert",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "WeaponWise",
-   "category": "tooltips",
-   "folders": [
-    "WeaponWise"
-   ],
-   "stars": 0,
-   "summary": "A World of Warcraft: Forever addon. Weapon tooltips show your current skill with the weapon type, or which trainer teaches it, where they stand, and what it costs.",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Cloudmancermedia/WeaponWise",
      "flavors": []
     }
    ]
@@ -29348,27 +29373,6 @@
     {
      "type": "github",
      "repo": "Elanoran/ElanAddonHub",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "EldoUI",
-   "category": "ui",
-   "folders": [
-    "EldoUI",
-    "EldoUI_Emoji",
-    "EldoUI_Locale_daDK",
-    "EldoUI_LootData",
-    "EldoUI_LootSim"
-   ],
-   "stars": 0,
-   "summary": "An AI-made, deeply modular UI addon for WoW: Forever. More than 90 modules you can turn on or off, ten ready-made layouts, four roles and one consistent look across every window.",
-   "updated": "2026-10-23",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Eldodeldo/EldoUI",
      "flavors": []
     }
    ]
@@ -32453,7 +32457,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft addon that shows Best-in-Slot gear for your current class and spec. Auto-updated weekly from SimulationCraft profiles via GitHub Actions + CurseForge.",
-   "updated": "2026-10-21",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -34698,7 +34702,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Addon for auto equip gear with higher ilvl",
-   "updated": "2026-10-14",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -44061,23 +44065,6 @@
    ]
   },
   {
-   "name": "MogCompanions",
-   "category": "collections",
-   "folders": [
-    "MogCompanions"
-   ],
-   "stars": 0,
-   "summary": "A maintained fork of MogMount for World of Warcraft, with compatibility updates and new functionality.",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Zensunim/MogCompanions",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "BetterDamageText",
    "category": "qol",
    "folders": [
@@ -48059,7 +48046,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-14",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -50344,7 +50331,7 @@
    ],
    "stars": 0,
    "summary": "Extra Utilities for RCLootCouncil",
-   "updated": "2026-08-16",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -50366,7 +50353,7 @@
    ],
    "stars": 0,
    "summary": "A simple module for showing group/guild ilvl and number of artifact traits.",
-   "updated": "2026-08-16",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -52046,7 +52033,7 @@
    ],
    "stars": 0,
    "summary": "Mythic+ Warcraft Logs DPS/HPS profiles for WoW group recruitment, with a Windows Companion. Discuss the addon on Discord: https://discord.gg/URUukHCUW",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -53527,7 +53514,7 @@
    ],
    "stars": 0,
    "summary": "Modular UI suite for World of Warcraft: Forever, with class-themed artwork and ready layouts for all nine classes.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -54080,7 +54067,7 @@
    ],
    "stars": 0,
    "summary": "LFG filter addon for wow",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -55159,14 +55146,14 @@
    ]
   },
   {
-   "name": "OurSagas",
+   "name": "Sagalore",
    "category": "qol",
    "folders": [
-    "OurSagas"
+    "Sagalore"
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -57683,7 +57670,7 @@
    ],
    "stars": 0,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -58072,7 +58059,7 @@
    ],
    "stars": 0,
    "summary": "Dungeon and raid maps, loot and boss abilities for WoW Forever, built into the default World Map (WoW addon, GPL-3.0).",
-   "updated": "2026-10-20",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -59044,7 +59031,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
@@ -60451,7 +60438,7 @@
    ],
    "stars": 0,
    "summary": "LedgerLink \u2014 WoW: Forever addon that exports your character, guild roster and raid pulls as paste strings for Raid Ledger",
-   "updated": "2026-10-22",
+   "updated": "2026-10-28",
    "sources": [
     {
      "type": "github",
