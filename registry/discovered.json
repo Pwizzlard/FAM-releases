@@ -31,7 +31,7 @@
    ],
    "stars": 362,
    "summary": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs ",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -339,6 +339,23 @@
    ]
   },
   {
+   "name": "Factoruide_Profile",
+   "category": "quests",
+   "folders": [
+    "Factoruide_Profile"
+   ],
+   "stars": 86,
+   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
+   "updated": "2026-10-20",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "brouznouf/factoruide",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "RealUI",
    "category": "ui",
    "folders": [
@@ -366,23 +383,6 @@
       "forever",
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Factoruide_Profile",
-   "category": "quests",
-   "folders": [
-    "Factoruide_Profile"
-   ],
-   "stars": 85,
-   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
-   "updated": "2026-10-20",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "brouznouf/factoruide",
-     "flavors": []
     }
    ]
   },
@@ -5114,25 +5114,6 @@
    ]
   },
   {
-   "name": "WowUkrainizer",
-   "category": "quests",
-   "folders": [
-    "WowUkrainizer"
-   ],
-   "stars": 7,
-   "summary": "Addon for the World of Warcraft, designed to provide Ukrainian-speaking players with a localized gaming experience",
-   "updated": "2026-05-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Cancri55E/WowUkrainizer",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "<DBM Mod> PvP",
    "category": "raids",
    "folders": [
@@ -5782,6 +5763,25 @@
     {
      "type": "github",
      "repo": "Breeni/BtWQuestsDragonflight",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "WowUkrainizer",
+   "category": "quests",
+   "folders": [
+    "WowUkrainizer"
+   ],
+   "stars": 6,
+   "summary": "Addon for the World of Warcraft, designed to provide Ukrainian-speaking players with a localized gaming experience",
+   "updated": "2026-05-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Cancri55E/WowUkrainizer",
      "flavors": [
       "mainline"
      ]
@@ -8660,7 +8660,7 @@
    ],
    "stars": 4,
    "summary": "WoW addon for keeping track of the weekly rewards progress accross all your characters.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -12307,7 +12307,7 @@
    ],
    "stars": 2,
    "summary": "An in-game library for reading, organizing, and bookmarking books and notes in World of Warcraft",
-   "updated": "2026-10-26",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -13350,23 +13350,6 @@
     {
      "type": "github",
      "repo": "Todoloo-WoW/Todoloo",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "Aegis_Forever_Instance_Journal",
-   "category": "raids",
-   "folders": [
-    "Aegis_Forever_Instance_Journal"
-   ],
-   "stars": 2,
-   "summary": "Forever Instance Journal is an attempt to bring the retail instance journal and dungeon maps to forever.",
-   "updated": "2026-10-22",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Torchlite-bit/Aegis_Forever_Instance_Journal",
      "flavors": []
     }
    ]
@@ -17038,6 +17021,23 @@
    ]
   },
   {
+   "name": "RunPace",
+   "category": "raids",
+   "folders": [
+    "RunPace"
+   ],
+   "stars": 1,
+   "summary": "Azeroth Survivors addon: kills/min and XP/min tracker with low-HP, enemy-count and boss alerts.",
+   "updated": "2026-10-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Hearts47/RunPace",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Perl_Player_Buff",
    "category": "auras",
    "folders": [
@@ -20500,7 +20500,7 @@
    ],
    "stars": 1,
    "summary": "See what the best Mythic+ groups are actually playing. A World of Warcraft addon that shows how often each specialization appears in top-ranked Mythic+ runs, updated daily.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -24117,6 +24117,23 @@
    ]
   },
   {
+   "name": "QuestTargets",
+   "category": "quests",
+   "folders": [
+    "QuestTargets"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-10-29",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "simonrath/questtargets",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Mailworthy",
    "category": "bags",
    "folders": [
@@ -24799,13 +24816,16 @@
    ],
    "stars": 1,
    "summary": "A World of Warcraft addon that mail the items you choose to your alts, each to the right one, when you open a mailbox.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
      "repo": "yannlugrin/FlagUp",
      "flavors": [
-      "forever"
+      "bcc",
+      "classic",
+      "forever",
+      "mainline"
      ]
     }
    ]
@@ -25972,7 +25992,7 @@
    ],
    "stars": 0,
    "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -30790,23 +30810,6 @@
    ]
   },
   {
-   "name": "RunPace",
-   "category": "raids",
-   "folders": [
-    "RunPace"
-   ],
-   "stars": 0,
-   "summary": "Azeroth Survivors addon: kills/min and XP/min tracker with low-HP, enemy-count and boss alerts.",
-   "updated": "2026-10-24",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Hearts47/RunPace",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "TotemWatch",
    "category": "qol",
    "folders": [
@@ -32753,7 +32756,7 @@
    ],
    "stars": 0,
    "summary": "Adds ranked PvP ratings, personal bests and season stats to player tooltips. Hover any player to see 2v2/3v3/Shuffle/RBG/Blitz ratings instantly \u2014 no clicks, no website. Updated frequently.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -34475,7 +34478,7 @@
    ],
    "stars": 0,
    "summary": "In-game neural-net DPS prediction addon \u2014 model trained via SimC-Factory and exported to Lua",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -34602,7 +34605,7 @@
    ],
    "stars": 0,
    "summary": "A simple World of Warcraft addon that tracks your collection history in AllTheThings (ATT).",
-   "updated": "2026-10-26",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -34940,7 +34943,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Addon for auto equip gear with higher ilvl",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -40750,7 +40753,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -51097,7 +51100,7 @@
    ],
    "stars": 0,
    "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -51977,7 +51980,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -56410,7 +56413,7 @@
    ],
    "stars": 0,
    "summary": "WoW Addon: Bind SHIFT/ALT/CTRL to a mouse button",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -57646,23 +57649,6 @@
    ]
   },
   {
-   "name": "NPRoster",
-   "category": "chat",
-   "folders": [
-    "NPRoster"
-   ],
-   "stars": 0,
-   "summary": "Tools og addons fra guilden Nordens Paris (WoW Forever)",
-   "updated": "2026-10-22",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "nordens-paris/tools",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "BetterStackSplitter",
    "category": "qol",
    "folders": [
@@ -58099,7 +58085,7 @@
    ],
    "stars": 0,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
