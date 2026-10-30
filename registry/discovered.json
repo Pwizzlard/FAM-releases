@@ -100,7 +100,7 @@
    ],
    "stars": 260,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-   "updated": "2026-10-27",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -527,6 +527,36 @@
    ]
   },
   {
+   "name": "Carbonite All in One (Retail & Classic)",
+   "category": "maps",
+   "folders": [
+    "Carbonite",
+    "Carbonite.Gathermate2_Data",
+    "Carbonite.Info",
+    "Carbonite.Notes",
+    "Carbonite.Quests",
+    "Carbonite.Warehouse"
+   ],
+   "stars": 57,
+   "summary": "Carbonite + Modules for WoW Retail and Classic",
+   "updated": "2026-10-13",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "IrcDirk/Carbonite-All-in-One-Retail-Classic",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "wrath"
+     ]
+    }
+   ]
+  },
+  {
    "name": "[Lib] Scorpio",
    "category": "libraries",
    "folders": [
@@ -544,36 +574,6 @@
       "bcc",
       "cata",
       "classic",
-      "mainline",
-      "mists",
-      "wrath"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Carbonite All in One (Retail & Classic)",
-   "category": "maps",
-   "folders": [
-    "Carbonite",
-    "Carbonite.Gathermate2_Data",
-    "Carbonite.Info",
-    "Carbonite.Notes",
-    "Carbonite.Quests",
-    "Carbonite.Warehouse"
-   ],
-   "stars": 56,
-   "summary": "Carbonite + Modules for WoW Retail and Classic",
-   "updated": "2026-10-13",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "IrcDirk/Carbonite-All-in-One-Retail-Classic",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
       "mainline",
       "mists",
       "wrath"
@@ -739,7 +739,7 @@
    ],
    "stars": 44,
    "summary": "RaiderIO AddOn",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -2499,6 +2499,23 @@
    ]
   },
   {
+   "name": "WeakestAuras",
+   "category": "auras",
+   "folders": [
+    "WeakestAuras"
+   ],
+   "stars": 16,
+   "summary": "Attempt at a WeakAuras clone for the 1.12 Client with ClassicAPI, Nampower and SuperWoW client mods",
+   "updated": "2026-10-29",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "fuffc/WeakestAuras",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Dejunk",
    "category": "bags",
    "folders": [
@@ -2678,23 +2695,6 @@
     {
      "type": "github",
      "repo": "Xurkon/Questie-X",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "WeakestAuras",
-   "category": "auras",
-   "folders": [
-    "WeakestAuras"
-   ],
-   "stars": 15,
-   "summary": "Attempt at a WeakAuras clone for the 1.12 Client with ClassicAPI, Nampower and SuperWoW client mods",
-   "updated": "2026-10-29",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "fuffc/WeakestAuras",
      "flavors": []
     }
    ]
@@ -3394,23 +3394,6 @@
    ]
   },
   {
-   "name": "SatchelScanner",
-   "category": "qol",
-   "folders": [
-    "SatchelScanner"
-   ],
-   "stars": 12,
-   "summary": "WoW Satchel Scanner",
-   "updated": "2026-10-29",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "theriou/Satchel-Scanner",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "LiteButtonAuras (Classic)",
    "category": "actionbars",
    "folders": [
@@ -3707,6 +3690,23 @@
    ]
   },
   {
+   "name": "SatchelScanner",
+   "category": "qol",
+   "folders": [
+    "SatchelScanner"
+   ],
+   "stars": 11,
+   "summary": "WoW Satchel Scanner",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "theriou/Satchel-Scanner",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "RollFor-WotLK",
    "category": "qol",
    "folders": [
@@ -3829,14 +3829,14 @@
    ]
   },
   {
-   "name": "Routine",
+   "name": "Routine Data",
    "category": "qol",
    "folders": [
-    "MidnightRoutine"
+    "RoutineData"
    ],
    "stars": 10,
    "summary": "A world of warcraft todo list",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -6241,7 +6241,7 @@
    ],
    "stars": 6,
    "summary": "SpellCoda  - Addon for World of Warcraft Classic",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -6822,7 +6822,7 @@
    ],
    "stars": 5,
    "summary": "Merchant Frame Extended is a small addon that lets you extend the default 5 rows, 2 columns merchant frame up to 10 rows and 6 columns. The direction in which the items fill the window is also adjustable.",
-   "updated": "2026-10-24",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -12410,7 +12410,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -13811,7 +13811,7 @@
    ],
    "stars": 2,
    "summary": "The fastest way anywhere in WoW: Forever: walks, flight paths, boats, zeppelins, lifts, the tram and portals, guided turn by turn",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -16962,7 +16962,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -19710,6 +19710,23 @@
    ]
   },
   {
+   "name": "SoulshardLookup",
+   "category": "qol",
+   "folders": [
+    "SoulshardLookup"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Spatovaliyski/Soulshard.io-lookup",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "AltStable Forever edition",
    "category": "qol",
    "folders": [
@@ -20950,7 +20967,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -20969,7 +20986,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -24894,6 +24911,23 @@
    ]
   },
   {
+   "name": "SpokenBooksAudio",
+   "category": "qol",
+   "folders": [
+    "SpokenBooksAudio"
+   ],
+   "stars": 1,
+   "summary": "An immersive narration and lore companion for Vanilla WoW (1.12), featuring voiced exploration, books, and an in-game compendium. Based on Spoken WoW.",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "z1xel/SoftSpoken",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "QFXMinimapTools",
    "category": "maps",
    "folders": [
@@ -26000,7 +26034,7 @@
    ],
    "stars": 0,
    "summary": "Character stats and gear HUD for WoW Retail and Forever beta, with customizable layouts, profiles and Retail-only Archon references.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -28063,6 +28097,26 @@
    ]
   },
   {
+   "name": "TransmogSituations",
+   "category": "collections",
+   "folders": [
+    "TransmogSituations"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Ciaanh/TransmogSituations",
+     "flavors": [
+      "forever",
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "XP Bar Enhanced",
    "category": "quests",
    "folders": [
@@ -28070,7 +28124,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -28885,7 +28939,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -29603,7 +29657,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -31172,7 +31226,7 @@
    ],
    "stars": 0,
    "summary": "Automatic level-up, boss and loot clips for WoW Forever, filed by character (NVIDIA Instant Replay).",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -32504,7 +32558,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft: Forever addon that tracks your alts: item counts in tooltips, gold, professions and recipes, gear, mail expiry, rested XP and time played. Lightweight, no libraries.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -39362,7 +39416,7 @@
    ],
    "stars": 0,
    "summary": "Loot council voting for Retail and WoW Forever raids",
-   "updated": "2026-10-27",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -40044,23 +40098,6 @@
     {
      "type": "github",
      "repo": "Sparxx947/CCAlarm",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "SoulshardLookup",
-   "category": "qol",
-   "folders": [
-    "SoulshardLookup"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-29",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Spatovaliyski/Soulshard.io-lookup",
      "flavors": []
     }
    ]
@@ -47485,7 +47522,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -47504,7 +47541,7 @@
    ],
    "stars": 0,
    "summary": "Classic profession-levelling numbers (required skill, thresholds, skill-up chance) in WoW: Forever's Professions window",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -47524,7 +47561,7 @@
    ],
    "stars": 0,
    "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -51898,7 +51935,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -52721,7 +52758,7 @@
    ],
    "stars": 0,
    "summary": "Quality-of-life tools for Warlocks in WoW: Forever, starting with automatic Soul Shard management",
-   "updated": "2026-10-26",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -57517,7 +57554,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -57913,7 +57950,7 @@
    ],
    "stars": 0,
    "summary": "Seramate PvP Inspect - PvP rating tooltips",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -59840,6 +59877,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "HealerStatWeights",
+   "category": "qol",
+   "folders": [
+    "HealerStatWeights"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "rwisdom/HSW-Forever",
+     "flavors": []
     }
    ]
   },
