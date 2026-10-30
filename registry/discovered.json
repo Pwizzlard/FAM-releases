@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-10-29",
+ "built": "2026-10-30",
  "tier": "discovered",
  "addons": [
   {
@@ -1998,7 +1998,7 @@
    ],
    "stars": 19,
    "summary": "The original Classic look on WoW Forever and Retail.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -2749,6 +2749,27 @@
    ]
   },
   {
+   "name": "ForeverAuras",
+   "category": "auras",
+   "folders": [
+    "ForeverAuras",
+    "ForeverAurasArchive",
+    "ForeverAurasModelPaths",
+    "ForeverAurasOptions",
+    "ForeverAurasTemplates"
+   ],
+   "stars": 15,
+   "summary": "WoW Forever Addon",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "neroxrw/foreverauras",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "ExtraQuestButton",
    "category": "quests",
    "folders": [
@@ -3188,27 +3209,6 @@
       "classic",
       "mists"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForeverAuras",
-   "category": "auras",
-   "folders": [
-    "ForeverAuras",
-    "ForeverAurasArchive",
-    "ForeverAurasModelPaths",
-    "ForeverAurasOptions",
-    "ForeverAurasTemplates"
-   ],
-   "stars": 13,
-   "summary": "WoW Forever Addon",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "neroxrw/foreverauras",
-     "flavors": []
     }
    ]
   },
@@ -3773,7 +3773,7 @@
    ],
    "stars": 10,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -6770,7 +6770,7 @@
    ],
    "stars": 5,
    "summary": "WoW addon that automatically enables or disables combat logging based on location.",
-   "updated": "2026-08-19",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -6779,8 +6779,10 @@
       "bcc",
       "cata",
       "classic",
+      "forever",
       "mainline",
       "mists",
+      "titan",
       "wrath"
      ]
     }
@@ -7378,7 +7380,7 @@
    ],
    "stars": 5,
    "summary": "A data library addon for World of Warcraft that provides daily updated talent export codes from parses.gg.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -8973,6 +8975,23 @@
      "flavors": [
       "forever"
      ]
+    }
+   ]
+  },
+  {
+   "name": "TinyTooltip-Remake",
+   "category": "tooltips",
+   "folders": [
+    "TinyTooltip-Remake"
+   ],
+   "stars": 4,
+   "summary": "A simple tooltip addon based on deprecated TinyTooltip ",
+   "updated": "2026-10-14",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "nc-hyw/TinyTooltip-Remake",
+     "flavors": []
     }
    ]
   },
@@ -11218,23 +11237,6 @@
       "forever",
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "TinyTooltip-Remake",
-   "category": "tooltips",
-   "folders": [
-    "TinyTooltip-Remake"
-   ],
-   "stars": 3,
-   "summary": "A simple tooltip addon based on deprecated TinyTooltip ",
-   "updated": "2026-10-14",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "nc-hyw/TinyTooltip-Remake",
-     "flavors": []
     }
    ]
   },
@@ -15044,7 +15046,7 @@
    ],
    "stars": 2,
    "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -15061,7 +15063,7 @@
    ],
    "stars": 2,
    "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -15095,7 +15097,7 @@
    ],
    "stars": 2,
    "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -16031,7 +16033,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -16050,7 +16052,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -16069,7 +16071,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -16088,7 +16090,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -16107,7 +16109,7 @@
    ],
    "stars": 1,
    "summary": "Tradeskill Addon for WoW Forever",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -16395,7 +16397,7 @@
    ],
    "stars": 1,
    "summary": "Solex's Collection of raid utilities",
-   "updated": "2026-10-28",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -17374,7 +17376,7 @@
    ],
    "stars": 1,
    "summary": "WoW Forever addon that records each character's road from level 1 to 60 and replays it on the world map, with an app that keeps it backed up on every PC.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -17477,7 +17479,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -21282,7 +21284,7 @@
    ],
    "stars": 1,
    "summary": "ZoidsTools is a lightweight World of Warcraft quality-of-life addon built around small, practical interface improvements.",
-   "updated": "2026-10-19",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -23465,7 +23467,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides daily updated Best-in-Slot gear information from Archon.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -23567,7 +23569,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -23652,7 +23654,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits per dungeon and keystone level for PeaversSplits.",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -28113,7 +28115,7 @@
    ],
    "stars": 0,
    "summary": "A World of Warcraft addon that extends the default chat.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -28121,6 +28123,7 @@
      "flavors": [
       "bcc",
       "classic",
+      "forever",
       "mainline",
       "mists"
      ]
@@ -29801,6 +29804,31 @@
      "type": "github",
      "repo": "EvilGav/RareScanner_EllesmereUI",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Craft Alert",
+   "category": "professions",
+   "folders": [
+    "CraftAlert"
+   ],
+   "stars": 0,
+   "summary": "Craft Alert \u2014 Trade Chat Crafting Requests",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "F0rty-Tw0/CraftAlert",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "wrath"
+     ]
     }
    ]
   },
@@ -33335,7 +33363,7 @@
    ],
    "stars": 0,
    "summary": "A simple World of Warcraft addon to provide missing world map texture in test server (ptr, xptr, beta) using locale other than enUS and frFR.",
-   "updated": "2026-10-23",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -34932,7 +34960,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-15",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -39560,6 +39588,23 @@
    ]
   },
   {
+   "name": "OakUI_Installer",
+   "category": "ui",
+   "folders": [
+    "OakUI_Installer"
+   ],
+   "stars": 0,
+   "summary": "OakUI Suite: The Ultimate One-Click Profile Installer",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Smokenoaken/OakUI_Installer",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Lib: ChroMacro",
    "category": "libraries",
    "folders": [
@@ -39585,26 +39630,24 @@
    ]
   },
   {
-   "name": "Lib: LibLog-1.0",
+   "name": "Lib: Log",
    "category": "libraries",
    "folders": [
-    "LibLog-1.0"
+    "LibLog"
    ],
    "stars": 0,
    "summary": "A configurable logging library for World of Warcraft",
-   "updated": "2026-09-28",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
      "repo": "Snakybo/LibLog",
      "flavors": [
       "bcc",
-      "cata",
       "classic",
       "forever",
       "mainline",
-      "mists",
-      "wrath"
+      "mists"
      ]
     }
    ]
@@ -46024,7 +46067,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-19",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -46378,7 +46421,7 @@
    ],
    "stars": 0,
    "summary": "CeeLo brings the classic three-dice street game to World of Warcraft with a duel-style challenge flow and cryptographic fairness. Challenge another player, accept or decline, then watch a short countdown and deterministi",
-   "updated": "2026-02-23",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -46391,12 +46434,12 @@
   },
   {
    "name": "GroupGuard",
-   "category": "qol",
+   "category": "raids",
    "folders": [
     "GroupGuard"
    ],
    "stars": 0,
-   "summary": "",
+   "summary": "A World of Warcraft addon that shows a green or red indicator for whether you and four friends are exactly the five members of a raid subgroup.",
    "updated": "2026-10-07",
    "sources": [
     {
@@ -47606,23 +47649,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Vanguard",
-   "category": "qol",
-   "folders": [
-    "Vanguard"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-29",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "clifftaylor2325/wow-vanguard-ui",
-     "flavors": []
     }
    ]
   },
@@ -53313,7 +53339,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-24",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -53879,11 +53905,12 @@
    "name": "Highground",
    "category": "qol",
    "folders": [
-    "Highground"
+    "Highground",
+    "HighgroundBountyData"
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -54444,7 +54471,7 @@
    ],
    "stars": 0,
    "summary": "LFG filter addon for wow",
-   "updated": "2026-10-28",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -57393,7 +57420,7 @@
    ],
    "stars": 0,
    "summary": "WoW Addon",
-   "updated": "2026-10-26",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -57992,7 +58019,7 @@
    ],
    "stars": 0,
    "summary": "The World of Warcraft mounts you are still missing, ordered from easiest to hardest, with a card explaining how each one is obtained. For Midnight.",
-   "updated": "2026-10-26",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -59335,7 +59362,7 @@
    ],
    "stars": 0,
    "summary": "SpellPad Studio: macro and keybind manager with its own on-screen action bars, for Stream Deck and macro pads (WoW Retail and Forever)",
-   "updated": "2026-10-28",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -63093,7 +63120,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -64114,7 +64141,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail equipment inspection and recommendations with optional EllesmereUI styling",
-   "updated": "2026-10-28",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
