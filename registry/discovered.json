@@ -299,7 +299,7 @@
    ],
    "stars": 101,
    "summary": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -2312,6 +2312,33 @@
    ]
   },
   {
+   "name": "Gargul",
+   "category": "raids",
+   "folders": [
+    "Gargul",
+    "Gargul_ItemData"
+   ],
+   "stars": 17,
+   "summary": "",
+   "updated": "2026-10-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "papa-smurf/Gargul",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "titan",
+      "wrath"
+     ]
+    }
+   ]
+  },
+  {
    "name": "tullaCTC",
    "category": "auras",
    "folders": [
@@ -2495,33 +2522,6 @@
    ]
   },
   {
-   "name": "Gargul",
-   "category": "raids",
-   "folders": [
-    "Gargul",
-    "Gargul_ItemData"
-   ],
-   "stars": 16,
-   "summary": "",
-   "updated": "2026-10-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "papa-smurf/Gargul",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ]
-    }
-   ]
-  },
-  {
    "name": "AuroraClassic",
    "category": "ui",
    "folders": [
@@ -2678,6 +2678,23 @@
     {
      "type": "github",
      "repo": "Xurkon/Questie-X",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "WeakestAuras",
+   "category": "auras",
+   "folders": [
+    "WeakestAuras"
+   ],
+   "stars": 15,
+   "summary": "Attempt at a WeakAuras clone for the 1.12 Client with ClassicAPI, Nampower and SuperWoW client mods",
+   "updated": "2026-10-29",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "fuffc/WeakestAuras",
      "flavors": []
     }
    ]
@@ -2909,23 +2926,6 @@
      "flavors": [
       "classic"
      ]
-    }
-   ]
-  },
-  {
-   "name": "WeakestAuras",
-   "category": "auras",
-   "folders": [
-    "WeakestAuras"
-   ],
-   "stars": 14,
-   "summary": "Attempt at a WeakAuras clone for the 1.12 Client with ClassicAPI, Nampower and SuperWoW client mods",
-   "updated": "2026-08-31",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "fuffc/WeakestAuras",
-     "flavors": []
     }
    ]
   },
@@ -3188,6 +3188,27 @@
       "classic",
       "mists"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ForeverAuras",
+   "category": "auras",
+   "folders": [
+    "ForeverAuras",
+    "ForeverAurasArchive",
+    "ForeverAurasModelPaths",
+    "ForeverAurasOptions",
+    "ForeverAurasTemplates"
+   ],
+   "stars": 13,
+   "summary": "WoW Forever Addon",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "neroxrw/foreverauras",
+     "flavors": []
     }
    ]
   },
@@ -3655,7 +3676,7 @@
    ],
    "stars": 11,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -3663,27 +3684,6 @@
      "flavors": [
       "forever"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForeverAuras",
-   "category": "auras",
-   "folders": [
-    "ForeverAuras",
-    "ForeverAurasArchive",
-    "ForeverAurasModelPaths",
-    "ForeverAurasOptions",
-    "ForeverAurasTemplates"
-   ],
-   "stars": 11,
-   "summary": "WoW Forever Addon",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "neroxrw/foreverauras",
-     "flavors": []
     }
    ]
   },
@@ -10359,7 +10359,7 @@
    ],
    "stars": 3,
    "summary": "This is a World of Warcraft addon that automatically takes screenshots of selected gameplay moments.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -11982,7 +11982,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -13625,7 +13625,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that tracks gold and currencies across characters.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -13648,7 +13648,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that makes item tooltips more informative.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -13671,7 +13671,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that records the duration and results of supported boss encounters.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -13691,7 +13691,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that provides the shared foundation for all Arcane Wizard addons.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -13714,7 +13714,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that tracks times in supported races, including Skyriding, Skyrocketing, and Breakneck (D.R.I.V.E.).",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -14685,6 +14685,25 @@
      "type": "github",
      "repo": "last-voice/mounty",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Overlord Forever",
+   "category": "pvp",
+   "folders": [
+    "Overlord"
+   ],
+   "stars": 2,
+   "summary": "World PvP for WoW Forever: territory capture, guild keeps, outposts and weekly rankings.",
+   "updated": "2026-10-21",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "leliondoc/overlord-forever-addon",
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -15830,7 +15849,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -17871,7 +17890,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -18070,7 +18089,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -20687,7 +20706,7 @@
    ],
    "stars": 1,
    "summary": "This is a World of Warcraft addon that makes everyday gameplay more convenient.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -20857,7 +20876,7 @@
    ],
    "stars": 1,
    "summary": "`isiLive` is a WoW group helper addon for Mythic+ pug/party flow.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -20934,6 +20953,25 @@
     {
      "type": "github",
      "repo": "cjber/adventure-guide-forever",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Legacy Forever",
+   "category": "maps",
+   "folders": [
+    "LegacyForever"
+   ],
+   "stars": 1,
+   "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
+   "updated": "2026-10-29",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "cjber/legacy-forever",
      "flavors": [
       "forever"
      ]
@@ -21383,6 +21421,29 @@
      "flavors": [
       "bcc",
       "classic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Manners",
+   "category": "auras",
+   "folders": [
+    "Manners"
+   ],
+   "stars": 1,
+   "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
+   "updated": "2026-10-29",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "fpsacha/Manners",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
      ]
     }
    ]
@@ -22602,25 +22663,6 @@
       "mainline",
       "mists",
       "wrath"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Overlord Forever",
-   "category": "pvp",
-   "folders": [
-    "Overlord"
-   ],
-   "stars": 1,
-   "summary": "World PvP for WoW Forever: territory capture, guild keeps, outposts and weekly rankings.",
-   "updated": "2026-10-21",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "leliondoc/overlord-forever-addon",
-     "flavors": [
-      "forever"
      ]
     }
    ]
@@ -27415,23 +27457,6 @@
      "flavors": [
       "forever"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Alias",
-   "category": "qol",
-   "folders": [
-    "Alias"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Calyso/Alias",
-     "flavors": []
     }
    ]
   },
@@ -35507,7 +35532,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-09-24",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -36230,7 +36255,7 @@
    ],
    "stars": 0,
    "summary": "Addon for the Spectrum Federation - Garona Guild",
-   "updated": "2026-10-24",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -39988,7 +40013,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -47429,25 +47454,6 @@
    ]
   },
   {
-   "name": "Legacy Forever",
-   "category": "maps",
-   "folders": [
-    "LegacyForever"
-   ],
-   "stars": 0,
-   "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
-   "updated": "2026-10-29",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "cjber/legacy-forever",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
    "name": "SkillUp Forever",
    "category": "professions",
    "folders": [
@@ -51093,29 +51099,6 @@
    ]
   },
   {
-   "name": "Manners",
-   "category": "auras",
-   "folders": [
-    "Manners"
-   ],
-   "stars": 0,
-   "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
-   "updated": "2026-10-29",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "fpsacha/Manners",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Clean Binds",
    "category": "actionbars",
    "folders": [
@@ -53512,7 +53495,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon for managing just EPGP and keeping things simple.",
-   "updated": "2026-10-22",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -58662,7 +58645,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever Terminal add-on. Universal fuzzy-finder style search.",
-   "updated": "2026-10-28",
+   "updated": "2026-10-30",
    "sources": [
     {
      "type": "github",
@@ -58681,7 +58664,7 @@
    ],
    "stars": 0,
    "summary": "MyXPBar Forever - a clean, customizable XP bar for World of Warcraft: Forever (6 styles, rested XP, mobs-to-level, in-game options menu).",
-   "updated": "2026-10-16",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -60737,18 +60720,18 @@
    ]
   },
   {
-   "name": "Deathpool",
+   "name": "GrimGuesser",
    "category": "qol",
    "folders": [
-    "Deathpool"
+    "GrimGuesser"
    ],
    "stars": 0,
    "summary": "World of Warcraft Hardcore death prediction minigame.",
-   "updated": "2026-09-15",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
-     "repo": "shiftclack/deathpool",
+     "repo": "shiftclack/grimguesser",
      "flavors": []
     }
    ]
@@ -62749,8 +62732,8 @@
     "Maines"
    ],
    "stars": 0,
-   "summary": "Take your main name to the chat frame, then gtfo. A WoW addon (updated for Midnight/12.1.0).",
-   "updated": "2026-10-28",
+   "summary": "Take your main name to the chat frame, then gtfo. A WoW chat addon for Midnight (12.1.5): main-name tags, animated tags, saved phrases and Textual Badges.",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
@@ -62968,7 +62951,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever Warlock addon",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "sources": [
     {
      "type": "github",
