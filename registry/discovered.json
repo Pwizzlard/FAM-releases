@@ -31,7 +31,7 @@
    ],
    "stars": 362,
    "summary": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs ",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -207,7 +207,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 176,
+   "stars": 178,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -315,6 +315,23 @@
    ]
   },
   {
+   "name": "Factoruide_Profile",
+   "category": "quests",
+   "folders": [
+    "Factoruide_Profile"
+   ],
+   "stars": 90,
+   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
+   "updated": "2026-10-20",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "brouznouf/factoruide",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "GW2 UI Midnight [AllowLoadGameType standard]",
    "category": "actionbars",
    "folders": [
@@ -335,23 +352,6 @@
       "mists",
       "titan"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Factoruide_Profile",
-   "category": "quests",
-   "folders": [
-    "Factoruide_Profile"
-   ],
-   "stars": 89,
-   "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
-   "updated": "2026-10-20",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "brouznouf/factoruide",
-     "flavors": []
     }
    ]
   },
@@ -2266,7 +2266,7 @@
    ],
    "stars": 17,
    "summary": "This is an interface addon for World of Warcraft, which extends the ingame mount journal with some cool stuff.",
-   "updated": "2026-10-06",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -3667,7 +3667,7 @@
    ],
    "stars": 11,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -4269,6 +4269,23 @@
    ]
   },
   {
+   "name": "Witchcraft",
+   "category": "quests",
+   "folders": [
+    "Witchcraft"
+   ],
+   "stars": 9,
+   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
+   "updated": "2026-10-04",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Geraldlol/witchcraft",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Angleur",
    "category": "qol",
    "folders": [
@@ -4654,23 +4671,6 @@
       "mists",
       "titan"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Witchcraft",
-   "category": "quests",
-   "folders": [
-    "Witchcraft"
-   ],
-   "stars": 8,
-   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
-   "updated": "2026-10-04",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Geraldlol/witchcraft",
-     "flavors": []
     }
    ]
   },
@@ -6324,7 +6324,7 @@
    ],
    "stars": 6,
    "summary": "A remake version of original TinyInspect addon",
-   "updated": "2026-10-14",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -11209,15 +11209,14 @@
    ]
   },
   {
-   "name": "LoreForever_Lang_frFR",
-   "category": "raids",
+   "name": "LoreForever_Voice_Female_MoreQuests2",
+   "category": "quests",
    "folders": [
-    "LoreForever_Lang_frFR",
-    "LoreForever_Voice_Female_frFR"
+    "LoreForever_Voice_Female_MoreQuests2"
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -11734,23 +11733,6 @@
     {
      "type": "github",
      "repo": "AraBroker/Ara_Broker_Reputations",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "DiabolicUI3",
-   "category": "ui",
-   "folders": [
-    "DiabolicUI3"
-   ],
-   "stars": 2,
-   "summary": "Diabolic UI Arahort Edition",
-   "updated": "2026-08-13",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Arahort/diabolic",
      "flavors": []
     }
    ]
@@ -14199,7 +14181,7 @@
    ],
    "stars": 2,
    "summary": "Search and command palette addon for WoW, inspired by Spotlight, Alfred, and Raycast. Quickly find commands, settings, items (mounts, pets, transmog outfits, housing items), and more.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -15861,6 +15843,80 @@
    ]
   },
   {
+   "name": "CastAhead",
+   "category": "raids",
+   "folders": [
+    "CastAhead"
+   ],
+   "stars": 1,
+   "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "AqueGen/CastAhead",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "LittleThings",
+   "category": "combat",
+   "folders": [
+    "LittleThings"
+   ],
+   "stars": 1,
+   "summary": "Convenience for Blizzard's built-in Damage Meter: hover details, a right-click menu, extra windows, snapping and readable numbers. No parsing of its own.",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "AqueGen/LittleThings",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "SquadCD",
+   "category": "unitframes",
+   "folders": [
+    "SquadCD"
+   ],
+   "stars": 1,
+   "summary": "In-game party cooldown tracker for Mythic+ - rows next to party frames plus a group panel, no comms or companion app.",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "AqueGen/SquadCD",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DiabolicUI3",
+   "category": "ui",
+   "folders": [
+    "DiabolicUI3"
+   ],
+   "stars": 1,
+   "summary": "Diabolic UI Arahort Edition",
+   "updated": "2026-08-13",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Arahort/diabolic",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "SimpleDisenchant",
    "category": "professions",
    "folders": [
@@ -15958,7 +16014,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -17623,7 +17679,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-30",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -20722,7 +20778,7 @@
    ],
    "stars": 1,
    "summary": "See what the best Mythic+ groups are actually playing. A World of Warcraft addon that shows how often each specialization appears in top-ranked Mythic+ runs, updated daily.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -23638,7 +23694,7 @@
    ],
    "stars": 1,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -24912,7 +24968,7 @@
    ],
    "stars": 1,
    "summary": "A standalone replacement for the World of Warcraft objective tracker. The tracker half of Everything Quests, extracted so you can use just the tracker.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -26264,25 +26320,6 @@
    ]
   },
   {
-   "name": "CastAhead",
-   "category": "raids",
-   "folders": [
-    "CastAhead"
-   ],
-   "stars": 0,
-   "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
-   "updated": "2026-10-30",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "AqueGen/CastAhead",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Cooldown Manager Profiles",
    "category": "auras",
    "folders": [
@@ -26317,44 +26354,6 @@
     {
      "type": "github",
      "repo": "AqueGen/DBM-VPUkrainianTTS",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "LittleThings",
-   "category": "combat",
-   "folders": [
-    "LittleThings"
-   ],
-   "stars": 0,
-   "summary": "Convenience for Blizzard's built-in Damage Meter: hover details, a right-click menu, extra windows, snapping and readable numbers. No parsing of its own.",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "AqueGen/LittleThings",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "SquadCD",
-   "category": "unitframes",
-   "folders": [
-    "SquadCD"
-   ],
-   "stars": 0,
-   "summary": "In-game party cooldown tracker for Mythic+ - rows next to party frames plus a group panel, no comms or companion app.",
-   "updated": "2026-11-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "AqueGen/SquadCD",
      "flavors": [
       "mainline"
      ]
@@ -26787,7 +26786,7 @@
    ],
    "stars": 0,
    "summary": "A Feral Druid addon for Cat Form. It adds its own energy bar, combo points, timers for important debuffs, and icons for key procs and cooldowns, all positioned exactly where you want them. It stays out of the way outside",
-   "updated": "2026-10-16",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -30017,10 +30016,10 @@
    ]
   },
   {
-   "name": "ElansPaladinHelper",
-   "category": "class",
+   "name": "ElansBags",
+   "category": "bags",
    "folders": [
-    "ElansPaladinHelper"
+    "ElansBags"
    ],
    "stars": 0,
    "summary": "",
@@ -33618,7 +33617,7 @@
    ],
    "stars": 0,
    "summary": "WoW Retail addon: bolsa unica con filtros y pestanas personalizadas",
-   "updated": "2026-10-13",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -43817,7 +43816,7 @@
    ],
    "stars": 0,
    "summary": "Records your World of Warcraft character's journey as you play, so you can replay it at widsith.app.",
-   "updated": "2026-10-29",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -44538,14 +44537,14 @@
    ]
   },
   {
-   "name": "Downcast",
+   "name": "Hopscotch",
    "category": "qol",
    "folders": [
-    "Downcast"
+    "Hopscotch"
    ],
    "stars": 0,
    "summary": "World of Warcraft addons (Downcast, Hawker), released to CurseForge",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -47983,7 +47982,7 @@
    ],
    "stars": 0,
    "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
-   "updated": "2026-10-30",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -48108,23 +48107,6 @@
      "flavors": [
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Vanguard",
-   "category": "qol",
-   "folders": [
-    "Vanguard"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-10-30",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "clifftaylor2325/wow-vanguard-ui",
-     "flavors": []
     }
    ]
   },
@@ -53663,6 +53645,25 @@
    ]
   },
   {
+   "name": "Kairos",
+   "category": "class",
+   "folders": [
+    "Kairos"
+   ],
+   "stars": 0,
+   "summary": "Experimental rotation helper for World of Warcraft Retail: Midnight, with SimulationCraft-based Arcane Mage and Demonology Warlock recommendations. Recommends, never acts.",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "jmusick/kairos",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Lucy Cursor Cooldowns",
    "category": "auras",
    "folders": [
@@ -56028,23 +56029,6 @@
    ]
   },
   {
-   "name": "Ezmog",
-   "category": "qol",
-   "folders": [
-    "Ezmog"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-09-25",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "lucasnates/Ezmog",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "ArcaneShortcuts",
    "category": "libraries",
    "folders": [
@@ -56688,19 +56672,21 @@
    ]
   },
   {
-   "name": "DwarfExplorersBible",
+   "name": "Dwarf Explorer's Bible",
    "category": "economy",
    "folders": [
     "DwarfExplorersBible"
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: pick a material, see everything it crafts into, with AH prices (Auctionator, TSM, Auctioneer, PriceLog), profit and crafting chains. Inspired by Terraria's Guide.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
      "repo": "masterred92/DwarfExplorersBible",
-     "flavors": []
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -56712,29 +56698,33 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon (formerly FarmTracker): gold per hour per farming spot and a this-spot-vs-your-best verdict. Untested in-game.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
      "repo": "masterred92/GoldPerSpot",
-     "flavors": []
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
   {
-   "name": "MatTooltip",
+   "name": "Mat Tooltip",
    "category": "tooltips",
    "folders": [
     "MatTooltip"
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: AH/vendor price and a sell-or-vendor verdict on leather and herb tooltips. Untested in-game.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
      "repo": "masterred92/MatTooltip",
-     "flavors": []
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -56746,29 +56736,33 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: compares your faction AH with the neutral (Booty Bay/Gadgetzan/Everlook) AH and lists flips worth carrying, after the cut. Untested in-game.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
      "repo": "masterred92/NeutralFlip",
-     "flavors": []
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
   {
-   "name": "PriceLog",
+   "name": "Price Log",
    "category": "economy",
    "folders": [
     "PriceLog"
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: logs AH prices from your own scans and searches, trends and CSV export. Untested in-game.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
      "repo": "masterred92/PriceLog",
-     "flavors": []
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -56966,7 +56960,7 @@
    ],
    "stars": 0,
    "summary": "Addon de WoW de Rebirth Knights: prende el registro de combate avanzado al entrar a una banda",
-   "updated": "2026-10-29",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -63851,7 +63845,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
