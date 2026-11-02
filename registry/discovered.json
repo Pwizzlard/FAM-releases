@@ -9,7 +9,7 @@
    "folders": [
     "NDui"
    ],
-   "stars": 381,
+   "stars": 382,
    "summary": "NDui for World of Warcraft",
    "updated": "2026-10-30",
    "sources": [
@@ -187,7 +187,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 179,
+   "stars": 180,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -3340,6 +3340,37 @@
    ]
   },
   {
+   "name": "Naowh Forever",
+   "category": "qol",
+   "folders": [
+    "NaowhForever",
+    "NaowhForever_BiS",
+    "NaowhForever_Combat",
+    "NaowhForever_Discovery",
+    "NaowhForever_DiscoveryData",
+    "NaowhForever_DungeonJournal",
+    "NaowhForever_JourneysData",
+    "NaowhForever_Locales",
+    "NaowhForever_Professions",
+    "NaowhForever_QoL",
+    "NaowhForever_SearchIndex",
+    "NaowhForever_Training",
+    "NaowhForever_Utilities"
+   ],
+   "stars": 12,
+   "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "naowh-gaming/NaowhForever",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "DeModal",
    "category": "ui",
    "folders": [
@@ -3609,37 +3640,6 @@
    ]
   },
   {
-   "name": "Naowh Forever",
-   "category": "qol",
-   "folders": [
-    "NaowhForever",
-    "NaowhForever_BiS",
-    "NaowhForever_Combat",
-    "NaowhForever_Discovery",
-    "NaowhForever_DiscoveryData",
-    "NaowhForever_DungeonJournal",
-    "NaowhForever_JourneysData",
-    "NaowhForever_Locales",
-    "NaowhForever_Professions",
-    "NaowhForever_QoL",
-    "NaowhForever_SearchIndex",
-    "NaowhForever_Training",
-    "NaowhForever_Utilities"
-   ],
-   "stars": 11,
-   "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-11-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "naowh-gaming/NaowhForever",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Forever Voiceover",
    "category": "qol",
    "folders": [
@@ -3815,10 +3815,10 @@
    ]
   },
   {
-   "name": "Routine Data",
+   "name": "Routine",
    "category": "qol",
    "folders": [
-    "RoutineData"
+    "MidnightRoutine"
    ],
    "stars": 10,
    "summary": "A world of warcraft todo list",
@@ -3941,7 +3941,7 @@
    ],
    "stars": 10,
    "summary": "Track recipes, reagents, cooldowns, patron orders, and more",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -4223,7 +4223,7 @@
   },
   {
    "name": "Caerdon Wardrobe",
-   "category": "collections",
+   "category": "bags",
    "folders": [
     "CaerdonWardrobe"
    ],
@@ -8627,7 +8627,7 @@
    ],
    "stars": 4,
    "summary": "Updated fork of Atlas, a World of Warcraft addon",
-   "updated": "2026-09-25",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -9202,6 +9202,25 @@
      "type": "github",
      "repo": "xiaoyu20062032-ai/forleijun",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "WoW Forever Japanese (\u65e5\u672c\u8a9e\u5316)",
+   "category": "quests",
+   "folders": [
+    "WoWForeverJapanese"
+   ],
+   "stars": 4,
+   "summary": "Play World of Warcraft: Forever in Japanese: quests, NPC dialogue, books, tooltips and the game's windows. Hold Alt for the game's own English. / World of Warcraft: Forever \u3092\u65e5\u672c\u8a9e\u3067",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "zyaga/wow-forever-japanese",
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -11491,25 +11510,6 @@
      "repo": "wowutils/addon",
      "flavors": [
       "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "WoW Forever Japanese (\u65e5\u672c\u8a9e\u5316)",
-   "category": "quests",
-   "folders": [
-    "WoWForeverJapanese"
-   ],
-   "stars": 3,
-   "summary": "Play World of Warcraft: Forever in Japanese: quests, NPC dialogue, books, tooltips and the game's windows. Hold Alt for the game's own English. / World of Warcraft: Forever \u3092\u65e5\u672c\u8a9e\u3067",
-   "updated": "2026-11-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "zyaga/wow-forever-japanese",
-     "flavors": [
-      "forever"
      ]
     }
    ]
@@ -13856,7 +13856,7 @@
    ],
    "stars": 2,
    "summary": "WoW: Forever addon: your unfinished Legacy challenges on the world map, with live progress in the objective tracker.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -14903,6 +14903,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "CodexOfAzeroth",
+   "category": "ui",
+   "folders": [
+    "CodexOfAzeroth"
+   ],
+   "stars": 2,
+   "summary": "\ud83d\udcda Codex of Azeroth is a World of Warcraft Retail addon that provides an interactive compendium of the game's lore. It includes 46+ curated entries of NPCs, locations, factions, historical events and concepts, with origin",
+   "updated": "2026-06-10",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "minyorange/codex-of-azeroth",
+     "flavors": []
     }
    ]
   },
@@ -21144,7 +21161,7 @@
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -21521,7 +21538,7 @@
    ],
    "stars": 1,
    "summary": "Find that next upgrade and which quest NPC or chain has it. Filter by zone, level range, dungeon quests and (missing!) slot. Get a waypoint to the NPC, compare vs your equipped items, and find that next weapon upgrade!",
-   "updated": "2026-10-26",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -23129,23 +23146,6 @@
    ]
   },
   {
-   "name": "CodexOfAzeroth",
-   "category": "ui",
-   "folders": [
-    "CodexOfAzeroth"
-   ],
-   "stars": 1,
-   "summary": "\ud83d\udcda Codex of Azeroth is a World of Warcraft Retail addon that provides an interactive compendium of the game's lore. It includes 46+ curated entries of NPCs, locations, factions, historical events and concepts, with origin",
-   "updated": "2026-06-10",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "minyorange/codex-of-azeroth",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "GoldMap",
    "category": "economy",
    "folders": [
@@ -23645,7 +23645,7 @@
    ],
    "stars": 1,
    "summary": "Presets that tie specialization, talents, gear and appearance together \u2014 switch all four with one click. For World of Warcraft: Midnight.",
-   "updated": "2026-10-26",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -27466,7 +27466,7 @@
    ],
    "stars": 0,
    "summary": "In-game addon for World of Warcraft: Forever \u2014 talent guides, a dungeon quest panel beside the group finder, and character export for wowforeverbuilds.com",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -29986,14 +29986,14 @@
    ]
   },
   {
-   "name": "ElansBags",
-   "category": "bags",
+   "name": "ElansHub",
+   "category": "qol",
    "folders": [
-    "ElansBags"
+    "ElansHub"
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -31870,7 +31870,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -33127,7 +33127,7 @@
    ],
    "stars": 0,
    "summary": "Adds ranked PvP ratings, personal bests and season stats to player tooltips. Hover any player to see 2v2/3v3/Shuffle/RBG/Blitz ratings instantly \u2014 no clicks, no website. Updated frequently.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -37477,7 +37477,7 @@
    ],
    "stars": 0,
    "summary": "Warcraft Addon - WhichClass",
-   "updated": "2026-10-26",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -37496,7 +37496,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-03-29",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -41979,7 +41979,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail Mythic+ companion: gear goals, stat comparisons, enchants, gems, consumables and role rankings for all 40 specs.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -42457,6 +42457,25 @@
     {
      "type": "github",
      "repo": "Twich-Team/TwichUI-Reformed",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cooldown Reduction Logger",
+   "category": "auras",
+   "folders": [
+    "CdrLogger"
+   ],
+   "stars": 0,
+   "summary": "A World of Warcraft addon to help with tracking/debugging Cooldown Reduction interactions for items and spells, and, buff duration and stack counts.",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Twintop/CdrLogger",
      "flavors": [
       "mainline"
      ]
@@ -43602,7 +43621,7 @@
    ],
    "stars": 0,
    "summary": "Addon World of Warcraft Forever pour la gestion de raid : presets de groupes pr\u00e9-plac\u00e9s pour les membres de la guilde, ready check (/rc), compatible FR/EN et EllesmereUI.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -47918,7 +47937,7 @@
    ],
    "stars": 0,
    "summary": "Classic profession-levelling numbers (required skill, thresholds, skill-up chance) in WoW: Forever's Professions window",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -56628,6 +56647,26 @@
    ]
   },
   {
+   "name": "Guild Management System",
+   "category": "chat",
+   "folders": [
+    "AdventForever",
+    "GuildManagementSystem"
+   ],
+   "stars": 0,
+   "summary": "Guild effort tracking and loot help for WoW: Forever (raids, guild bank, honor, dungeons)",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "martinvaever1995-ctrl/GuildManagementSystem",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Dwarf Explorer's Bible",
    "category": "economy",
    "folders": [
@@ -59620,7 +59659,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -60886,7 +60925,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-14",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -63139,23 +63178,6 @@
    ]
   },
   {
-   "name": "ItemTracker",
-   "category": "qol",
-   "folders": [
-    "ItemTracker"
-   ],
-   "stars": 0,
-   "summary": "Lightweight World of Warcraft (9.2.7) AddOn for real-time item & currency tracking, multi-frame session monitoring, and hourly rate calculations.",
-   "updated": "2026-10-18",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "tiltlord1510/ItemTracker",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Timber's Field Guide",
    "category": "quests",
    "folders": [
@@ -63421,7 +63443,7 @@
    ],
    "stars": 0,
    "summary": "Should you invite the stranger who applied to your key? bmpl vets a World of Warcraft Mythic+ applicant from their Warcraft Logs and Raider.IO history \u2014 a verdict with its reasons, and an in-game addon that pulls your Gr",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -63677,7 +63699,7 @@
    ],
    "stars": 0,
    "summary": "WoW add-on  for creating macros with fun!",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
