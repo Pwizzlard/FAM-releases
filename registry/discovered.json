@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-01",
+ "built": "2026-11-02",
  "tier": "discovered",
  "addons": [
   {
@@ -159,26 +159,6 @@
    ]
   },
   {
-   "name": "ElvUI WindTools [AllowLoadGameType standard, camelot]",
-   "category": "qol",
-   "folders": [
-    "ElvUI_WindTools"
-   ],
-   "stars": 179,
-   "summary": "\ud83d\udcaf Maybe the BEST ElvUI plugin to enhance your WoW experience.",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "wind-addons/ElvUI_WindTools",
-     "flavors": [
-      "forever",
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Polestar",
    "category": "quests",
    "folders": [
@@ -207,7 +187,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 178,
+   "stars": 179,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -215,6 +195,26 @@
      "type": "github",
      "repo": "fitzforge/polestar",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "ElvUI WindTools [AllowLoadGameType standard, camelot]",
+   "category": "qol",
+   "folders": [
+    "ElvUI_WindTools"
+   ],
+   "stars": 179,
+   "summary": "\ud83d\udcaf Maybe the BEST ElvUI plugin to enhance your WoW experience.",
+   "updated": "2026-10-15",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "wind-addons/ElvUI_WindTools",
+     "flavors": [
+      "forever",
+      "mainline"
+     ]
     }
    ]
   },
@@ -693,7 +693,7 @@
    ],
    "stars": 44,
    "summary": "Standard Blizzard nameplates with more features and easy settings",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -2988,7 +2988,7 @@
    ],
    "stars": 13,
    "summary": "Standard Blizzard unit frames with more features and easy settings",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -3760,6 +3760,23 @@
    ]
   },
   {
+   "name": "Witchcraft",
+   "category": "quests",
+   "folders": [
+    "Witchcraft"
+   ],
+   "stars": 10,
+   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
+   "updated": "2026-10-04",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Geraldlol/witchcraft",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Teleport Menu",
    "category": "qol",
    "folders": [
@@ -4243,23 +4260,6 @@
       "titan",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Witchcraft",
-   "category": "quests",
-   "folders": [
-    "Witchcraft"
-   ],
-   "stars": 9,
-   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
-   "updated": "2026-10-04",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Geraldlol/witchcraft",
-     "flavors": []
     }
    ]
   },
@@ -7403,7 +7403,7 @@
    ],
    "stars": 5,
    "summary": "A data library addon for World of Warcraft that provides daily updated talent export codes from parses.gg.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -8310,7 +8310,7 @@
    ],
    "stars": 4,
    "summary": "Continuation of the BuyEmAll WoW vendor addon: buy more than a stack at once, with cost and bag-space limits shown first.",
-   "updated": "2026-10-14",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -15132,7 +15132,7 @@
    ],
    "stars": 2,
    "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -15183,7 +15183,7 @@
    ],
    "stars": 2,
    "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -23744,7 +23744,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides daily updated Best-in-Slot gear information from Archon.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -23846,7 +23846,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -23931,7 +23931,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits per dungeon and keystone level for PeaversSplits.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -24957,7 +24957,7 @@
    ],
    "stars": 1,
    "summary": "A standalone replacement for the World of Warcraft objective tracker. The tracker half of Everything Quests, extracted so you can use just the tracker.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -26452,7 +26452,7 @@
    ],
    "stars": 0,
    "summary": "Finds new and changed WoW Forever items, shares them with other players, and keeps a searchable database of what drops where.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -27739,7 +27739,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever addon: greets guildmates, welcomes group members, and thanks people who buff you.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -33371,7 +33371,7 @@
    ],
    "stars": 0,
    "summary": "KullThranUI is an addon consisting of multiple fully customizable modules, with the option to disable them if you prefer not to use them.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -52399,7 +52399,7 @@
    ],
    "stars": 0,
    "summary": "R.E.E.L.: A Fishing Addon",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -53511,7 +53511,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Chat Mod",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -53537,7 +53537,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft World Map Frame Adjustments",
-   "updated": "2026-10-19",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -58132,7 +58132,7 @@
    ],
    "stars": 0,
    "summary": "WoW Addon",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -58625,7 +58625,7 @@
    ],
    "stars": 0,
    "summary": "Seramate PvP Inspect - PvP rating tooltips",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -59603,7 +59603,7 @@
    ],
    "stars": 0,
    "summary": "PremadeIQ collector addon \u2014 Epic Battleground match statistics for World of Warcraft. Requires the PremadeIQ Uploader to contribute to the community database.",
-   "updated": "2026-10-20",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -65086,7 +65086,7 @@
    ],
    "stars": 0,
    "summary": "Feature-completion addon for the BiaoGe auction spreadsheet (BGLite Pure Edition) / \u91d1\u56e2\u8868\u683c BGLite \u7eaf\u51c0\u7248\u529f\u80fd\u8865\u5168\u63d2\u4ef6",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
