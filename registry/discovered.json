@@ -98,7 +98,7 @@
     "EllesmereUIResourceBars",
     "EllesmereUIUnitFrames"
    ],
-   "stars": 262,
+   "stars": 263,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
    "updated": "2026-10-31",
    "sources": [
@@ -315,14 +315,14 @@
    ]
   },
   {
-   "name": "Factoruide_Profile",
+   "name": "Factoruide_Guide",
    "category": "quests",
    "folders": [
-    "Factoruide_Profile"
+    "Factoruide_Guide"
    ],
    "stars": 90,
    "summary": "WoW Classic leveling route optimizer: desktop app, planner and in-game addon",
-   "updated": "2026-10-20",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -899,7 +899,7 @@
    ],
    "stars": 36,
    "summary": "",
-   "updated": "2026-09-04",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -2311,7 +2311,7 @@
    ],
    "stars": 17,
    "summary": "",
-   "updated": "2026-10-03",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -2507,6 +2507,33 @@
    ]
   },
   {
+   "name": "MuteSoundFile",
+   "category": "roleplay",
+   "folders": [
+    "MuteSoundFile",
+    "MuteSoundFile_Options"
+   ],
+   "stars": 16,
+   "summary": "Mute sound files in World of Warcraft.",
+   "updated": "2026-10-22",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "funkydude/MuteSoundFile",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "titan",
+      "wrath"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Dejunk",
    "category": "bags",
    "folders": [
@@ -2691,33 +2718,6 @@
    ]
   },
   {
-   "name": "MuteSoundFile",
-   "category": "roleplay",
-   "folders": [
-    "MuteSoundFile",
-    "MuteSoundFile_Options"
-   ],
-   "stars": 15,
-   "summary": "Mute sound files in World of Warcraft.",
-   "updated": "2026-10-22",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "funkydude/MuteSoundFile",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ]
-    }
-   ]
-  },
-  {
    "name": "DynamicBoxer",
    "category": "chat",
    "folders": [
@@ -2817,28 +2817,6 @@
      "type": "github",
      "repo": "CoreLootManager/CoreLootManager",
      "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "DandersFrames",
-   "category": "unitframes",
-   "folders": [
-    "DandersFrames",
-    "DandersFrames_Options",
-    "DandersMover"
-   ],
-   "stars": 14,
-   "summary": "Customizable party and raid frame addon for World of Warcraft",
-   "updated": "2026-10-30",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "DanderBot/DandersFrames",
-     "flavors": [
-      "forever",
-      "mainline"
-     ]
     }
    ]
   },
@@ -3529,23 +3507,6 @@
    ]
   },
   {
-   "name": "GoldAdvisorMidnight",
-   "category": "economy",
-   "folders": [
-    "GoldAdvisorMidnight"
-   ],
-   "stars": 11,
-   "summary": "Gold Advisor Midnight is a WoW Retail Midnight addon for Auction House-based crafting analysis. It scans prices, evaluates strategy profitability, and shows the materials, revenue, and ROI behind each craft.",
-   "updated": "2026-10-17",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "crystaltech/GoldAdvisorMidnight",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Plexus",
    "category": "qol",
    "folders": [
@@ -4058,6 +4019,23 @@
      "flavors": [
       "bcc"
      ]
+    }
+   ]
+  },
+  {
+   "name": "GoldAdvisorMidnight",
+   "category": "economy",
+   "folders": [
+    "GoldAdvisorMidnight"
+   ],
+   "stars": 10,
+   "summary": "Gold Advisor Midnight is a WoW Retail Midnight addon for Auction House-based crafting analysis. It scans prices, evaluates strategy profitability, and shows the materials, revenue, and ROI behind each craft.",
+   "updated": "2026-10-17",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "crystaltech/GoldAdvisorMidnight",
+     "flavors": []
     }
    ]
   },
@@ -6967,6 +6945,23 @@
       "mainline",
       "mists"
      ]
+    }
+   ]
+  },
+  {
+   "name": "Accountant_Classic",
+   "category": "bags",
+   "folders": [
+    "Accountant_Classic"
+   ],
+   "stars": 5,
+   "summary": "Accountant Classic is a lightweight economy tracker that records where your money comes from and where it goes.",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "darhanger/Accountant_Classic",
+     "flavors": []
     }
    ]
   },
@@ -11508,7 +11503,7 @@
    ],
    "stars": 3,
    "summary": "Play World of Warcraft: Forever in Japanese: quests, NPC dialogue, books, tooltips and the game's windows. Hold Alt for the game's own English. / World of Warcraft: Forever \u3092\u65e5\u672c\u8a9e\u3067",
-   "updated": "2026-10-23",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -11709,7 +11704,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-28",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -15154,7 +15149,7 @@
    ],
    "stars": 2,
    "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -15453,7 +15448,7 @@
    ],
    "stars": 2,
    "summary": "Class-aware WoW Forever companions for all nine classes: live resources, upkeep, target cues, learned abilities, and racials.",
-   "updated": "2026-10-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -15850,7 +15845,7 @@
    ],
    "stars": 1,
    "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
-   "updated": "2026-10-30",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -15869,7 +15864,7 @@
    ],
    "stars": 1,
    "summary": "Convenience for Blizzard's built-in Damage Meter: hover details, a right-click menu, extra windows, snapping and readable numbers. No parsing of its own.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -17769,7 +17764,7 @@
    ],
    "stars": 1,
    "summary": "Shows potential gear upgrades you can craft with your professions, right at the top of your crafting window. WoW Forever addon",
-   "updated": "2026-10-26",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -18291,7 +18286,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -20946,7 +20941,7 @@
    ],
    "stars": 1,
    "summary": "Bshamel UI \u2014 suite d'am\u00e9liorations d'interface pour World of Warcraft retail",
-   "updated": "2026-10-28",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -20974,29 +20969,6 @@
      "flavors": [
       "forever",
       "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Accountant Classic",
-   "category": "bags",
-   "folders": [
-    "Accountant_Classic"
-   ],
-   "stars": 1,
-   "summary": "World of Warcraft addon for tracking character and account finances.",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "arithmandar/Accountant-Classic",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
      ]
     }
    ]
@@ -21357,6 +21329,23 @@
       "titan",
       "wrath"
      ]
+    }
+   ]
+  },
+  {
+   "name": "GuildOS",
+   "category": "chat",
+   "folders": [
+    "GuildOS"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "danielcosta42/guildos",
+     "flavors": []
     }
    ]
   },
@@ -24312,7 +24301,7 @@
    ],
    "stars": 1,
    "summary": "Yours Truly, a World of Warcraft addon (Classic Era and Forever): the people whose quest chains you finished write you a letter, waiting at the next mailbox",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -30547,7 +30536,7 @@
    ],
    "stars": 0,
    "summary": "A collection of WoW account, character, and grind-related information - all in one lightweight addon!",
-   "updated": "2026-10-25",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -36444,7 +36433,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-14",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -41400,23 +41389,6 @@
    ]
   },
   {
-   "name": "GoldCompass",
-   "category": "economy",
-   "folders": [
-    "GoldCompass"
-   ],
-   "stars": 0,
-   "summary": "Gold Compass (Goldkompass) \u2013 WoW-Addon: wie du in deiner Zeit am meisten Gold machst und Items am g\u00fcnstigsten bekommst. Getestet in WoW Classic Era, nicht in Forever getestet.",
-   "updated": "2026-10-24",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Taidana94/Coinwise",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "LeanPad",
    "category": "qol",
    "folders": [
@@ -42472,12 +42444,15 @@
    "category": "ui",
    "folders": [
     "!!!TwichUI",
+    "TwichUI_Diagnostics",
+    "TwichUI_LayoutWizard",
+    "TwichUI_Layouts",
     "TwichUI_NavData",
     "TwichUI_Settings"
    ],
    "stars": 0,
    "summary": "A small companion addon for WoW Forever that fills the gaps around an EllesmereUI setup, and makes it easy to share your addon setup with friends.",
-   "updated": "2026-10-24",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -58254,7 +58229,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -60750,13 +60725,12 @@
    ],
    "stars": 0,
    "summary": "Exploration riddles and rare hunts for WoW, with a bestiary, an atlas and collections of fish, herbs and materials.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
      "repo": "salty-max/yonder",
      "flavors": [
-      "bcc",
       "classic",
       "forever"
      ]
@@ -60771,7 +60745,7 @@
    ],
    "stars": 0,
    "summary": "Goodwill, a World of Warcraft addon (Classic Era and Forever): every faction's road to Exalted from where you stand, and a chapter of its story at each standing",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -60791,7 +60765,7 @@
    ],
    "stars": 0,
    "summary": "A diary for your WoW character, written as you play. Read it in game or on hearthtale.app, and keep the journals of fallen Hardcore characters.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -60811,13 +60785,12 @@
    ],
    "stars": 0,
    "summary": "Keep your WoW minimap tidy by collecting addon buttons in a drawer behind one key. Choose which buttons stay on the minimap.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
      "repo": "salty-max/keyring",
      "flavors": [
-      "bcc",
       "classic",
       "forever"
      ]
@@ -60832,13 +60805,12 @@
    ],
    "stars": 0,
    "summary": "Discover Azeroth's lore as you explore, meet its people and complete quests. Collect the books and notes you read along the way.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
      "repo": "salty-max/lorekeepers-codex",
      "flavors": [
-      "bcc",
       "classic",
       "forever"
      ]
@@ -60853,7 +60825,7 @@
    ],
    "stars": 0,
    "summary": "A chef's cookbook that fills in as you learn to cook, and the road to 300 cooking: what to cook next and how many. For WoW Classic Era and Forever.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -60873,13 +60845,12 @@
    ],
    "stars": 0,
    "summary": "Quests and NPC conversations in a large, readable panel beside the NPC, answered from the keyboard. For WoW Classic Era, TBC Anniversary and Forever.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
      "repo": "salty-max/palaver",
      "flavors": [
-      "bcc",
       "classic",
       "forever"
      ]
@@ -60894,13 +60865,12 @@
    ],
    "stars": 0,
    "summary": "Review close calls and deaths in WoW. See what hit you, which potions and abilities went unused, and patterns across your dangerous fights.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
      "repo": "salty-max/second-wind",
      "flavors": [
-      "bcc",
       "classic",
       "forever"
      ]
@@ -61283,7 +61253,7 @@
    ],
    "stars": 0,
    "summary": "LootBT provides customizable on-screen notifications of loot, currency, reputation, combat state and more! Includes color and custom font options as well as scaling/moving anchor points.",
-   "updated": "2026-03-31",
+   "updated": "2026-11-01",
    "sources": [
     {
      "type": "github",
@@ -63902,7 +63872,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
