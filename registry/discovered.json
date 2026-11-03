@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-02",
+ "built": "2026-11-03",
  "tier": "discovered",
  "addons": [
   {
@@ -1026,7 +1026,7 @@
    ],
    "stars": 32,
    "summary": "This mod will add support for 5 man Dungeons and World Events, spanning Classic all the way to Dragonflight, to Deadly Boss Mods (DBM).",
-   "updated": "2026-10-26",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -1668,7 +1668,7 @@
    ],
    "stars": 23,
    "summary": "WoW Addon - Class resources",
-   "updated": "2026-10-22",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -1938,13 +1938,13 @@
    ],
    "stars": 19,
    "summary": "Twintop's Resource Bar (formerly Twintop's Insanity Bar), a multi-class resource addon for World of Warcraft",
-   "updated": "2026-10-29",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
      "repo": "Twintop/TwintopInsanityBar",
      "flavors": [
-      "classic"
+      "mainline"
      ]
     }
    ]
@@ -1974,7 +1974,7 @@
    ],
    "stars": 19,
    "summary": "",
-   "updated": "2026-10-17",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -3021,7 +3021,7 @@
    ],
    "stars": 13,
    "summary": "Deadly Boss Mods (DBM) - Vanilla and Season of Discovery mods (Classic and Retail)",
-   "updated": "2026-10-26",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -3124,14 +3124,14 @@
    ]
   },
   {
-   "name": "CombatMode",
+   "name": "Action Combat Mode",
    "category": "combat",
    "folders": [
     "CombatMode"
    ],
    "stars": 13,
-   "summary": "",
-   "updated": "2026-11-02",
+   "summary": "Action Combat Mode brings modern action-game controls to World of Warcraft, replacing traditional tab-targeting with intuitive aiming, more engaging controls, and immersive combat.",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -5994,7 +5994,7 @@
    ],
    "stars": 6,
    "summary": "World of Warcraft addon for Midnight and WoW: Forever: plan per boss which player sees which message or cooldown when, on a timeline, and sync the plan to your group before the pull.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -13881,7 +13881,7 @@
    ],
    "stars": 2,
    "summary": "The fastest way anywhere in WoW: Forever: walks, flight paths, boats, zeppelins, lifts, the tram and portals, guided turn by turn",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -15925,7 +15925,7 @@
    ],
    "stars": 1,
    "summary": "In-game party cooldown tracker for Mythic+ - rows next to party frames plus a group panel, no comms or companion app.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -16233,7 +16233,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -16576,7 +16576,7 @@
    ],
    "stars": 1,
    "summary": "Solex's Collection of raid utilities",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -17607,7 +17607,7 @@
    ],
    "stars": 1,
    "summary": "WoW Forever addon that records each character's road from level 1 to 60 and replays it on the world map, with an app that keeps it backed up on every PC.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -17624,7 +17624,7 @@
    ],
    "stars": 1,
    "summary": "A lightweight standalone take on the Luxthos Experience Bar WeakAura for WoW Classic Era, TBC Anniversary and WoW Forever, with quest and rested XP, session stats and optional themes.",
-   "updated": "2026-10-29",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -18801,6 +18801,25 @@
     {
      "type": "github",
      "repo": "NumyAddon/LazyCurve",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Map Tooltip Taint Fix",
+   "category": "maps",
+   "folders": [
+    "!MapTooltipTaintFix"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "NumyAddon/MapTooltipTaintFix",
      "flavors": [
       "mainline"
      ]
@@ -21356,7 +21375,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -24261,7 +24280,7 @@
    ],
    "stars": 1,
    "summary": "WoW AddOn - Cast bars",
-   "updated": "2026-10-31",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -25031,7 +25050,7 @@
    ],
    "stars": 1,
    "summary": "An ultra-lightweight (350KB) loot and combat text manager for World of Warcraft.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -27865,7 +27884,7 @@
    ],
    "stars": 0,
    "summary": "About This is the repository of a WoW addon called Titan Panel [Attributes] Multi. \ud83d\udcaa",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -31346,7 +31365,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever buff reminders with one-tap casting, party and raid assignments, and optional consumable tracking.",
-   "updated": "2026-10-22",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -36487,25 +36506,6 @@
     {
      "type": "github",
      "repo": "NumyAddon/LibKeystonePortal",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Map Tooltip Taint Fix",
-   "category": "maps",
-   "folders": [
-    "!MapTooltipTaintFix"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-11-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "NumyAddon/MapTooltipTaintFix",
      "flavors": [
       "mainline"
      ]
@@ -45544,7 +45544,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -49518,7 +49518,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-15",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -53679,7 +53679,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Chat Mod",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -58832,7 +58832,7 @@
    ],
    "stars": 0,
    "summary": "Seramate PvP Inspect - PvP rating tooltips",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -60985,11 +60985,12 @@
    "name": "Hearthtale",
    "category": "roleplay",
    "folders": [
-    "Hearthtale"
+    "Hearthtale",
+    "Hearthtale_French"
    ],
    "stars": 0,
    "summary": "A diary for your WoW character, written as you play. Read it in game or on hearthtale.app, and keep the journals of fallen Hardcore characters.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
