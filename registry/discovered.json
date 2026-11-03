@@ -11,7 +11,7 @@
    ],
    "stars": 382,
    "summary": "NDui for World of Warcraft",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -187,7 +187,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 180,
+   "stars": 182,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -1580,7 +1580,7 @@
    ],
    "stars": 23,
    "summary": "",
-   "updated": "2026-10-19",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -3125,7 +3125,7 @@
    ],
    "stars": 13,
    "summary": "",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -3216,6 +3216,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "QuestEcho",
+   "category": "quests",
+   "folders": [
+    "QuestEcho"
+   ],
+   "stars": 12,
+   "summary": "Bring your quests and conversations to life with immersive voiceovers!",
+   "updated": "2026-10-15",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "LeySure/QuestEcho-Forever",
+     "flavors": []
     }
    ]
   },
@@ -3359,7 +3376,7 @@
    ],
    "stars": 12,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -3463,18 +3480,18 @@
    ]
   },
   {
-   "name": "QuestEcho",
+   "name": "Witchcraft",
    "category": "quests",
    "folders": [
-    "QuestEcho"
+    "Witchcraft"
    ],
    "stars": 11,
-   "summary": "Bring your quests and conversations to life with immersive voiceovers!",
-   "updated": "2026-10-15",
+   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
+   "updated": "2026-10-04",
    "sources": [
     {
      "type": "github",
-     "repo": "LeySure/QuestEcho-Forever",
+     "repo": "Geraldlol/witchcraft",
      "flavors": []
     }
    ]
@@ -3756,23 +3773,6 @@
       "mists",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Witchcraft",
-   "category": "quests",
-   "folders": [
-    "Witchcraft"
-   ],
-   "stars": 10,
-   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
-   "updated": "2026-10-04",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Geraldlol/witchcraft",
-     "flavors": []
     }
    ]
   },
@@ -5156,7 +5156,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "GalacticWandererAddon/BattlefieldInfo",
+     "repo": "GalacticWandererAddon/Waymark",
      "flavors": []
     }
    ]
@@ -8205,7 +8205,7 @@
    ],
    "stars": 4,
    "summary": "Caith skin for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -8669,7 +8669,7 @@
    ],
    "stars": 4,
    "summary": "WoW addon for keeping track of the weekly rewards progress accross all your characters.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -10077,7 +10077,7 @@
    ],
    "stars": 3,
    "summary": "Apathy skin for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -10103,7 +10103,7 @@
    ],
    "stars": 3,
    "summary": "Gears skins for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -10129,7 +10129,7 @@
    ],
    "stars": 3,
    "summary": "Serenity skins for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -10232,7 +10232,7 @@
    ],
    "stars": 3,
    "summary": "Lightweight WoW Forever addon that adds available quest markers to Blizzard\u2019s native world map using automatically generated ATT quest data.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -13205,7 +13205,7 @@
    ],
    "stars": 2,
    "summary": "Onyx skins for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -13819,7 +13819,7 @@
    ],
    "stars": 2,
    "summary": "`isiLive` is a WoW group helper addon for Mythic+ pug/party flow.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -13875,7 +13875,7 @@
    ],
    "stars": 2,
    "summary": "The fastest way anywhere in WoW: Forever: walks, flight paths, boats, zeppelins, lifts, the tram and portals, guided turn by turn",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -15820,7 +15820,7 @@
    ],
    "stars": 1,
    "summary": "World of Warcraft Guild Management Addon",
-   "updated": "2026-10-29",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -16844,27 +16844,6 @@
      "type": "github",
      "repo": "Eldodeldo/EldoUI",
      "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "TradeFilter3",
-   "category": "chat",
-   "folders": [
-    "TradeFilter3"
-   ],
-   "stars": 1,
-   "summary": "A World of Warcraft spam filter.",
-   "updated": "2024-11-02",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Evonder/TradeFilter",
-     "flavors": [
-      "cata",
-      "classic",
-      "mainline"
-     ]
     }
    ]
   },
@@ -19521,7 +19500,7 @@
    ],
    "stars": 1,
    "summary": "Cirque skins for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -19547,7 +19526,7 @@
    ],
    "stars": 1,
    "summary": "Entropy skins for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -19573,7 +19552,7 @@
    ],
    "stars": 1,
    "summary": "Fusion skin for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -19599,7 +19578,7 @@
    ],
    "stars": 1,
    "summary": "Litestep skin for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -19625,7 +19604,7 @@
    ],
    "stars": 1,
    "summary": "Squarish skins for Masque.",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -19706,7 +19685,7 @@
    ],
    "stars": 1,
    "summary": "High Fidelity World Map for World of Warcraft (currently only supported on WoW Forever) Replaces the default paper-style world map art with a satellite-style view stitched from the game's minimap terrain tiles.",
-   "updated": "2026-10-24",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -20752,7 +20731,7 @@
    ],
    "stars": 1,
    "summary": "Know exactly how far you are from the title. A World of Warcraft addon with live Mythic+ rating cutoffs for the top 0.1% title and every percentile bracket, updated daily.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -21687,7 +21666,7 @@
    ],
    "stars": 1,
    "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -21936,7 +21915,7 @@
    ],
    "stars": 1,
    "summary": "Quality-of-life cleanup for Blizzard's UI, including Chat Cleaner, Class Colored Health, World Map Cleanup, Consumable Macros and more.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -23664,7 +23643,7 @@
    ],
    "stars": 1,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -24465,7 +24444,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-16",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -26749,6 +26728,23 @@
    ]
   },
   {
+   "name": "BattleMarks",
+   "category": "raids",
+   "folders": [
+    "BattleMarks"
+   ],
+   "stars": 0,
+   "summary": "Azeroth Survivors addon: raid markers on every co-op hero, a skull on bosses, and a party chat line saying who has what.",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Back-to-the-Flux/BattleMarks",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Blood in the Water",
    "category": "auras",
    "folders": [
@@ -27245,7 +27241,7 @@
    ],
    "stars": 0,
    "summary": "The tactical HUD and run-analytics suite for Azeroth Survivors: round or classic style, 200+ settings, 14 languages. Damage meter, run clock, boss schedule, radar pins, unit frames (WoW 1.12.1, Windows and browser client",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -29987,12 +29983,12 @@
   },
   {
    "name": "ElansHub",
-   "category": "qol",
+   "category": "maps",
    "folders": [
     "ElansHub"
    ],
    "stars": 0,
-   "summary": "",
+   "summary": "Elan's Outpost: a Windows companion app for WoW Forever. Installs and updates Elan's addons, Atlas game reference, talent calculator, 3D world map, and the Lodge guild server.",
    "updated": "2026-11-02",
    "sources": [
     {
@@ -30324,6 +30320,23 @@
     {
      "type": "github",
      "repo": "Fafnyir/FafnyirTools",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Masque_Fafnyir",
+   "category": "ui",
+   "folders": [
+    "Masque_Fafnyir"
+   ],
+   "stars": 0,
+   "summary": "Masque Skin",
+   "updated": "2026-04-07",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Fafnyir/Masque_Fafnyir",
      "flavors": []
     }
    ]
@@ -32240,6 +32253,23 @@
     {
      "type": "github",
      "repo": "JasonEcks/ShieldAuraForever",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "TreasureTrail",
+   "category": "maps",
+   "folders": [
+    "TreasureTrail"
+   ],
+   "stars": 0,
+   "summary": "Barracks, Keepsake and Treasure Trail: World of Warcraft addons by Morigoll",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "JavierMorilla/wow-addons",
      "flavors": []
     }
    ]
@@ -35099,7 +35129,7 @@
    ],
    "stars": 0,
    "summary": "A simple World of Warcraft addon that tracks your collection history in AllTheThings (ATT).",
-   "updated": "2026-10-29",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -35763,7 +35793,7 @@
    ],
    "stars": 0,
    "summary": "Warband Ratings makes it easy to track all your characters\u2019 ratings",
-   "updated": "2026-10-24",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -38944,7 +38974,7 @@
    ],
    "stars": 0,
    "summary": "Own guild window with milestones, events, rules, group search and guild chat for WoW Retail and Forever (English/German) \u00b7 Eigenes Gildenfenster mit Meilensteinen, Events, Regeln, Gruppensuche und Gildenchat f\u00fcr WoW Reta",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -39132,7 +39162,7 @@
    ],
    "stars": 0,
    "summary": "Darion skins for Masque. ",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -39761,6 +39791,26 @@
      "type": "github",
      "repo": "ShortyRCD/ShortyRCD",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "BFF",
+   "category": "chat",
+   "folders": [
+    "BFF"
+   ],
+   "stars": 0,
+   "summary": "BFF \u2013 Best Friends in Forever: a WoW: Forever addon for friend groups who play at different times",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Shtian/bff-wow",
+     "flavors": [
+      "forever",
+      "mainline"
+     ]
     }
    ]
   },
@@ -42445,25 +42495,6 @@
    ]
   },
   {
-   "name": "TwichUI: Reformed",
-   "category": "ui",
-   "folders": [
-    "TwichUI_Reformed"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-04-22",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Twich-Team/TwichUI-Reformed",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Cooldown Reduction Logger",
    "category": "auras",
    "folders": [
@@ -42529,6 +42560,30 @@
     {
      "type": "github",
      "repo": "Tylesser/ProfitSort",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "titan"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tylesser - Stat Delta",
+   "category": "qol",
+   "folders": [
+    "StatDelta"
+   ],
+   "stars": 0,
+   "summary": "Tylesser - Stat Delta: hold Shift over an item to see what you gain or lose compared to your equipped gear.",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Tylesser/StatDelta",
      "flavors": [
       "bcc",
       "classic",
@@ -44481,7 +44536,7 @@
    ],
    "stars": 0,
    "summary": "Builds de talentos para WoW Forever: Talents Forever, Icy Veins y tus enlaces, con actualizacion diaria",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -45421,6 +45476,23 @@
       "mists",
       "titan"
      ]
+    }
+   ]
+  },
+  {
+   "name": "Medalluin",
+   "category": "qol",
+   "folders": [
+    "Medalluin"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "ahrymx/ahrymx.medalluin",
+     "flavors": []
     }
    ]
   },
@@ -47918,7 +47990,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-30",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -49516,6 +49588,25 @@
    ]
   },
   {
+   "name": "Er Patto",
+   "category": "qol",
+   "folders": [
+    "ErPatto"
+   ],
+   "stars": 0,
+   "summary": "WoW Group Adventure Addon",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "dariogentiletti/erpatto",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Broker: MidnightEvents",
    "category": "auras",
    "folders": [
@@ -49977,6 +50068,26 @@
      "type": "github",
      "repo": "devRavit/pvpster",
      "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Persona",
+   "category": "qol",
+   "folders": [
+    "Persona"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "devoidx/persona",
+     "flavors": [
+      "forever",
       "mainline"
      ]
     }
@@ -53627,7 +53738,7 @@
    ],
    "stars": 0,
    "summary": "Experimental rotation helper for World of Warcraft Retail: Midnight, with SimulationCraft-based Arcane Mage and Demonology Warlock recommendations. Recommends, never acts.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -55924,7 +56035,7 @@
    ],
    "stars": 0,
    "summary": "Development repository for LS: Monobrow",
-   "updated": "2026-10-15",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -57849,6 +57960,25 @@
    ]
   },
   {
+   "name": "Simple Hunter Timer",
+   "category": "auras",
+   "folders": [
+    "SimpleHunterTimer"
+   ],
+   "stars": 0,
+   "summary": "A simple Auto Shot timer for Classic Era hunters: shows when it's safe to move and when to stand still.",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "n3xtlevel/SimpleHunterTimer",
+     "flavors": [
+      "classic"
+     ]
+    }
+   ]
+  },
+  {
    "name": "MAWM \u2014 Most Accurate World Map",
    "category": "maps",
    "folders": [
@@ -57913,7 +58043,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-21",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -59497,6 +59627,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "RaidLootController",
+   "category": "raids",
+   "folders": [
+    "RaidLootController"
+   ],
+   "stars": 0,
+   "summary": "No-DKP raid loot for WoW Forever: soft reserves, server-verified rolls, one item each, raid history and a shared loot catalogue.",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "powerfulqa/RaidLootController",
+     "flavors": []
     }
    ]
   },
@@ -61203,7 +61350,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -63631,6 +63778,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "UbermocUI",
+   "category": "ui",
+   "folders": [
+    "UbermocUI"
+   ],
+   "stars": 0,
+   "summary": "Controller-first World of Warcraft interface: play without a mouse or keyboard. Works with all controllers and the Steam Deck.",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "ubermoc/Ubermoc-UI",
+     "flavors": []
     }
    ]
   },
