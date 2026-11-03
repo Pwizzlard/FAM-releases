@@ -100,7 +100,7 @@
    ],
    "stars": 263,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -187,7 +187,7 @@
     "Polestar_Nav",
     "Polestar_QuestDB"
    ],
-   "stars": 182,
+   "stars": 185,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-10-19",
    "sources": [
@@ -482,14 +482,19 @@
    ]
   },
   {
-   "name": "SpokenBossesAudio",
-   "category": "raids",
+   "name": "Spoken",
+   "category": "quests",
    "folders": [
-    "SpokenBossesAudio"
+    "Spoken",
+    "SpokenContributions",
+    "Spoken_Bosses",
+    "Spoken_Places",
+    "Spoken_Quests",
+    "Spoken_Readables"
    ],
    "stars": 64,
    "summary": "Voiced quest dialogue, zone lore and in-world books for World of Warcraft Forever/Classic \u2014 addons, the site behind them, and the pipelines that generate the audio.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -625,7 +630,7 @@
    ],
    "stars": 51,
    "summary": "The best roleplaying add-on for World of Warcraft.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -2889,12 +2894,13 @@
    ],
    "stars": 14,
    "summary": "A World of Warcraft add-on that improves the questing experience by replacing the default dialog frame by a more immersive frame with 3D models.",
-   "updated": "2026-03-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
      "repo": "Total-RP/Storyline",
      "flavors": [
+      "forever",
       "mainline"
      ]
     }
@@ -3129,7 +3135,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "djsmithdev/combatmode",
+     "repo": "ThericGames/combatmode",
      "flavors": [
       "bcc",
       "cata",
@@ -3216,6 +3222,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "Witchcraft",
+   "category": "quests",
+   "folders": [
+    "Witchcraft"
+   ],
+   "stars": 12,
+   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
+   "updated": "2026-10-04",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Geraldlol/witchcraft",
+     "flavors": []
     }
    ]
   },
@@ -3480,23 +3503,6 @@
    ]
   },
   {
-   "name": "Witchcraft",
-   "category": "quests",
-   "folders": [
-    "Witchcraft"
-   ],
-   "stars": 11,
-   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
-   "updated": "2026-10-04",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Geraldlol/witchcraft",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "Offhand",
    "category": "qol",
    "folders": [
@@ -3647,7 +3653,7 @@
    ],
    "stars": 11,
    "summary": "Lua addon for playing quest sounds in natural AI voice.",
-   "updated": "2026-10-24",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -5658,6 +5664,25 @@
    ]
   },
   {
+   "name": "Social Diary",
+   "category": "chat",
+   "folders": [
+    "social_diary"
+   ],
+   "stars": 7,
+   "summary": "",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "social-diary/social_diary",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "LiteBag",
    "category": "bags",
    "folders": [
@@ -6210,7 +6235,7 @@
    ],
    "stars": 6,
    "summary": "SpellCoda  - Addon for World of Warcraft Classic",
-   "updated": "2026-10-31",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -6360,25 +6385,6 @@
      "type": "github",
      "repo": "sfmict/MountsJournal",
      "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "Social Diary",
-   "category": "chat",
-   "folders": [
-    "social_diary"
-   ],
-   "stars": 6,
-   "summary": "",
-   "updated": "2026-10-30",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "social-diary/social_diary",
-     "flavors": [
-      "forever"
-     ]
     }
    ]
   },
@@ -7171,6 +7177,26 @@
    ]
   },
   {
+   "name": "Haste's Super Tweaks",
+   "category": "qol",
+   "folders": [
+    "HastesSuperTweaks"
+   ],
+   "stars": 5,
+   "summary": "Opinionated and highly optimized quality-of-life tweaks for WoW Forever in one neat package.",
+   "updated": "2026-10-20",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "hastecraft/super-tweaks",
+     "flavors": [
+      "classic",
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "WowFC",
    "category": "qol",
    "folders": [
@@ -7219,7 +7245,7 @@
    ],
    "stars": 5,
    "summary": "Action Bar Plus Addon for World of Warcraft",
-   "updated": "2026-10-26",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -7236,7 +7262,7 @@
    ],
    "stars": 5,
    "summary": "Developer Tools Addon for World of Warcraft",
-   "updated": "2026-10-27",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -7403,7 +7429,7 @@
    ],
    "stars": 5,
    "summary": "A data library addon for World of Warcraft that provides daily updated talent export codes from parses.gg.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -8789,26 +8815,6 @@
       "mainline",
       "mists",
       "wrath"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Haste's Super Tweaks",
-   "category": "qol",
-   "folders": [
-    "HastesSuperTweaks"
-   ],
-   "stars": 4,
-   "summary": "Opinionated and highly optimized quality-of-life tweaks for WoW Forever in one neat package.",
-   "updated": "2026-10-20",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "hastecraft/super-tweaks",
-     "flavors": [
-      "classic",
-      "forever"
      ]
     }
    ]
@@ -10858,7 +10864,7 @@
    ],
    "stars": 3,
    "summary": "Kapresoft-LibUtil",
-   "updated": "2026-10-27",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -11230,7 +11236,7 @@
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -13025,7 +13031,7 @@
    ],
    "stars": 2,
    "summary": "Pinta Group Finder adds filtering and quick apply functionality to the default World of Warcraft Group Finder UI.",
-   "updated": "2026-10-20",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -14018,7 +14024,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-29",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -14195,7 +14201,7 @@
    ],
    "stars": 2,
    "summary": "Search and command palette addon for WoW, inspired by Spotlight, Alfred, and Raycast. Quickly find commands, settings, items (mounts, pets, transmog outfits, housing items), and more.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -14304,7 +14310,7 @@
    ],
    "stars": 2,
    "summary": "Bored? Bory's got a plan. WoW Retail addon + Windows Companion: Bory the cat picks what to do now from your own game data, one step at a time with map pins \ud83e\udd29\ud83e\udded",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -14553,7 +14559,7 @@
    ],
    "stars": 2,
    "summary": "LibIconPicker is a reusable World of Warcraft addon library that provides a flexible and efficient icon chooser dialog for addon developers.",
-   "updated": "2026-10-26",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -14570,7 +14576,7 @@
    ],
    "stars": 2,
    "summary": "Addon Suite is an addon management for the World of Warcraft",
-   "updated": "2026-10-28",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -15168,7 +15174,7 @@
    ],
    "stars": 2,
    "summary": "A data library addon for World of Warcraft that provides best consumable, enchant and gem data per class and spec, sourced from Wowhead.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -15219,7 +15225,7 @@
    ],
    "stars": 2,
    "summary": "A data library addon for World of Warcraft that provides the travel graph, teleport catalog, and flight points for PeaversGetThere.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -16026,7 +16032,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -16189,7 +16195,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -16227,7 +16233,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -16246,7 +16252,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -16265,7 +16271,7 @@
    ],
    "stars": 1,
    "summary": "Tradeskill Addon for WoW Forever",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -16306,6 +16312,23 @@
     {
      "type": "github",
      "repo": "Bluephobia/NotaLoot",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "SimsForeverExporter",
+   "category": "qol",
+   "folders": [
+    "SimsForeverExporter"
+   ],
+   "stars": 1,
+   "summary": "Character export addon for Sims Forever and WoW Forever Beta",
+   "updated": "2026-09-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Blueteak/SimsForeverExporter",
      "flavors": []
     }
    ]
@@ -16373,6 +16396,23 @@
       "titan",
       "wrath"
      ]
+    }
+   ]
+  },
+  {
+   "name": "CherrysKit",
+   "category": "collections",
+   "folders": [
+    "CherrysKit"
+   ],
+   "stars": 1,
+   "summary": "Cherry's Kit: a modular collection of Runes of Magic addons.",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Cherrybooze/Cherrys-Kit",
+     "flavors": []
     }
    ]
   },
@@ -16844,6 +16884,25 @@
      "type": "github",
      "repo": "Eldodeldo/EldoUI",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Short Kings",
+   "category": "qol",
+   "folders": [
+    "ShortKings"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "EllisKOsborn/forever-shortkings",
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   },
@@ -18263,7 +18322,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -20750,7 +20809,7 @@
    ],
    "stars": 1,
    "summary": "See what the best Mythic+ groups are actually playing. A World of Warcraft addon that shows how often each specialization appears in top-ranked Mythic+ runs, updated daily.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -20907,26 +20966,6 @@
      "type": "github",
      "repo": "amichaelparker/MageGate",
      "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "BshamelUI",
-   "category": "ui",
-   "folders": [
-    "BshamelUI"
-   ],
-   "stars": 1,
-   "summary": "Bshamel UI \u2014 suite d'am\u00e9liorations d'interface pour World of Warcraft retail",
-   "updated": "2026-11-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "anthonycosson/BshamelUI",
-     "flavors": [
-      "forever",
-      "mainline"
-     ]
     }
    ]
   },
@@ -22392,7 +22431,7 @@
    ],
    "stars": 1,
    "summary": "Arc layout plugin for ActionbarPlus (World of Warcraft addon)",
-   "updated": "2026-10-26",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -22410,7 +22449,7 @@
    ],
    "stars": 1,
    "summary": "A lightweight World of Warcraft addon that lets players quickly save, manage, and switch between gear sets to adapt to different roles, specs, and gameplay situations with ease..",
-   "updated": "2026-10-28",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -22968,6 +23007,23 @@
     {
      "type": "github",
      "repo": "ls-/ls_Minimap",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "TDL",
+   "category": "qol",
+   "folders": [
+    "TDL"
+   ],
+   "stars": 1,
+   "summary": "Addons para World of Warcraft: Forever. TDL, Revenge y una base com\u00fan de desarrollo.",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "luisjedev/wow-forever-addons",
      "flavors": []
     }
    ]
@@ -23704,7 +23760,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides daily updated Best-in-Slot gear information from Archon.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -23806,7 +23862,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -23891,7 +23947,7 @@
    ],
    "stars": 1,
    "summary": "A data library addon for World of Warcraft that provides benchmark Mythic+ boss splits per dungeon and keystone level for PeaversSplits.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -25050,6 +25106,23 @@
       "forever",
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ForeverPlusPlus",
+   "category": "ui",
+   "folders": [
+    "ForeverPlusPlus"
+   ],
+   "stars": 1,
+   "summary": "A World of Warcraft addon for WoW: Forever that adds to and changes the default UI in small, separate modules. It doesn't replace the UI: every change is meant to look like Blizzard shipped it, needs no setup, and can be",
+   "updated": "2026-10-15",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "xIGBClutchIx/ForeverPlusPlus",
+     "flavors": []
     }
    ]
   },
@@ -27438,23 +27511,6 @@
    ]
   },
   {
-   "name": "SimsForeverExporter",
-   "category": "qol",
-   "folders": [
-    "SimsForeverExporter"
-   ],
-   "stars": 0,
-   "summary": "Character export addon for Sims Forever and WoW Forever Beta",
-   "updated": "2026-09-24",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Blueteak/SimsForeverExporter",
-     "flavors": []
-    }
-   ]
-  },
-  {
    "name": "WoW Forever Builds",
    "category": "raids",
    "folders": [
@@ -29002,7 +29058,7 @@
    ],
    "stars": 0,
    "summary": "Finds good graphics settings for your PC and keeps them. An addon for WoW Forever.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -32831,11 +32887,12 @@
    "name": "ForeverScout",
    "category": "qol",
    "folders": [
-    "ForeverScout"
+    "ForeverScout",
+    "ForeverScout_Data"
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-27",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -33254,7 +33311,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon used by CatchIT: soft target, cast and interact key, fishing sounds, item destroyer (installed by the app)",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -34964,7 +35021,7 @@
    ],
    "stars": 0,
    "summary": "WoW Mythic+ dashboard addon with tooltips \u2014 companion to mrmythical.com (CurseForge/Wago)",
-   "updated": "2026-10-29",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -40050,6 +40107,25 @@
    ]
   },
   {
+   "name": "Wow Efficiency",
+   "category": "qol",
+   "folders": [
+    "WowEfficiency"
+   ],
+   "stars": 0,
+   "summary": "Repository for the WoW Efficiency website companion addon.",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Sludging/wow-efficiency-addon",
+     "flavors": [
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "OakBonusPlanner",
    "category": "qol",
    "folders": [
@@ -41279,7 +41355,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-23",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -44510,25 +44586,6 @@
    ]
   },
   {
-   "name": "FlowerPower",
-   "category": "qol",
-   "folders": [
-    "FlowerPower"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2024-11-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "ZZumMallen/FlowerPower",
-     "flavors": [
-      "mainline"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Zbuilds",
    "category": "class",
    "folders": [
@@ -45639,7 +45696,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-14",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -47155,7 +47212,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft: Forever addon - accepts quests and hands them in as soon as you talk to the quest giver",
-   "updated": "2026-10-17",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -48674,7 +48731,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-20",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -51293,7 +51350,7 @@
    ],
    "stars": 0,
    "summary": "Leveling travel journal for WoW Forever and Retail",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "sources": [
     {
      "type": "github",
@@ -54285,7 +54342,7 @@
    ],
    "stars": 0,
    "summary": "LuaDevKit is an in-game Lua dev toolkit: edit/view code with line numbers and gutter, evaluate the buffer, and inspect variable         values on the fly. Font, size, and wrap are user-configurable.",
-   "updated": "2026-10-28",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -54302,7 +54359,7 @@
    ],
    "stars": 0,
    "summary": "Open source monospace fonts for World of Warcraft, registered via LibSharedMedia-3.0. Covers Latin, Cyrillic (Russian), and CJK (Chinese, Japanese, Korean) for full international client support. Drop-in font source for a",
-   "updated": "2026-10-16",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -54319,7 +54376,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-26",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -62473,7 +62530,7 @@
    ],
    "stars": 0,
    "summary": "Godslayer: a WoW Forever addon that counts your kills on the Olympus guild network, hands out titles, and ranks your guild. For the Horde.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -62971,6 +63028,23 @@
      "flavors": [
       "forever"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ICKit",
+   "category": "qol",
+   "folders": [
+    "ICKit"
+   ],
+   "stars": 0,
+   "summary": "ic addons - wow",
+   "updated": "2026-11-02",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "terin678/ic-addons",
+     "flavors": []
     }
    ]
   },
@@ -64039,7 +64113,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -64701,23 +64775,6 @@
     {
      "type": "github",
      "repo": "x4rinia/DinoMacro",
-     "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "ForeverPlusPlus",
-   "category": "ui",
-   "folders": [
-    "ForeverPlusPlus"
-   ],
-   "stars": 0,
-   "summary": "A World of Warcraft addon for WoW: Forever that adds to and changes the default UI in small, separate modules. It doesn't replace the UI: every change is meant to look like Blizzard shipped it, needs no setup, and can be",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "xIGBClutchIx/ForeverPlusPlus",
      "flavors": []
     }
    ]
