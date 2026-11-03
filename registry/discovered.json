@@ -9,7 +9,7 @@
    "folders": [
     "NDui"
    ],
-   "stars": 382,
+   "stars": 383,
    "summary": "NDui for World of Warcraft",
    "updated": "2026-11-02",
    "sources": [
@@ -53,7 +53,7 @@
     "GSE_Options",
     "GSE_Utils"
    ],
-   "stars": 267,
+   "stars": 268,
    "summary": "GSE is an alternative advanced macro editor and engine for World of Warcraft.  ",
    "updated": "2026-10-29",
    "sources": [
@@ -496,7 +496,7 @@
     "Spoken_Quests",
     "Spoken_Readables"
    ],
-   "stars": 65,
+   "stars": 66,
    "summary": "Voiced quest dialogue, zone lore and in-world books for World of Warcraft Forever/Classic \u2014 addons, the site behind them, and the pipelines that generate the audio.",
    "updated": "2026-11-02",
    "sources": [
@@ -1451,6 +1451,26 @@
    ]
   },
   {
+   "name": "Auction House DataBase (AHDB)",
+   "category": "economy",
+   "folders": [
+    "AuctionDB"
+   ],
+   "stars": 24,
+   "summary": "Wow (classic) Auction Database addon",
+   "updated": "2026-10-25",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "mooreatv/AuctionDB",
+     "flavors": [
+      "forever",
+      "mainline"
+     ]
+    }
+   ]
+  },
+  {
    "name": "ElvUI Eltruism [AllowLoadGameType standard]",
    "category": "ui",
    "folders": [
@@ -1494,26 +1514,6 @@
       "mainline",
       "mists",
       "titan"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Auction House DataBase (AHDB)",
-   "category": "economy",
-   "folders": [
-    "AuctionDB"
-   ],
-   "stars": 24,
-   "summary": "Wow (classic) Auction Database addon",
-   "updated": "2026-10-25",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "mooreatv/AuctionDB",
-     "flavors": [
-      "forever",
-      "mainline"
      ]
     }
    ]
@@ -1997,7 +1997,7 @@
    ],
    "stars": 19,
    "summary": "The original Classic look on WoW Forever and Retail.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -11544,6 +11544,23 @@
    ]
   },
   {
+   "name": "SpokenBooksAudio",
+   "category": "qol",
+   "folders": [
+    "SpokenBooksAudio"
+   ],
+   "stars": 3,
+   "summary": "An immersive narration and lore companion for Vanilla WoW (1.12), featuring voiced exploration, books, and an in-game compendium. Based on Spoken WoW.",
+   "updated": "2026-10-30",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "z1xel/SoftSpoken",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "H.H.T.D.",
    "category": "qol",
    "folders": [
@@ -14205,7 +14222,7 @@
    ],
    "stars": 2,
    "summary": "Search and command palette addon for WoW, inspired by Spotlight, Alfred, and Raycast. Quickly find commands, settings, items (mounts, pets, transmog outfits, housing items), and more.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -15615,18 +15632,18 @@
    ]
   },
   {
-   "name": "SpokenBooksAudio",
-   "category": "qol",
+   "name": "ForeverPlusPlus",
+   "category": "ui",
    "folders": [
-    "SpokenBooksAudio"
+    "ForeverPlusPlus"
    ],
    "stars": 2,
-   "summary": "An immersive narration and lore companion for Vanilla WoW (1.12), featuring voiced exploration, books, and an in-game compendium. Based on Spoken WoW.",
-   "updated": "2026-10-30",
+   "summary": "A World of Warcraft addon for WoW: Forever that adds to and changes the default UI in small, separate modules. It doesn't replace the UI: every change is meant to look like Blizzard shipped it, needs no setup, and can be",
+   "updated": "2026-10-15",
    "sources": [
     {
      "type": "github",
-     "repo": "z1xel/SoftSpoken",
+     "repo": "xIGBClutchIx/ForeverPlusPlus",
      "flavors": []
     }
    ]
@@ -16275,7 +16292,7 @@
    ],
    "stars": 1,
    "summary": "Tradeskill Addon for WoW Forever",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -18489,7 +18506,7 @@
    ],
    "stars": 1,
    "summary": "A HandyNotes plugin to help complete the Tortollan housing endeavor \"Dive Bar Front Crawl\" \u2014 marks each Tortollan bar's location on the map with a Tortollan Seekers crest.",
-   "updated": "2026-10-14",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -21166,7 +21183,7 @@
    ],
    "stars": 1,
    "summary": "An add-on for Shamans playing the game World of Warcraft: Forever.",
-   "updated": "2026-10-22",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -21207,6 +21224,26 @@
     {
      "type": "github",
      "repo": "cjber/adventure-guide-forever",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tweaks Forever",
+   "category": "ui",
+   "folders": [
+    "LibAHTab",
+    "TweaksForever"
+   ],
+   "stars": 1,
+   "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
+   "updated": "2026-11-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "cjber/tweaks-forever",
      "flavors": [
       "forever"
      ]
@@ -23722,7 +23759,7 @@
    ],
    "stars": 1,
    "summary": "Feature-rich World of Warcraft addon for event-driven sound triggers, custom sprite animations, floating ToyBox dock, radial ring menus, and utilities.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -24497,6 +24534,23 @@
    ]
   },
   {
+   "name": "QuestTargets",
+   "category": "quests",
+   "folders": [
+    "QuestTargets"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-11-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "simonrath/questtargets",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Mailworthy",
    "category": "bags",
    "folders": [
@@ -25129,23 +25183,6 @@
       "forever",
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForeverPlusPlus",
-   "category": "ui",
-   "folders": [
-    "ForeverPlusPlus"
-   ],
-   "stars": 1,
-   "summary": "A World of Warcraft addon for WoW: Forever that adds to and changes the default UI in small, separate modules. It doesn't replace the UI: every change is meant to look like Blizzard shipped it, needs no setup, and can be",
-   "updated": "2026-10-15",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "xIGBClutchIx/ForeverPlusPlus",
-     "flavors": []
     }
    ]
   },
@@ -27320,7 +27357,7 @@
    ],
    "stars": 0,
    "summary": "Cross-character inventory enhancement for EllesmereUI Bags: see what all your alts carry in bags, bank, warband bank, guild bank, mail and auctions, plus their currencies, right in item tooltips and in a searchable brows",
-   "updated": "2026-10-19",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -30068,7 +30105,7 @@
    ],
    "stars": 0,
    "summary": "Elan's Outpost: a Windows companion app for WoW Forever. Installs and updates Elan's addons, Atlas game reference, talent calculator, 3D world map, and the Lodge guild server.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -31926,7 +31963,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: spell damage on your buttons, DoTs that will kill, stats against what you wear, a combo point sound and a range mark, each switchable",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -33237,7 +33274,7 @@
    ],
    "stars": 0,
    "summary": "Adds ranked PvP ratings, personal bests and season stats to player tooltips. Hover any player to see 2v2/3v3/Shuffle/RBG/Blitz ratings instantly \u2014 no clicks, no website. Updated frequently.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -34186,7 +34223,7 @@
    ],
    "stars": 0,
    "summary": "Outil de guilde WoW Forever : addon, site, bot Discord et app compagnon",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -39936,7 +39973,7 @@
    ],
    "stars": 0,
    "summary": "Loot council voting for Retail and WoW Forever raids",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -41466,7 +41503,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon: macro templates with spell placeholders",
-   "updated": "2026-10-14",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -42075,7 +42112,7 @@
    ],
    "stars": 0,
    "summary": "Per-character consumable restock lists (WoW Midnight)",
-   "updated": "2026-10-23",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -42109,7 +42146,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail Mythic+ companion: gear goals, stat comparisons, enchants, gems, consumables and role rankings for all 40 specs.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -42618,7 +42655,7 @@
    ],
    "stars": 0,
    "summary": "Mana tick estimates and five-second-rule indicators for the WoW Forever default player mana bar.",
-   "updated": "2026-10-18",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -42766,7 +42803,7 @@
    ],
    "stars": 0,
    "summary": "\u041f\u043e\u0438\u0441\u043a \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 \u043d\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u0430\u0445 \u0432 WoW Forever",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -45681,7 +45718,7 @@
    ],
    "stars": 0,
    "summary": "WoW addon: see which of your alts can craft a linked item and whisper the requester in one click",
-   "updated": "2026-10-27",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -48082,26 +48119,6 @@
    ]
   },
   {
-   "name": "Tweaks Forever",
-   "category": "ui",
-   "folders": [
-    "LibAHTab",
-    "TweaksForever"
-   ],
-   "stars": 0,
-   "summary": "Small quality-of-life automations and fixes for WoW: Forever that extend the default UI",
-   "updated": "2026-11-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "cjber/tweaks-forever",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
    "name": "ActionBarSaver: Reloaded",
    "category": "actionbars",
    "folders": [
@@ -50287,7 +50304,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-17",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -50331,7 +50348,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-15",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -51136,7 +51153,7 @@
    ],
    "stars": 0,
    "summary": "Raid management tools for raid leaders and officers in WoW Classic Era, starting with posting raid notes to Method Raid Tools.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -56865,7 +56882,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon (formerly FarmTracker): gold per hour per farming spot and a this-spot-vs-your-best verdict. Untested in-game.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -56884,7 +56901,7 @@
    ],
    "stars": 0,
    "summary": "WoW: Forever addon: AH/vendor price and a sell-or-vendor verdict on leather and herb tooltips. Untested in-game.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -59867,7 +59884,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -65183,7 +65200,7 @@
    ],
    "stars": 0,
    "summary": "QFX Addon Manager: addon load modes, class rules, built-in tools and shared UI widgets for World of Warcraft.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
