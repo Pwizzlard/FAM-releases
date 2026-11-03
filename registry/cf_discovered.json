@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-02",
+ "built": "2026-11-03",
  "tier": "discovered",
  "addons": [
   {
@@ -1511,7 +1511,7 @@
       "forever"
      ],
      "updated": "2026-10-14",
-     "cf_downloads": 3239988
+     "cf_downloads": 3240354
     }
    ]
   },
@@ -1943,7 +1943,7 @@
       "forever"
      ],
      "updated": "2026-10-15",
-     "cf_downloads": 2204515
+     "cf_downloads": 2204740
     }
    ]
   },
@@ -2411,7 +2411,7 @@
       "forever"
      ],
      "updated": "2026-10-14",
-     "cf_downloads": 1543236
+     "cf_downloads": 1543431
     }
    ]
   },
@@ -2573,7 +2573,7 @@
       "forever"
      ],
      "updated": "2026-10-03",
-     "cf_downloads": 1348151
+     "cf_downloads": 1348598
     }
    ]
   },
@@ -2771,7 +2771,7 @@
       "forever"
      ],
      "updated": "2026-10-14",
-     "cf_downloads": 1215632
+     "cf_downloads": 1215863
     }
    ]
   },
@@ -4931,7 +4931,7 @@
       "forever"
      ],
      "updated": "2026-10-19",
-     "cf_downloads": 334920
+     "cf_downloads": 335163
     }
    ]
   },
@@ -5728,6 +5728,24 @@
    ]
   },
   {
+   "name": "oGlowClassic",
+   "summary": "oGlowClassic will light up your items in classic!",
+   "updated": "2026-09-26",
+   "category": "bags",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "oglowclassic",
+     "id": 504626,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-26",
+     "cf_downloads": 238141
+    }
+   ]
+  },
+  {
    "name": "Clickable Raid Buffs",
    "summary": "Displays missing raid buffs and temporary enchants, and allows you to click them to cast the buff or use the item.",
    "updated": "2026-10-25",
@@ -5742,24 +5760,6 @@
      ],
      "updated": "2026-10-25",
      "cf_downloads": 237659
-    }
-   ]
-  },
-  {
-   "name": "oGlowClassic",
-   "summary": "oGlowClassic will light up your items in classic!",
-   "updated": "2026-09-26",
-   "category": "bags",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "oglowclassic",
-     "id": 504626,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-26",
-     "cf_downloads": 237100
     }
    ]
   },
@@ -10984,6 +10984,24 @@
    ]
   },
   {
+   "name": "Come & Get It // Herb, Ore, and Treasure Chest Location Announcer",
+   "summary": "Found an herb you can't pick, a mineral vein you can't mine, or a locked treasure chest with no Rogue in sight? Right-click it, and Come & Get It creates a message you can use to share or broadcast the coordinates. Being",
+   "updated": "2026-09-27",
+   "category": "professions",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "come-get-it",
+     "id": 1128926,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-27",
+     "cf_downloads": 46086
+    }
+   ]
+  },
+  {
    "name": "BattlegroundSpiritReleaser",
    "summary": "Automatically releases spirit upon death in battlegrounds",
    "updated": "2026-10-18",
@@ -11016,24 +11034,6 @@
      ],
      "updated": "2026-09-19",
      "cf_downloads": 45981
-    }
-   ]
-  },
-  {
-   "name": "Come & Get It // Herb, Ore, and Treasure Chest Location Announcer",
-   "summary": "Found an herb you can't pick, a mineral vein you can't mine, or a locked treasure chest with no Rogue in sight? Right-click it, and Come & Get It creates a message you can use to share or broadcast the coordinates. Being",
-   "updated": "2026-09-27",
-   "category": "professions",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "come-get-it",
-     "id": 1128926,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-27",
-     "cf_downloads": 45940
     }
    ]
   },
@@ -13859,7 +13859,7 @@
       "forever"
      ],
      "updated": "2026-10-20",
-     "cf_downloads": 23451
+     "cf_downloads": 23463
     }
    ]
   },
@@ -16379,7 +16379,7 @@
       "forever"
      ],
      "updated": "2026-10-20",
-     "cf_downloads": 13269
+     "cf_downloads": 13270
     }
    ]
   },
@@ -21028,6 +21028,24 @@
    ]
   },
   {
+   "name": "MiniClassColors",
+   "summary": "Applies class colors to target, focus, and target of target frames.",
+   "updated": "2026-10-13",
+   "category": "class",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "miniclasscolors",
+     "id": 1418767,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-13",
+     "cf_downloads": 5737
+    }
+   ]
+  },
+  {
    "name": "BottomBar Forever",
    "summary": "Simple background for chat and actionbars.",
    "updated": "2026-09-22",
@@ -21042,24 +21060,6 @@
      ],
      "updated": "2026-09-22",
      "cf_downloads": 5731
-    }
-   ]
-  },
-  {
-   "name": "MiniClassColors",
-   "summary": "Applies class colors to target, focus, and target of target frames.",
-   "updated": "2026-10-13",
-   "category": "class",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "miniclasscolors",
-     "id": 1418767,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-13",
-     "cf_downloads": 5712
     }
    ]
   },
@@ -22036,6 +22036,24 @@
    ]
   },
   {
+   "name": "ColorTools Color Picker",
+   "summary": " Enhancement for the Color Picker",
+   "updated": "2026-10-21",
+   "category": "qol",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "colortools-color-picker",
+     "id": 1083107,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-21",
+     "cf_downloads": 4915
+    }
+   ]
+  },
+  {
    "name": "Questie Automatic Arrow",
    "summary": "Questie Automatic Arrow - Automatically points TomTom's arrow to the nearest relevant Questie objective",
    "updated": "2026-10-16",
@@ -22054,20 +22072,20 @@
    ]
   },
   {
-   "name": "ColorTools Color Picker",
-   "summary": " Enhancement for the Color Picker",
-   "updated": "2026-10-21",
-   "category": "qol",
+   "name": "AEmotes Classic - Retail - Forever from Holyfrey",
+   "summary": "Add fun audio files into WoW, and anyone nearby that also shares the addon will also hear them.",
+   "updated": "2026-10-26",
+   "category": "chat",
    "sources": [
     {
      "type": "curseforge",
-     "slug": "colortools-color-picker",
-     "id": 1083107,
+     "slug": "aemotes-classic",
+     "id": 476768,
      "flavors": [
       "forever"
      ],
-     "updated": "2026-10-21",
-     "cf_downloads": 4908
+     "updated": "2026-10-26",
+     "cf_downloads": 4881
     }
    ]
   },
@@ -22104,24 +22122,6 @@
      ],
      "updated": "2026-10-23",
      "cf_downloads": 4880
-    }
-   ]
-  },
-  {
-   "name": "AEmotes Classic - Retail - Forever from Holyfrey",
-   "summary": "Add fun audio files into WoW, and anyone nearby that also shares the addon will also hear them.",
-   "updated": "2026-10-26",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "aemotes-classic",
-     "id": 476768,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-26",
-     "cf_downloads": 4877
     }
    ]
   },
@@ -23543,7 +23543,7 @@
       "forever"
      ],
      "updated": "2026-10-13",
-     "cf_downloads": 4147
+     "cf_downloads": 4156
     }
    ]
   },
@@ -24430,6 +24430,24 @@
    ]
   },
   {
+   "name": "Peg'Gul (peggle+)",
+   "summary": "peggle meets balatro, with roguelike/classic/multiplayer modes, optimized to look like it belongs.",
+   "updated": "2026-11-03",
+   "category": "class",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "flight-minigames",
+     "id": 1735634,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-11-03",
+     "cf_downloads": 3654
+    }
+   ]
+  },
+  {
    "name": "RGX | Minecraft Level-Up!",
    "summary": "This is an addon that will play the \"LEVEL UP!\" chime from Minecraft when you level up in WoW.",
    "updated": "2026-10-22",
@@ -24628,6 +24646,24 @@
    ]
   },
   {
+   "name": "Shotta",
+   "summary": "Screenshot through your adventures in Azeroth",
+   "updated": "2026-10-25",
+   "category": "raids",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "shotta",
+     "id": 972182,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-25",
+     "cf_downloads": 3533
+    }
+   ]
+  },
+  {
    "name": "Azeroth Fieldbook",
    "summary": "A personal journal that records what you discover about Azeroth.",
    "updated": "2026-10-16",
@@ -24642,24 +24678,6 @@
      ],
      "updated": "2026-10-16",
      "cf_downloads": 3531
-    }
-   ]
-  },
-  {
-   "name": "Shotta",
-   "summary": "Screenshot through your adventures in Azeroth",
-   "updated": "2026-10-25",
-   "category": "raids",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "shotta",
-     "id": 972182,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-25",
-     "cf_downloads": 3529
     }
    ]
   },
@@ -25384,6 +25402,24 @@
    ]
   },
   {
+   "name": "Teleportal",
+   "summary": "One button and open both Mage Teleports and Portals.",
+   "updated": "2026-10-17",
+   "category": "unitframes",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "teleportal-classic",
+     "id": 1465884,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-17",
+     "cf_downloads": 3224
+    }
+   ]
+  },
+  {
    "name": "WoW Forever Builds - Guides & Dungeon quests",
    "summary": "Talent guides in your talent window, a Dungeon Quest helper beside the group finder, and one-line character export for wowforeverbuilds.com.\"",
    "updated": "2026-11-01",
@@ -25451,24 +25487,6 @@
       "forever"
      ],
      "updated": "2026-09-24",
-     "cf_downloads": 3206
-    }
-   ]
-  },
-  {
-   "name": "Teleportal",
-   "summary": "One button and open both Mage Teleports and Portals.",
-   "updated": "2026-10-17",
-   "category": "unitframes",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "teleportal-classic",
-     "id": 1465884,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-17",
      "cf_downloads": 3206
     }
    ]
@@ -25686,24 +25704,6 @@
      ],
      "updated": "2026-10-24",
      "cf_downloads": 3128
-    }
-   ]
-  },
-  {
-   "name": "Peg'Gul (peggle+)",
-   "summary": "peggle meets balatro, with roguelike/classic/multiplayer modes, in an optimized and Forever UI friendly package. ",
-   "updated": "2026-10-25",
-   "category": "class",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "flight-minigames",
-     "id": 1735634,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-25",
-     "cf_downloads": 3124
     }
    ]
   },
@@ -26266,6 +26266,24 @@
    ]
   },
   {
+   "name": "Unit Frames Toolbox",
+   "summary": "Hide, auto-fade and customize default Blizzard unit frames with smart triggers. Formerly known as \"Hide Unit Frames\"",
+   "updated": "2026-09-29",
+   "category": "unitframes",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "hide-unit-frames",
+     "id": 1373395,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-29",
+     "cf_downloads": 2969
+    }
+   ]
+  },
+  {
    "name": "Journey Tracker",
    "summary": "Records your whole road from 1 to 60 in WoW Forever, level by level: time, XP, kills, deaths, quests, gold, travel, gear and more.",
    "updated": "2026-10-21",
@@ -26284,24 +26302,6 @@
    ]
   },
   {
-   "name": "Unit Frames Toolbox",
-   "summary": "Hide, auto-fade and customize default Blizzard unit frames with smart triggers. Formerly known as \"Hide Unit Frames\"",
-   "updated": "2026-09-29",
-   "category": "unitframes",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "hide-unit-frames",
-     "id": 1373395,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-29",
-     "cf_downloads": 2949
-    }
-   ]
-  },
-  {
    "name": "RaidCore",
    "summary": "RaidCore brings Soft Reserves, in-game Loot Council, item notes, multi-copy awards, detailed loot history and automatic trade preparation together for WoW Classic and TBC, with optional RaidCore web app integration.",
    "updated": "2026-10-26",
@@ -26316,6 +26316,24 @@
      ],
      "updated": "2026-10-26",
      "cf_downloads": 2947
+    }
+   ]
+  },
+  {
+   "name": "ForeverDungeons",
+   "summary": "A dungeon journal built into the Looking For Group window from the game's own parts \u2014 written as you travel, or read whole from the start.",
+   "updated": "2026-10-17",
+   "category": "raids",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "foreverdungeons",
+     "id": 1715833,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-17",
+     "cf_downloads": 2938
     }
    ]
   },
@@ -26532,24 +26550,6 @@
      ],
      "updated": "2026-09-25",
      "cf_downloads": 2891
-    }
-   ]
-  },
-  {
-   "name": "ForeverDungeons",
-   "summary": "A dungeon journal built into the Looking For Group window from the game's own parts \u2014 written as you travel, or read whole from the start.",
-   "updated": "2026-10-17",
-   "category": "raids",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "foreverdungeons",
-     "id": 1715833,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-17",
-     "cf_downloads": 2881
     }
    ]
   },
@@ -29092,6 +29092,24 @@
    ]
   },
   {
+   "name": "HUN VoiceOver",
+   "summary": "Hungarian AI voice-over for WoW Forever quests, with voices matched to each NPC's race and gender.",
+   "updated": "2026-10-20",
+   "category": "quests",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "hun-voiceover",
+     "id": 1743865,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-20",
+     "cf_downloads": 2214
+    }
+   ]
+  },
+  {
    "name": "Forever Rotation (Multi language)",
    "summary": "Open source (MIT). Development stopped \u2014 forks welcome on GitHub. Rotation helper for Forever Classic: HUD of next 3 spells, skull flash. Not a bot. 11 languages.",
    "updated": "2026-09-29",
@@ -29214,24 +29232,6 @@
      ],
      "updated": "2026-09-28",
      "cf_downloads": 2149
-    }
-   ]
-  },
-  {
-   "name": "HUN VoiceOver",
-   "summary": "Hungarian AI voice-over for WoW Forever quests, with voices matched to each NPC's race and gender.",
-   "updated": "2026-10-20",
-   "category": "quests",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "hun-voiceover",
-     "id": 1743865,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-20",
-     "cf_downloads": 2138
     }
    ]
   },
@@ -34757,7 +34757,7 @@
       "forever"
      ],
      "updated": "2026-10-17",
-     "cf_downloads": 1164
+     "cf_downloads": 1166
     }
    ]
   },
@@ -35860,6 +35860,24 @@
    ]
   },
   {
+   "name": "Bagnon Consolidator",
+   "summary": "Automatically deposits and consolidates item stacks from your inventory into your personal bank and guild bank",
+   "updated": "2026-10-27",
+   "category": "bags",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "bagnon-consolidator",
+     "id": 1656218,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-27",
+     "cf_downloads": 1030
+    }
+   ]
+  },
+  {
    "name": "StatWeights Auto Equip",
    "summary": "Auto-equips better WoW gear with adjustable custom stat weights, upgrade percentages, and bag highlights",
    "updated": "2026-10-10",
@@ -36018,24 +36036,6 @@
      ],
      "updated": "2026-10-23",
      "cf_downloads": 1015
-    }
-   ]
-  },
-  {
-   "name": "Bagnon Consolidator",
-   "summary": "Automatically deposits and consolidates item stacks from your inventory into your personal bank and guild bank",
-   "updated": "2026-10-27",
-   "category": "bags",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "bagnon-consolidator",
-     "id": 1656218,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-27",
-     "cf_downloads": 1014
     }
    ]
   },
@@ -37786,6 +37786,24 @@
    ]
   },
   {
+   "name": "ChatterBox",
+   "summary": "A lightweight WoW addon that lets you send custom chat messages using aliases. Easily create message lists, cycle through them dynamically, and manage everything in a dedicated config window.",
+   "updated": "2026-10-26",
+   "category": "roleplay",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "chatterbox",
+     "id": 1214233,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-26",
+     "cf_downloads": 853
+    }
+   ]
+  },
+  {
    "name": "Twitch Emotes WoW Forever",
    "summary": "Adds animated Twitch, 7TV, BetterTTV, and FrankerFaceZ emotes to WoW Forever chat, with search, autocomplete, favorites, and per-channel controls.",
    "updated": "2026-09-21",
@@ -37818,24 +37836,6 @@
      ],
      "updated": "2026-10-23",
      "cf_downloads": 850
-    }
-   ]
-  },
-  {
-   "name": "ChatterBox",
-   "summary": "A lightweight WoW addon that lets you send custom chat messages using aliases. Easily create message lists, cycle through them dynamically, and manage everything in a dedicated config window.",
-   "updated": "2026-10-26",
-   "category": "roleplay",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "chatterbox",
-     "id": 1214233,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-26",
-     "cf_downloads": 847
     }
    ]
   },
@@ -38668,6 +38668,24 @@
    ]
   },
   {
+   "name": "UnitFrameUtils (Language-Flag, M+ Rating, ilvl, Companion in Delve, ...)",
+   "summary": "Extends UnitFrames/RaidFrames with Language-Flag, M+ Rating, Companion in Delve, ...",
+   "updated": "2026-10-14",
+   "category": "unitframes",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "unitframeutils",
+     "id": 1668911,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-14",
+     "cf_downloads": 780
+    }
+   ]
+  },
+  {
    "name": "Sift: Chat Spam Filter & Blocker",
    "summary": "A chat filter and spam blocker that stops gold sellers and boost ads across trade, LFG and whispers. Install and forget. Sift will handle the rest",
    "updated": "2026-10-13",
@@ -38753,24 +38771,6 @@
       "forever"
      ],
      "updated": "2026-10-02",
-     "cf_downloads": 778
-    }
-   ]
-  },
-  {
-   "name": "UnitFrameUtils (Language-Flag, M+ Rating, ilvl, Companion in Delve, ...)",
-   "summary": "Extends UnitFrames/RaidFrames with Language-Flag, M+ Rating, Companion in Delve, ...",
-   "updated": "2026-10-14",
-   "category": "unitframes",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "unitframeutils",
-     "id": 1668911,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-14",
      "cf_downloads": 778
     }
    ]
@@ -42304,6 +42304,24 @@
    ]
   },
   {
+   "name": "Details! \u2013 Worldsoul Skins",
+   "summary": "A collection of expansion-inspired skins for Details! Damage Meter, featuring Midnight now and more Worldsoul Saga themes in the future.",
+   "updated": "2026-10-15",
+   "category": "ui",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "details-worldsoul-skins",
+     "id": 1696947,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-15",
+     "cf_downloads": 606
+    }
+   ]
+  },
+  {
    "name": "Umbra Unit Frames",
    "summary": "Modern unit frames for WoW Forever, Retail and Classic. Class-colored edges, rectangular portraits, and a clean, focused layout.",
    "updated": "2026-10-25",
@@ -42970,24 +42988,6 @@
    ]
   },
   {
-   "name": "Details! \u2013 Worldsoul Skins",
-   "summary": "A collection of expansion-inspired skins for Details! Damage Meter, featuring Midnight now and more Worldsoul Saga themes in the future.",
-   "updated": "2026-10-15",
-   "category": "ui",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "details-worldsoul-skins",
-     "id": 1696947,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-15",
-     "cf_downloads": 579
-    }
-   ]
-  },
-  {
    "name": "Hunggy's Ring HUD",
    "summary": "Fully customizable Ring HUD that tracks your Health, Mana, Pet, Swing Timer, Cast Bar, Combo points, all in... the one Ring.",
    "updated": "2026-10-27",
@@ -43258,6 +43258,24 @@
    ]
   },
   {
+   "name": "Spoken Chinese (Traditional) Audio: Places",
+   "summary": "The Traditional Chinese narration for Spoken Player's Zones module: every zone and subzone read aloud in Chinese (Traditional).",
+   "updated": "2026-10-03",
+   "category": "roleplay",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "spoken-chinese-traditional-audio-places",
+     "id": 1723276,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-03",
+     "cf_downloads": 569
+    }
+   ]
+  },
+  {
    "name": "Forever Stat Search",
    "summary": "Search auction gear by stats, compare saved prices, and check matching live offers with Auctionator.",
    "updated": "2026-09-30",
@@ -43362,6 +43380,24 @@
      ],
      "updated": "2026-10-22",
      "cf_downloads": 560
+    }
+   ]
+  },
+  {
+   "name": "Alenya's Guides Writer",
+   "summary": "Record WoW Classic leveling guides in game - exports a playable file for Alenya's Guides.",
+   "updated": "2026-10-08",
+   "category": "quests",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "alenyas-guides-writer",
+     "id": 1688111,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-08",
+     "cf_downloads": 559
     }
    ]
   },
@@ -43758,24 +43794,6 @@
      ],
      "updated": "2026-11-02",
      "cf_downloads": 548
-    }
-   ]
-  },
-  {
-   "name": "Alenya's Guides Writer",
-   "summary": "Record WoW Classic leveling guides in game - exports a playable file for Alenya's Guides.",
-   "updated": "2026-10-08",
-   "category": "quests",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "alenyas-guides-writer",
-     "id": 1688111,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-08",
-     "cf_downloads": 547
     }
    ]
   },
@@ -45508,6 +45526,24 @@
    ]
   },
   {
+   "name": "Campfire - Players Nearby",
+   "summary": "See which guildies are nearby, how far away and in which direction. Part of YippYapp.",
+   "updated": "2026-10-21",
+   "category": "maps",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "campfire-players-nearby",
+     "id": 1703456,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-21",
+     "cf_downloads": 486
+    }
+   ]
+  },
+  {
    "name": "Ding! - WoW Forever XP and leveling guide",
    "summary": "Leveling guide for WoW Forever: Gamepad Friendly, XP-optimized routes, a smart waypoint arrow, auto quest accept and turn-in, and a clean modern UI.",
    "updated": "2026-10-15",
@@ -45540,24 +45576,6 @@
      ],
      "updated": "2026-10-17",
      "cf_downloads": 486
-    }
-   ]
-  },
-  {
-   "name": "Campfire - Players Nearby",
-   "summary": "See which guildies are nearby, how far away and in which direction. Part of YippYapp.",
-   "updated": "2026-10-21",
-   "category": "maps",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "campfire-players-nearby",
-     "id": 1703456,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-21",
-     "cf_downloads": 485
     }
    ]
   },
@@ -45953,24 +45971,6 @@
       "forever"
      ],
      "updated": "2026-09-27",
-     "cf_downloads": 474
-    }
-   ]
-  },
-  {
-   "name": "Spoken Chinese (Traditional) Audio: Places",
-   "summary": "The Traditional Chinese narration for Spoken Player's Zones module: every zone and subzone read aloud in Chinese (Traditional).",
-   "updated": "2026-10-03",
-   "category": "roleplay",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "spoken-chinese-traditional-audio-places",
-     "id": 1723276,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-03",
      "cf_downloads": 474
     }
    ]
@@ -46570,6 +46570,24 @@
    ]
   },
   {
+   "name": "Minimap Button Drawer",
+   "summary": "Too many addon buttons around your minimap? Put them all in one drawer.",
+   "updated": "2026-10-25",
+   "category": "maps",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "minimap-button-drawer",
+     "id": 1744034,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-25",
+     "cf_downloads": 457
+    }
+   ]
+  },
+  {
    "name": "RebuffTimer",
    "summary": "Never miss a rebuff again: timers with a spoken countdown and voice announcements (\"Rebuff Seal!\") for your own buffs, debuffs, cooldowns and racials. One-click macros. English, German, French, Spanish. Made for WoW Fore",
    "updated": "2026-10-20",
@@ -46660,6 +46678,24 @@
    ]
   },
   {
+   "name": "Healer's Serenity Forever",
+   "summary": "Healer's Serenity is designed to streamline your healing experience in World of Warcraft Forever. Featuring an intuitive bar positioned conveniently near the player's interface, this addon allows quick access to all your",
+   "updated": "2026-10-25",
+   "category": "actionbars",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "healers-serenity-forever",
+     "id": 1706446,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-25",
+     "cf_downloads": 451
+    }
+   ]
+  },
+  {
    "name": "QuestWordHunter - German Dictionary",
    "summary": "In game dictionary for 74,000 German quest words translated to English Click a word and a translation is waiting",
    "updated": "2026-10-30",
@@ -46728,24 +46764,6 @@
      ],
      "updated": "2026-10-21",
      "cf_downloads": 449
-    }
-   ]
-  },
-  {
-   "name": "Healer's Serenity Forever",
-   "summary": "Healer's Serenity is designed to streamline your healing experience in World of Warcraft Forever. Featuring an intuitive bar positioned conveniently near the player's interface, this addon allows quick access to all your",
-   "updated": "2026-10-25",
-   "category": "actionbars",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "healers-serenity-forever",
-     "id": 1706446,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-25",
-     "cf_downloads": 447
     }
    ]
   },
@@ -46889,24 +46907,6 @@
       "forever"
      ],
      "updated": "2026-10-20",
-     "cf_downloads": 444
-    }
-   ]
-  },
-  {
-   "name": "Minimap Button Drawer",
-   "summary": "Too many addon buttons around your minimap? Put them all in one drawer.",
-   "updated": "2026-10-25",
-   "category": "maps",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "minimap-button-drawer",
-     "id": 1744034,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-25",
      "cf_downloads": 444
     }
    ]
@@ -47141,6 +47141,24 @@
       "forever"
      ],
      "updated": "2026-09-23",
+     "cf_downloads": 437
+    }
+   ]
+  },
+  {
+   "name": "ForeverComboBar",
+   "summary": "Compact combo point, energy and druid mana HUD for WoW Forever.",
+   "updated": "2026-10-16",
+   "category": "class",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "forevercombobar",
+     "id": 1721196,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-16",
      "cf_downloads": 437
     }
    ]
@@ -47447,24 +47465,6 @@
       "forever"
      ],
      "updated": "2026-10-09",
-     "cf_downloads": 428
-    }
-   ]
-  },
-  {
-   "name": "ForeverComboBar",
-   "summary": "Compact combo point, energy and druid mana HUD for WoW Forever.",
-   "updated": "2026-10-16",
-   "category": "class",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "forevercombobar",
-     "id": 1721196,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
      "cf_downloads": 428
     }
    ]
@@ -48208,6 +48208,24 @@
    ]
   },
   {
+   "name": "AzerothForge Shaman Alert Forever",
+   "summary": "Shaman Alert provides clear shield and totem reminders for WoW Forever, with spell icons, specialization filtering, and optional sound alerts.",
+   "updated": "2026-10-19",
+   "category": "class",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "shaman-alert-forever",
+     "id": 1718526,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-19",
+     "cf_downloads": 411
+    }
+   ]
+  },
+  {
    "name": "PRR: Professions, Recipes, Reagents.",
    "summary": "PRR: Professions, Recipes, Reagensts. Atlas and search. Craft planner with auction scan.",
    "updated": "2026-10-14",
@@ -48383,24 +48401,6 @@
       "forever"
      ],
      "updated": "2026-10-05",
-     "cf_downloads": 405
-    }
-   ]
-  },
-  {
-   "name": "AzerothForge Shaman Alert Forever",
-   "summary": "Shaman Alert provides clear shield and totem reminders for WoW Forever, with spell icons, specialization filtering, and optional sound alerts.",
-   "updated": "2026-10-19",
-   "category": "class",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "shaman-alert-forever",
-     "id": 1718526,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-19",
      "cf_downloads": 405
     }
    ]
@@ -48977,6 +48977,24 @@
       "forever"
      ],
      "updated": "2026-10-20",
+     "cf_downloads": 389
+    }
+   ]
+  },
+  {
+   "name": "Interactglow",
+   "summary": "Highlights nearby herbs and quest objectives with a color-coded alert using the game's native soft-target interact system.",
+   "updated": "2026-10-05",
+   "category": "professions",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "interactglow",
+     "id": 1728970,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-05",
      "cf_downloads": 389
     }
    ]
@@ -50224,6 +50242,24 @@
    ]
   },
   {
+   "name": "ProfessionBuddy",
+   "summary": "A modern all-in-one profession window for TBC Classic Anniversary and WoW: Forever: every alt's recipes and materials, a recursive Material Calculator, friend and guild crafting orders, and recipe data from the game's ow",
+   "updated": "2026-10-16",
+   "category": "professions",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "professionbuddy",
+     "id": 1631296,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-16",
+     "cf_downloads": 355
+    }
+   ]
+  },
+  {
    "name": "DonMap",
    "summary": "Map pins, minimap points, direction arrow and compass shared by the Don addons on WoW Forever and Classic Era.",
    "updated": "2026-10-31",
@@ -50561,24 +50597,6 @@
       "forever"
      ],
      "updated": "2026-10-14",
-     "cf_downloads": 349
-    }
-   ]
-  },
-  {
-   "name": "ProfessionBuddy",
-   "summary": "A modern all-in-one profession window for TBC Classic Anniversary and WoW: Forever: every alt's recipes and materials, a recursive Material Calculator, friend and guild crafting orders, and recipe data from the game's ow",
-   "updated": "2026-10-16",
-   "category": "professions",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "professionbuddy",
-     "id": 1631296,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
      "cf_downloads": 349
     }
    ]
@@ -52078,6 +52096,24 @@
    ]
   },
   {
+   "name": "RanranMedia - \u7136\u7136\u6750\u8d28\u8bed\u97f3\u5305",
+   "summary": "RanranMedia is a personal World of Warcraft media pack containing various notification sounds, class skill sound effects, cast bar textures, and more.",
+   "updated": "2026-10-16",
+   "category": "auras",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "ranranmedia",
+     "id": 1455595,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-16",
+     "cf_downloads": 313
+    }
+   ]
+  },
+  {
    "name": "SystematicLayers",
    "summary": "Systematic Layers is a guild addon for WoW: Forever. It works out which layer you're on by itself, shares that with your guildmates, and gives the guild a list of every layer and who's on it. ",
    "updated": "2026-10-25",
@@ -52109,24 +52145,6 @@
       "forever"
      ],
      "updated": "2026-10-14",
-     "cf_downloads": 312
-    }
-   ]
-  },
-  {
-   "name": "RanranMedia - \u7136\u7136\u6750\u8d28\u8bed\u97f3\u5305",
-   "summary": "RanranMedia is a personal World of Warcraft media pack containing various notification sounds, class skill sound effects, cast bar textures, and more.",
-   "updated": "2026-10-16",
-   "category": "auras",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "ranranmedia",
-     "id": 1455595,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
      "cf_downloads": 312
     }
    ]
@@ -53968,24 +53986,6 @@
    ]
   },
   {
-   "name": "Interactglow",
-   "summary": "Highlights nearby herbs and quest objectives with a color-coded alert using the game's native soft-target interact system.",
-   "updated": "2026-10-05",
-   "category": "professions",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "interactglow",
-     "id": 1728970,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-05",
-     "cf_downloads": 275
-    }
-   ]
-  },
-  {
    "name": "Loch Routes \u2014 Guide Pack for Polestar",
    "summary": "An independent Alliance Loch Modan quest guide for WoW: Forever. Requires Polestar Guides",
    "updated": "2026-10-16",
@@ -54089,6 +54089,24 @@
       "forever"
      ],
      "updated": "2026-10-03",
+     "cf_downloads": 272
+    }
+   ]
+  },
+  {
+   "name": "ForeverAR",
+   "summary": "Arabic translation for World of Warcraft: Forever - 38,000+ quest and story texts, UI, tooltips, 12,000+ names, with proper RTL Arabic shaping. | \u062a\u0639\u0631\u064a\u0628 \u0648\u0648\u0631\u0643\u0631\u0627\u0641\u062a \u0641\u0648\u0631\u064a\u0641\u0631: \u0627\u0644\u0642\u0635\u0629 \u0648\u0627\u0644\u0645\u0647\u0645\u0627\u062a \u0648\u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0648\u0627\u0644\u0623\u0633\u0645\u0627\u0621.",
+   "updated": "2026-11-03",
+   "category": "quests",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "foreverar",
+     "id": 1728906,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-11-03",
      "cf_downloads": 272
     }
    ]
@@ -54737,24 +54755,6 @@
       "forever"
      ],
      "updated": "2026-10-02",
-     "cf_downloads": 261
-    }
-   ]
-  },
-  {
-   "name": "ForeverAR",
-   "summary": "Arabic translation for World of Warcraft: Forever - 38,000+ quest and story texts, UI, tooltips, 12,000+ names, with proper RTL Arabic shaping. | \u062a\u0639\u0631\u064a\u0628 \u0648\u0648\u0631\u0643\u0631\u0627\u0641\u062a \u0641\u0648\u0631\u064a\u0641\u0631: \u0627\u0644\u0642\u0635\u0629 \u0648\u0627\u0644\u0645\u0647\u0645\u0627\u062a \u0648\u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0648\u0627\u0644\u0623\u0633\u0645\u0627\u0621.",
-   "updated": "2026-10-24",
-   "category": "quests",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "foreverar",
-     "id": 1728906,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-24",
      "cf_downloads": 261
     }
    ]
@@ -56020,6 +56020,24 @@
    ]
   },
   {
+   "name": "TargetForge",
+   "summary": "Lightweight WoW Classic Era addon for saved target lists, quick targeting, raid marking, Active Targets portraits, and mouseover auto-marking.",
+   "updated": "2026-10-20",
+   "category": "unitframes",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "targetforge",
+     "id": 1511616,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-20",
+     "cf_downloads": 245
+    }
+   ]
+  },
+  {
    "name": "Bar Energy",
    "summary": "Energy/Rage bar with tick timer for WoW Forever",
    "updated": "2026-09-18",
@@ -56070,24 +56088,6 @@
      ],
      "updated": "2026-10-11",
      "cf_downloads": 245
-    }
-   ]
-  },
-  {
-   "name": "TargetForge",
-   "summary": "Lightweight WoW Classic Era addon for saved target lists, quick targeting, raid marking, Active Targets portraits, and mouseover auto-marking.",
-   "updated": "2026-10-20",
-   "category": "unitframes",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "targetforge",
-     "id": 1511616,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-20",
-     "cf_downloads": 244
     }
    ]
   },
@@ -57208,6 +57208,24 @@
    ]
   },
   {
+   "name": "DGG Emotes",
+   "summary": "Brings emotes from DGG to WoW",
+   "updated": "2026-10-04",
+   "category": "chat",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "dgg-emotes",
+     "id": 1719676,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-04",
+     "cf_downloads": 232
+    }
+   ]
+  },
+  {
    "name": "AltStable -- Forever Edition",
    "summary": "Track gear, gold, professions, recipes, and reputations across your characters in one clear roster dashboard.",
    "updated": "2026-10-21",
@@ -58032,24 +58050,6 @@
      ],
      "updated": "2026-10-21",
      "cf_downloads": 224
-    }
-   ]
-  },
-  {
-   "name": "DGG Emotes",
-   "summary": "Brings emotes from DGG to WoW",
-   "updated": "2026-10-04",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "dgg-emotes",
-     "id": 1719676,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-04",
-     "cf_downloads": 223
     }
    ]
   },
@@ -59656,6 +59656,24 @@
    ]
   },
   {
+   "name": "SimpleTools",
+   "summary": "A lightweight World of Warcraft addon providing various tools to improve your game experience.",
+   "updated": "2026-10-06",
+   "category": "quests",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "simple-tools",
+     "id": 1474369,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-06",
+     "cf_downloads": 203
+    }
+   ]
+  },
+  {
    "name": "project-1711208",
    "summary": "Addon pack for WoW Forever Beta. Every addon is Camelot-compatible and ships with a preconfigured layout if the beta blocks saved variables again",
    "updated": "2026-10-08",
@@ -59998,24 +60016,6 @@
    ]
   },
   {
-   "name": "SimpleTools",
-   "summary": "A lightweight World of Warcraft addon providing various tools to improve your game experience.",
-   "updated": "2026-10-06",
-   "category": "quests",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "simple-tools",
-     "id": 1474369,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-06",
-     "cf_downloads": 200
-    }
-   ]
-  },
-  {
    "name": "ManaCircle",
    "summary": "A lightweight, customizable MP5 tracker for WoW Forever that displays real-time mana regeneration and visually tracks the five-second rule.",
    "updated": "2026-10-19",
@@ -60264,6 +60264,24 @@
      ],
      "updated": "2026-11-01",
      "cf_downloads": 197
+    }
+   ]
+  },
+  {
+   "name": "Gold Compass",
+   "summary": "Tells you what to craft, flip and level for the most gold: live AH sniping, deals, vendor flips, crafting profits, profession levelling and fast buying.",
+   "updated": "2026-10-02",
+   "category": "economy",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "gold-compass",
+     "id": 1714883,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-02",
+     "cf_downloads": 196
     }
    ]
   },
@@ -61276,6 +61294,24 @@
    ]
   },
   {
+   "name": "TinyTooltip - 4ever",
+   "summary": "Configurable, class-colored tooltips for WoW: Forever \u2014 health bars, target info, IDs, and full layout control.",
+   "updated": "2026-10-18",
+   "category": "tooltips",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "tinytooltip-4ever",
+     "id": 1711476,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-18",
+     "cf_downloads": 186
+    }
+   ]
+  },
+  {
    "name": "KelaVendor - Vendor UI, Auto Junk Sell & Repair",
    "summary": "Vendor UI with auto junk selling, auto-repair, gear comparison, history and full gamepad support.",
    "updated": "2026-10-12",
@@ -61618,24 +61654,6 @@
    ]
   },
   {
-   "name": "Gold Compass",
-   "summary": "Tells you what to craft, flip and level for the most gold: live AH sniping, deals, vendor flips, crafting profits, profession levelling and fast buying.",
-   "updated": "2026-10-02",
-   "category": "economy",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "gold-compass",
-     "id": 1714883,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-02",
-     "cf_downloads": 183
-    }
-   ]
-  },
-  {
    "name": "Forever Simple Loadout",
    "summary": "Equipment slot buttons with item menus, placed and attached where you like, and your own gear sets to swap in one click.",
    "updated": "2026-11-01",
@@ -61739,24 +61757,6 @@
       "forever"
      ],
      "updated": "2026-09-26",
-     "cf_downloads": 182
-    }
-   ]
-  },
-  {
-   "name": "TinyTooltip - 4ever",
-   "summary": "Configurable, class-colored tooltips for WoW: Forever \u2014 health bars, target info, IDs, and full layout control.",
-   "updated": "2026-10-18",
-   "category": "tooltips",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "tinytooltip-4ever",
-     "id": 1711476,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-18",
      "cf_downloads": 182
     }
    ]
@@ -63400,6 +63400,24 @@
    ]
   },
   {
+   "name": "DropAtlas",
+   "summary": "Your personal loot atlas for WoW Forever : observed drop rates, mob and item database, gold per hour, auction prices and drop maps",
+   "updated": "2026-10-17",
+   "category": "economy",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "dropatlas",
+     "id": 1733184,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-17",
+     "cf_downloads": 165
+    }
+   ]
+  },
+  {
    "name": "PallyMe",
    "summary": "Customizable Aura, Blessing, Seal and optional Righteous Fury tracking for WoW Forever Paladins: clickable bars or icons, reminders and guidance for your build and role.",
    "updated": "2026-10-23",
@@ -63629,24 +63647,6 @@
       "forever"
      ],
      "updated": "2026-09-19",
-     "cf_downloads": 163
-    }
-   ]
-  },
-  {
-   "name": "DropAtlas",
-   "summary": "Your personal loot atlas for WoW Forever : observed drop rates, mob and item database, gold per hour, auction prices and drop maps",
-   "updated": "2026-10-17",
-   "category": "economy",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "dropatlas",
-     "id": 1733184,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-17",
      "cf_downloads": 163
     }
    ]
@@ -63904,6 +63904,24 @@
    ]
   },
   {
+   "name": "ForeverHealFrames",
+   "summary": "ForeverHealFrames is a lightweight healer-focused party and raid frame addon with customizable layouts, HoT tracking, dispel alerts, profiles, and click/mouseover-friendly unit frames.",
+   "updated": "2026-10-16",
+   "category": "unitframes",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "foreverhealframes",
+     "id": 1716845,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-16",
+     "cf_downloads": 160
+    }
+   ]
+  },
+  {
    "name": "QuickEmotes",
    "summary": "Simply the best way to communicate.",
    "updated": "2026-10-10",
@@ -64048,24 +64066,6 @@
    ]
   },
   {
-   "name": "ForeverHealFrames",
-   "summary": "ForeverHealFrames is a lightweight healer-focused party and raid frame addon with customizable layouts, HoT tracking, dispel alerts, profiles, and click/mouseover-friendly unit frames.",
-   "updated": "2026-10-16",
-   "category": "unitframes",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "foreverhealframes",
-     "id": 1716845,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
-     "cf_downloads": 159
-    }
-   ]
-  },
-  {
    "name": "DevTool - Numy",
    "summary": "A multipurpose tool to assist with World of Warcraft addon development",
    "updated": "2026-10-14",
@@ -64187,6 +64187,24 @@
       "forever"
      ],
      "updated": "2026-10-07",
+     "cf_downloads": 158
+    }
+   ]
+  },
+  {
+   "name": "XP Bar - WoW Forever",
+   "summary": "A clean, modern XP bar for WoW Forever with live XP tracking, XP/hour, leveling ETA, rested XP and readable progress information.",
+   "updated": "2026-10-02",
+   "category": "quests",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "xp-bar-wow-forever",
+     "id": 1722084,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-02",
      "cf_downloads": 158
     }
    ]
@@ -66766,24 +66784,6 @@
    ]
   },
   {
-   "name": "XP Bar - WoW Forever",
-   "summary": "A clean, modern XP bar for WoW Forever with live XP tracking, XP/hour, leveling ETA, rested XP and readable progress information.",
-   "updated": "2026-10-02",
-   "category": "quests",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "xp-bar-wow-forever",
-     "id": 1722084,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-02",
-     "cf_downloads": 138
-    }
-   ]
-  },
-  {
    "name": "Profession Crafting Assistant",
    "summary": "Prices out cost, sale price and profit for every recipe across all professions \u00b7 profession leveling \u00b7 Favor Exchange \u00b7 shopping list with material totals and one-click Auction House lookup \u00b7 find unlearned recipes",
    "updated": "2026-10-06",
@@ -66858,7 +66858,7 @@
   {
    "name": "AEmotes - Lynge Sound Pack from Holyfrey",
    "summary": "Misc Sound pack to AEmote",
-   "updated": "2026-09-18",
+   "updated": "2026-10-26",
    "category": "chat",
    "sources": [
     {
@@ -66868,7 +66868,7 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-09-18",
+     "updated": "2026-10-26",
      "cf_downloads": 137
     }
    ]
@@ -68044,6 +68044,24 @@
    ]
   },
   {
+   "name": "LuaWorkbench",
+   "summary": "Write, run and debug Lua in WoW with IntelliSense, reusable helpers, API documentation, a frame inspector and live variable inspection.",
+   "updated": "2026-10-25",
+   "category": "libraries",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "luaworkbench",
+     "id": 1736834,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-25",
+     "cf_downloads": 130
+    }
+   ]
+  },
+  {
    "name": "PocketGoblinForever",
    "summary": "A goblin in your bags that sells your junk, tracks your earnings and keeps your bags tidy.",
    "updated": "2026-10-20",
@@ -68206,19 +68224,19 @@
    ]
   },
   {
-   "name": "LuaWorkbench",
-   "summary": "Write, run and debug Lua in WoW with IntelliSense, reusable helpers, API documentation, a frame inspector and live variable inspection.",
-   "updated": "2026-10-25",
-   "category": "libraries",
+   "name": "Objective Hider for RestedXP: Forever",
+   "summary": "Hide Blizzard's objective tracker while keeping RestedXP visible in WoW: Forever.",
+   "updated": "2026-10-16",
+   "category": "quests",
    "sources": [
     {
      "type": "curseforge",
-     "slug": "luaworkbench",
-     "id": 1736834,
+     "slug": "objective-hider-for-restedxp-forever",
+     "id": 1739745,
      "flavors": [
       "forever"
      ],
-     "updated": "2026-10-25",
+     "updated": "2026-10-16",
      "cf_downloads": 129
     }
    ]
@@ -68404,6 +68422,24 @@
    ]
   },
   {
+   "name": "TankiLight",
+   "summary": "A compact tank traffic light that scores party and raid readiness from health, mana, roles and class buffs\u2014because every heroic pull deserves at least one sensible green light.",
+   "updated": "2026-10-07",
+   "category": "raids",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "tankilight",
+     "id": 1651497,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-07",
+     "cf_downloads": 127
+    }
+   ]
+  },
+  {
    "name": "World PVP Alert",
    "summary": "World PvP Alert automatically detects nearby open-world player combat and instantly notifies you without requiring a target.",
    "updated": "2026-10-04",
@@ -68579,6 +68615,24 @@
       "forever"
      ],
      "updated": "2026-10-20",
+     "cf_downloads": 127
+    }
+   ]
+  },
+  {
+   "name": "Latamchat",
+   "summary": "Latam Chat is a Spanish community chat addon for World of Warcraft Classic Era, designed to make communication between Spanish-speaking players easier and more convenient.",
+   "updated": "2026-10-21",
+   "category": "chat",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "latamchat",
+     "id": 1703958,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-21",
      "cf_downloads": 127
     }
    ]
@@ -68800,24 +68854,6 @@
    ]
   },
   {
-   "name": "TankiLight",
-   "summary": "A compact tank traffic light that scores party and raid readiness from health, mana, roles and class buffs\u2014because every heroic pull deserves at least one sensible green light.",
-   "updated": "2026-10-07",
-   "category": "raids",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "tankilight",
-     "id": 1651497,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-07",
-     "cf_downloads": 125
-    }
-   ]
-  },
-  {
    "name": "CC Nameplate Auras",
    "summary": "Moves and enlarges enemy nameplate debuff and crowd control icons above the name.",
    "updated": "2026-10-02",
@@ -68903,24 +68939,6 @@
       "forever"
      ],
      "updated": "2026-10-30",
-     "cf_downloads": 125
-    }
-   ]
-  },
-  {
-   "name": "Objective Hider for RestedXP: Forever",
-   "summary": "Hide Blizzard's objective tracker while keeping RestedXP visible in WoW: Forever.",
-   "updated": "2026-10-16",
-   "category": "quests",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "objective-hider-for-restedxp-forever",
-     "id": 1739745,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
      "cf_downloads": 125
     }
    ]
@@ -70600,24 +70618,6 @@
    ]
   },
   {
-   "name": "Latamchat",
-   "summary": "Latam Chat is a Spanish community chat addon for World of Warcraft Classic Era, designed to make communication between Spanish-speaking players easier and more convenient.",
-   "updated": "2026-10-21",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "latamchat",
-     "id": 1703958,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-21",
-     "cf_downloads": 116
-    }
-   ]
-  },
-  {
    "name": "Siz UltraWide CenteredUI",
    "summary": "Keeps your whole UI in a centered 16:9 area on ultrawide monitors, while the game world still fills the screen.",
    "updated": "2026-09-24",
@@ -70906,6 +70906,24 @@
    ]
   },
   {
+   "name": "EverDo - To-Do List, Dailies, Weeklies, Alts & More!",
+   "summary": "A to-do list for every alt: daily and weekly tasks that reset on the game's own timers.",
+   "updated": "2026-10-16",
+   "category": "auras",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "everdo-to-do-list-dailies-weeklies-alts",
+     "id": 1718096,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-16",
+     "cf_downloads": 114
+    }
+   ]
+  },
+  {
    "name": "Asgard's Guild Tithe",
    "summary": "Support your guild by settinig aside a percentage of money earned and automatically depositing it into your Guild Bank!",
    "updated": "2026-10-22",
@@ -70919,6 +70937,24 @@
       "forever"
      ],
      "updated": "2026-10-22",
+     "cf_downloads": 114
+    }
+   ]
+  },
+  {
+   "name": "ilvl Forever",
+   "summary": "Shows item level on tooltips, in the game's item comparison and on the character frame, with your average item level.",
+   "updated": "2026-10-09",
+   "category": "bags",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "ilvl-forever",
+     "id": 1730861,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-09",
      "cf_downloads": 114
     }
    ]
@@ -71279,24 +71315,6 @@
       "forever"
      ],
      "updated": "2026-10-02",
-     "cf_downloads": 112
-    }
-   ]
-  },
-  {
-   "name": "EverDo - To-Do List, Dailies, Weeklies, Alts & More!",
-   "summary": "A to-do list for every alt: daily and weekly tasks that reset on the game's own timers.",
-   "updated": "2026-10-16",
-   "category": "auras",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "everdo-to-do-list-dailies-weeklies-alts",
-     "id": 1718096,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
      "cf_downloads": 112
     }
    ]
@@ -72598,6 +72616,24 @@
    ]
   },
   {
+   "name": "NicCopyTooltip",
+   "summary": "A World of Warcraft addon that captures a full item tooltip as plain text and presents it in a copyable popup, useful for sharing item details anywhere outside the game.",
+   "updated": "2026-10-06",
+   "category": "tooltips",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "niccopytooltip",
+     "id": 1499370,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-06",
+     "cf_downloads": 106
+    }
+   ]
+  },
+  {
    "name": "Forever Simple Bank",
    "summary": "Your bank in sections you make: each fills itself from what it catches, with Deposit and Take for a whole section and every character's bank anywhere.",
    "updated": "2026-11-01",
@@ -72953,6 +72989,24 @@
       "forever"
      ],
      "updated": "2026-10-23",
+     "cf_downloads": 105
+    }
+   ]
+  },
+  {
+   "name": "ForeverProfessions",
+   "summary": "Browse profession recipes, track learned recipes across characters, and plan materials for crafting on WoW Forever.",
+   "updated": "2026-10-17",
+   "category": "professions",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "foreverprofessions",
+     "id": 1749783,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-17",
      "cf_downloads": 105
     }
    ]
@@ -74200,24 +74254,6 @@
    ]
   },
   {
-   "name": "ilvl Forever",
-   "summary": "Shows item level on tooltips, in the game's item comparison and on the character frame, with your average item level.",
-   "updated": "2026-10-09",
-   "category": "bags",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "ilvl-forever",
-     "id": 1730861,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-09",
-     "cf_downloads": 99
-    }
-   ]
-  },
-  {
    "name": "Wayscribe - Adventure Journal, Diary & Map Trails",
    "summary": "Automatic journal and diary for WoW Forever: a day-by-day log of every level up, dungeon run, boss kill, quest chain, profession skill-up and death, with your routes on the world map and dungeon maps you uncover.",
    "updated": "2026-10-29",
@@ -74416,6 +74452,24 @@
    ]
   },
   {
+   "name": "Forever Simple Combat Timer",
+   "summary": "See whether you and your target are in combat, and how long until an enemy player drops out of it.",
+   "updated": "2026-10-03",
+   "category": "auras",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "forever-simple-combat",
+     "id": 1724676,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-03",
+     "cf_downloads": 98
+    }
+   ]
+  },
+  {
    "name": "CurtainCall",
    "summary": "Stage in-game theatre: write scripts, share them with your cast and speak your lines on cue with one button.",
    "updated": "2026-10-12",
@@ -74519,24 +74573,6 @@
       "forever"
      ],
      "updated": "2026-11-01",
-     "cf_downloads": 97
-    }
-   ]
-  },
-  {
-   "name": "NicCopyTooltip",
-   "summary": "A World of Warcraft addon that captures a full item tooltip as plain text and presents it in a copyable popup, useful for sharing item details anywhere outside the game.",
-   "updated": "2026-10-06",
-   "category": "tooltips",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "niccopytooltip",
-     "id": 1499370,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-06",
      "cf_downloads": 97
     }
    ]
@@ -75748,6 +75784,24 @@
    ]
   },
   {
+   "name": "Azeroth Signature",
+   "summary": "Your signature in Azeroth. Automatically add a custom prefix to your chat messages, choose which channels use it, exclude specific characters, and manage it all from a clean in-game options panel. Retail and WoW Forever.",
+   "updated": "2026-10-25",
+   "category": "chat",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "azeroth-signature",
+     "id": 1739084,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-25",
+     "cf_downloads": 92
+    }
+   ]
+  },
+  {
    "name": "SVCleaner",
    "summary": "A SavedVariables and temporary data manager for World of Warcraft. Find your addons' data, compare your characters, and prepare your cleanup. An in-game addon to explore. A local companion to back up and apply changes.",
    "updated": "2026-10-18",
@@ -76193,24 +76247,6 @@
       "forever"
      ],
      "updated": "2026-10-19",
-     "cf_downloads": 90
-    }
-   ]
-  },
-  {
-   "name": "ForeverProfessions",
-   "summary": "Browse profession recipes, track learned recipes across characters, and plan materials for crafting on WoW Forever.",
-   "updated": "2026-10-17",
-   "category": "professions",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "foreverprofessions",
-     "id": 1749783,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-17",
      "cf_downloads": 90
     }
    ]
@@ -77890,24 +77926,6 @@
    ]
   },
   {
-   "name": "Forever Simple Combat Timer",
-   "summary": "See whether you and your target are in combat, and how long until an enemy player drops out of it.",
-   "updated": "2026-10-03",
-   "category": "auras",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "forever-simple-combat",
-     "id": 1724676,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-03",
-     "cf_downloads": 82
-    }
-   ]
-  },
-  {
    "name": "GODMODE Immunity",
    "summary": "Instantly detects enemy immunities and restrictions, warning you when your abilities will not work.",
    "updated": "2026-10-21",
@@ -79055,24 +79073,6 @@
       "forever"
      ],
      "updated": "2026-10-18",
-     "cf_downloads": 78
-    }
-   ]
-  },
-  {
-   "name": "Azeroth Signature",
-   "summary": "Your signature in Azeroth. Automatically add a custom prefix to your chat messages, choose which channels use it, exclude specific characters, and manage it all from a clean in-game options panel. Retail and WoW Forever.",
-   "updated": "2026-10-25",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "azeroth-signature",
-     "id": 1739084,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-25",
      "cf_downloads": 78
     }
    ]
@@ -82030,6 +82030,24 @@
    ]
   },
   {
+   "name": "Forever Clean Buttons",
+   "summary": "Square, sharp action buttons with a thin border for Dominos or the default bars, plus buff timers on buttons.",
+   "updated": "2026-10-20",
+   "category": "auras",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "forever-clean-buttons",
+     "id": 1753015,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-20",
+     "cf_downloads": 69
+    }
+   ]
+  },
+  {
    "name": "Highground Nearby",
    "summary": "See who passed nearby. Five-row enemy list, quiet sighting alerts, notes and history with undo, plus optional bounties. Retail, Forever, Cata.",
    "updated": "2026-11-01",
@@ -82138,6 +82156,24 @@
    ]
   },
   {
+   "name": "ForeverChatCopy",
+   "summary": "Copy Discord links, website URLs and chat messages easily. Includes searchable chat history, whisper conversations and DE/EN localization.",
+   "updated": "2026-10-16",
+   "category": "chat",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "foreverchatcopy",
+     "id": 1734895,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-16",
+     "cf_downloads": 68
+    }
+   ]
+  },
+  {
    "name": "PetPulse Forever",
    "summary": "A compact Hunter pet status frame and detailed tooltip for WoW Forever\u2014because your loyal murder-buddy deserves a proper dashboard too.",
    "updated": "2026-10-21",
@@ -82187,24 +82223,6 @@
       "forever"
      ],
      "updated": "2026-10-25",
-     "cf_downloads": 68
-    }
-   ]
-  },
-  {
-   "name": "Forever Clean Buttons",
-   "summary": "Square, sharp action buttons with a thin border for Dominos or the default bars, plus buff timers on buttons.",
-   "updated": "2026-10-20",
-   "category": "auras",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "forever-clean-buttons",
-     "id": 1753015,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-20",
      "cf_downloads": 68
     }
    ]
@@ -82907,24 +82925,6 @@
       "forever"
      ],
      "updated": "2026-10-24",
-     "cf_downloads": 66
-    }
-   ]
-  },
-  {
-   "name": "ForeverChatCopy",
-   "summary": "Copy Discord links, website URLs and chat messages easily. Includes searchable chat history, whisper conversations and DE/EN localization.",
-   "updated": "2026-10-16",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "foreverchatcopy",
-     "id": 1734895,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-16",
      "cf_downloads": 66
     }
    ]
@@ -84730,6 +84730,24 @@
    ]
   },
   {
+   "name": "Hide Totem Bar Forever",
+   "summary": "A tiny addon for WoW Forever that hides Blizzard's default shaman totem bar ",
+   "updated": "2026-10-10",
+   "category": "actionbars",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "hide-totem-bar-forever",
+     "id": 1737176,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-10",
+     "cf_downloads": 61
+    }
+   ]
+  },
+  {
    "name": "Widsith - Character History, Leaderboards & Map Replays",
    "summary": "Records your WoW character's full history and replays your leveling path, quests, deaths, milestones, friends and and many more details on interactive map. Trends over time across your character's life can be viewed on t",
    "updated": "2026-11-01",
@@ -85157,24 +85175,6 @@
       "forever"
      ],
      "updated": "2026-10-22",
-     "cf_downloads": 60
-    }
-   ]
-  },
-  {
-   "name": "Hide Totem Bar Forever",
-   "summary": "A tiny addon for WoW Forever that hides Blizzard's default shaman totem bar ",
-   "updated": "2026-10-10",
-   "category": "actionbars",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "hide-totem-bar-forever",
-     "id": 1737176,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-10",
      "cf_downloads": 60
     }
    ]
@@ -85990,6 +85990,24 @@
    ]
   },
   {
+   "name": "MangUI",
+   "summary": "Customizable unit frames with animated visuals, combat tracking, cooldown alerts, and a visual layout editor.",
+   "updated": "2026-10-26",
+   "category": "ui",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "mangui",
+     "id": 1763584,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-26",
+     "cf_downloads": 58
+    }
+   ]
+  },
+  {
    "name": "AzerothGPS StreetView Kalimdor South",
    "summary": "Street view pictures for AzerothGPS StreetView: the south of Kalimdor, from the Barrens to Silithus, with Thunder Bluff and the continent's dungeon bosses. Installed with StreetView.",
    "updated": "2026-10-07",
@@ -86165,6 +86183,24 @@
       "forever"
      ],
      "updated": "2026-09-29",
+     "cf_downloads": 57
+    }
+   ]
+  },
+  {
+   "name": "RAM RANCH CRAZY GAMBAS",
+   "summary": "Ram-powered mini-games for your party. Bet gold, challenge your friends, blame your luck\u2014and let the addon keep the receipts.",
+   "updated": "2026-10-07",
+   "category": "economy",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "ram-ranch-crazy-gambas",
+     "id": 1723916,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-07",
      "cf_downloads": 57
     }
    ]
@@ -86399,24 +86435,6 @@
       "forever"
      ],
      "updated": "2026-10-20",
-     "cf_downloads": 57
-    }
-   ]
-  },
-  {
-   "name": "MangUI",
-   "summary": "Customizable unit frames with animated visuals, combat tracking, cooldown alerts, and a visual layout editor.",
-   "updated": "2026-10-25",
-   "category": "ui",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "mangui",
-     "id": 1763584,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-25",
      "cf_downloads": 57
     }
    ]
@@ -86782,6 +86800,24 @@
    ]
   },
   {
+   "name": "WoW forever - Expanded Ignore List",
+   "summary": "Expanded Ignore List enhances the default WoW ignore list with additional features like Player evaluation , notes  and warnings",
+   "updated": "2026-10-18",
+   "category": "qol",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "wow-forever-expanded-ignore-list",
+     "id": 1744576,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-18",
+     "cf_downloads": 56
+    }
+   ]
+  },
+  {
    "name": "VertiCrop",
    "summary": "See the 9:16 crop of your vertical video in game: frame, darkened sides and YouTube Shorts, TikTok and Instagram Reels safe zones. Place your UI, record in recording mode, get the crop values for OBS. Retail, Classic and",
    "updated": "2026-10-21",
@@ -86935,24 +86971,6 @@
      "type": "curseforge",
      "slug": "lorever-narration-portugues-do-brasil",
      "id": 1721370,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-07",
-     "cf_downloads": 55
-    }
-   ]
-  },
-  {
-   "name": "RAM RANCH CRAZY GAMBAS",
-   "summary": "Ram-powered mini-games for your party. Bet gold, challenge your friends, blame your luck\u2014and let the addon keep the receipts.",
-   "updated": "2026-10-07",
-   "category": "economy",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "ram-ranch-crazy-gambas",
-     "id": 1723916,
      "flavors": [
       "forever"
      ],
@@ -87808,24 +87826,6 @@
    ]
   },
   {
-   "name": "WoW forever - Expanded Ignore List",
-   "summary": "Expanded Ignore List enhances the default WoW ignore list with additional features like Player evaluation , notes  and warnings",
-   "updated": "2026-10-18",
-   "category": "qol",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "wow-forever-expanded-ignore-list",
-     "id": 1744576,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-18",
-     "cf_downloads": 54
-    }
-   ]
-  },
-  {
    "name": "AzNav",
    "summary": "Drop a pin anywhere on the world map to instantly calculate the fastest multimodal travel route across Azeroth using flight paths, boats, zeppelins",
    "updated": "2026-10-16",
@@ -88343,6 +88343,24 @@
       "forever"
      ],
      "updated": "2026-10-20",
+     "cf_downloads": 53
+    }
+   ]
+  },
+  {
+   "name": "Forever Notebook",
+   "summary": "Notes for your quests and the people you meet.",
+   "updated": "2026-10-17",
+   "category": "roleplay",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "forever-notebook",
+     "id": 1735084,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-17",
      "cf_downloads": 53
     }
    ]
@@ -88888,15 +88906,15 @@
    ]
   },
   {
-   "name": "Forever Notebook",
-   "summary": "Notes for your quests and the people you meet.",
+   "name": "Path To 60",
+   "summary": "Leveling companion for dungeon quests and weapons",
    "updated": "2026-10-17",
-   "category": "roleplay",
+   "category": "raids",
    "sources": [
     {
      "type": "curseforge",
-     "slug": "forever-notebook",
-     "id": 1735084,
+     "slug": "path-to-60",
+     "id": 1740183,
      "flavors": [
       "forever"
      ],
@@ -89819,24 +89837,6 @@
       "forever"
      ],
      "updated": "2026-10-18",
-     "cf_downloads": 50
-    }
-   ]
-  },
-  {
-   "name": "Path To 60",
-   "summary": "Leveling companion for dungeon quests and weapons",
-   "updated": "2026-10-17",
-   "category": "raids",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "path-to-60",
-     "id": 1740183,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-17",
      "cf_downloads": 50
     }
    ]
@@ -91606,6 +91606,24 @@
    ]
   },
   {
+   "name": "PurpleNote",
+   "summary": "Notes on players, notes list, players history. (Like \"Spy\" but for both sides)",
+   "updated": "2026-10-02",
+   "category": "unitframes",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "purplenote",
+     "id": 1717783,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-02",
+     "cf_downloads": 46
+    }
+   ]
+  },
+  {
    "name": "ManaMaster",
    "summary": "Track your mana and resource usage, regeneration and buff uptimes throughout encounters!",
    "updated": "2026-10-02",
@@ -93334,6 +93352,24 @@
    ]
   },
   {
+   "name": "ChatReply",
+   "summary": "Discord-style replies, right in your WoW chat.",
+   "updated": "2026-10-07",
+   "category": "chat",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "chatreply",
+     "id": 1456466,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-07",
+     "cf_downloads": 43
+    }
+   ]
+  },
+  {
    "name": "Forever Combat Tracker",
    "summary": "Forever Combat Tracker displays Damage, Healing, Actions, Fight Anaylsis with Threat Plates and Threat Overview",
    "updated": "2026-10-09",
@@ -93874,24 +93910,6 @@
    ]
   },
   {
-   "name": "ChatReply",
-   "summary": "Discord-style replies, right in your WoW chat.",
-   "updated": "2026-10-07",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "chatreply",
-     "id": 1456466,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-07",
-     "cf_downloads": 42
-    }
-   ]
-  },
-  {
    "name": "Hunter Dead Zone",
    "summary": "Simple hunter addon. Puts a red DEAD ZONE label on your target when you can't shoot or melee it.",
    "updated": "2026-10-07",
@@ -94103,6 +94121,24 @@
       "forever"
      ],
      "updated": "2026-10-20",
+     "cf_downloads": 42
+    }
+   ]
+  },
+  {
+   "name": "WoWForeverDuels",
+   "summary": "Forever Duels keeps track of each duel and presents it in a fun way",
+   "updated": "2026-10-17",
+   "category": "pvp",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "wowforeverduels",
+     "id": 1748846,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-17",
      "cf_downloads": 42
     }
    ]
@@ -95183,24 +95219,6 @@
       "forever"
      ],
      "updated": "2026-10-15",
-     "cf_downloads": 40
-    }
-   ]
-  },
-  {
-   "name": "WoWForeverDuels",
-   "summary": "Forever Duels keeps track of each duel and presents it in a fun way",
-   "updated": "2026-10-17",
-   "category": "pvp",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "wowforeverduels",
-     "id": 1748846,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-17",
      "cf_downloads": 40
     }
    ]
@@ -97343,24 +97361,6 @@
       "forever"
      ],
      "updated": "2026-09-28",
-     "cf_downloads": 36
-    }
-   ]
-  },
-  {
-   "name": "PurpleNote",
-   "summary": "Notes on players, notes list, players history. (Like \"Spy\" but for both sides)",
-   "updated": "2026-10-02",
-   "category": "unitframes",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "purplenote",
-     "id": 1717783,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-02",
      "cf_downloads": 36
     }
    ]
@@ -99616,6 +99616,24 @@
    ]
   },
   {
+   "name": "Gear Item Levels",
+   "summary": "Display the item level of all your gear on your character sheet, bags, inspect frame, vendor frame, and item tooltips.",
+   "updated": "2026-10-04",
+   "category": "bags",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "gear-item-levels",
+     "id": 1725676,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-04",
+     "cf_downloads": 33
+    }
+   ]
+  },
+  {
    "name": "Fireside Camp",
    "summary": "Your WoW: Forever camping objects at a glance: what you can craft, what you are missing, and a minimap alert when a campfire is near.",
    "updated": "2026-10-04",
@@ -100210,24 +100228,6 @@
    ]
   },
   {
-   "name": "Gear Item Levels",
-   "summary": "Display the item level of all your gear on your character sheet, bags, inspect frame, vendor frame, and item tooltips.",
-   "updated": "2026-10-04",
-   "category": "bags",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "gear-item-levels",
-     "id": 1725676,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-04",
-     "cf_downloads": 32
-    }
-   ]
-  },
-  {
    "name": "Lorever Narration (Portugu\u00eas do Brasil Female)",
    "summary": "A woman's storyteller voice for Lorever: every lore page, read aloud in natural Brazilian Portuguese. Optional add-on, needs Lorever.",
    "updated": "2026-10-07",
@@ -100421,6 +100421,24 @@
       "forever"
      ],
      "updated": "2026-10-19",
+     "cf_downloads": 32
+    }
+   ]
+  },
+  {
+   "name": "Vendetta PvP",
+   "summary": "Death Recap, 30-tier Halo killing blow announcer with bouncing combat text, and 3D Wild West Most Wanted boards.",
+   "updated": "2026-10-13",
+   "category": "pvp",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "vendetta-pvp",
+     "id": 1741211,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-13",
      "cf_downloads": 32
     }
    ]
@@ -101092,24 +101110,6 @@
    ]
   },
   {
-   "name": "Vendetta PvP",
-   "summary": "Death Recap, 30-tier Halo killing blow announcer with bouncing combat text, and 3D Wild West Most Wanted boards.",
-   "updated": "2026-10-13",
-   "category": "pvp",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "vendetta-pvp",
-     "id": 1741211,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-13",
-     "cf_downloads": 31
-    }
-   ]
-  },
-  {
    "name": "AggroGlow",
    "summary": "its an nameplate colour change to make it easier to spot what mob have aggro on",
    "updated": "2026-10-13",
@@ -101483,6 +101483,24 @@
       "forever"
      ],
      "updated": "2026-09-29",
+     "cf_downloads": 30
+    }
+   ]
+  },
+  {
+   "name": "Open All",
+   "summary": "A simple addon to open the configuration windows for all my \"enabled\" addons with /openall command.",
+   "updated": "2026-09-28",
+   "category": "qol",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "open-all-kodeman-addons",
+     "id": 1667846,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-09-28",
      "cf_downloads": 30
     }
    ]
@@ -102604,6 +102622,24 @@
    ]
   },
   {
+   "name": "WindFury",
+   "summary": "The fart machine. Does the /fart emote at random. You will forget it's installed. It will not forget about you.",
+   "updated": "2026-10-08",
+   "category": "chat",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "windfury",
+     "id": 1730711,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-08",
+     "cf_downloads": 29
+    }
+   ]
+  },
+  {
    "name": "Aurum Forever",
    "summary": "Compact income, expense and gold tracking for WoW: Forever, with session rates and character history charts.",
    "updated": "2026-10-15",
@@ -103720,24 +103756,6 @@
    ]
   },
   {
-   "name": "Open All",
-   "summary": "A simple addon to open the configuration windows for all my \"enabled\" addons with /openall command.",
-   "updated": "2026-09-28",
-   "category": "qol",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "open-all-kodeman-addons",
-     "id": 1667846,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-28",
-     "cf_downloads": 27
-    }
-   ]
-  },
-  {
    "name": "LogWarden",
    "summary": "Automatically turns on combat logging in dungeons, raids and PvP, asks before stopping it when you leave, and shows whether it's on.",
    "updated": "2026-09-30",
@@ -103859,24 +103877,6 @@
       "forever"
      ],
      "updated": "2026-10-13",
-     "cf_downloads": 27
-    }
-   ]
-  },
-  {
-   "name": "WindFury",
-   "summary": "The fart machine. Does the /fart emote at random. You will forget it's installed. It will not forget about you.",
-   "updated": "2026-10-08",
-   "category": "chat",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "windfury",
-     "id": 1730711,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-08",
      "cf_downloads": 27
     }
    ]
@@ -107860,6 +107860,24 @@
    ]
   },
   {
+   "name": "WoW Radio",
+   "summary": "Play any zone's music anywhere: a car-stereo radio with 14 funny stations, presets, seek and volume",
+   "updated": "2026-10-05",
+   "category": "qol",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "wow-radio",
+     "id": 1729220,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-05",
+     "cf_downloads": 23
+    }
+   ]
+  },
+  {
    "name": "project-1730180",
    "summary": "Shows the keyboard, mouse and click-cast bindings of spells, items and macros directly in their tooltips. An extension for Glimpse.",
    "updated": "2026-10-10",
@@ -108989,24 +109007,6 @@
       "forever"
      ],
      "updated": "2026-10-06",
-     "cf_downloads": 22
-    }
-   ]
-  },
-  {
-   "name": "WoW Radio",
-   "summary": "Play any zone's music anywhere: a car-stereo radio with 14 funny stations, presets, seek and volume",
-   "updated": "2026-10-05",
-   "category": "qol",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "wow-radio",
-     "id": 1729220,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-05",
      "cf_downloads": 22
     }
    ]
@@ -122134,6 +122134,24 @@
    ]
   },
   {
+   "name": "Forever Grind Stats",
+   "summary": "This add on displays a window that organizes your grind. After a scan of the current Auction House it will give you the value of the loot you collected based on current AH market vs Vendor price. It also lists for you al",
+   "updated": "2026-10-03",
+   "category": "economy",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "forever-grind-stats",
+     "id": 1724576,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-03",
+     "cf_downloads": 10
+    }
+   ]
+  },
+  {
    "name": "Spacebound",
    "summary": "This addon allows you to bind and ability or macro to spacebar when falling and out of combat. While in combat it provides a convenient button to click..",
    "updated": "2026-10-03",
@@ -123443,24 +123461,6 @@
       "forever"
      ],
      "updated": "2026-09-30",
-     "cf_downloads": 9
-    }
-   ]
-  },
-  {
-   "name": "Forever Grind Stats",
-   "summary": "This add on displays a window that organizes your grind. After a scan of the current Auction House it will give you the value of the loot you collected based on current AH market vs Vendor price. It also lists for you al",
-   "updated": "2026-10-03",
-   "category": "economy",
-   "sources": [
-    {
-     "type": "curseforge",
-     "slug": "forever-grind-stats",
-     "id": 1724576,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-03",
      "cf_downloads": 9
     }
    ]
