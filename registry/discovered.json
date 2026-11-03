@@ -120,7 +120,7 @@
    ],
    "stars": 239,
    "summary": "WoW AddOn - Unit frame framework.",
-   "updated": "2026-10-05",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -191,7 +191,7 @@
     "Polestar_zhCN",
     "Polestar_zhTW"
    ],
-   "stars": 185,
+   "stars": 186,
    "summary": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
    "updated": "2026-11-03",
    "sources": [
@@ -943,6 +943,24 @@
       "titan",
       "wrath"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ForeverBots",
+   "category": "qol",
+   "folders": [
+    "ForeverBots",
+    "ForeverDots"
+   ],
+   "stars": 34,
+   "summary": "",
+   "updated": "2026-11-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Karrz1/Karrz-playerbots-wow-forever",
+     "flavors": []
     }
    ]
   },
@@ -1732,7 +1750,7 @@
    ],
    "stars": 22,
    "summary": "Library that allows integration with the Edit Mode",
-   "updated": "2026-09-28",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -2408,6 +2426,23 @@
    ]
   },
   {
+   "name": "Witchcraft",
+   "category": "quests",
+   "folders": [
+    "Witchcraft"
+   ],
+   "stars": 16,
+   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
+   "updated": "2026-10-04",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Geraldlol/witchcraft",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "nPlates",
    "category": "unitframes",
    "folders": [
@@ -2562,6 +2597,27 @@
       "mainline",
       "mists"
      ]
+    }
+   ]
+  },
+  {
+   "name": "ForeverAuras",
+   "category": "auras",
+   "folders": [
+    "ForeverAuras",
+    "ForeverAurasArchive",
+    "ForeverAurasModelPaths",
+    "ForeverAurasOptions",
+    "ForeverAurasTemplates"
+   ],
+   "stars": 16,
+   "summary": "WoW Forever Addon",
+   "updated": "2026-10-28",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "neroxrw/foreverauras",
+     "flavors": []
     }
    ]
   },
@@ -2745,27 +2801,6 @@
       "mists",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForeverAuras",
-   "category": "auras",
-   "folders": [
-    "ForeverAuras",
-    "ForeverAurasArchive",
-    "ForeverAurasModelPaths",
-    "ForeverAurasOptions",
-    "ForeverAurasTemplates"
-   ],
-   "stars": 15,
-   "summary": "WoW Forever Addon",
-   "updated": "2026-10-28",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "neroxrw/foreverauras",
-     "flavors": []
     }
    ]
   },
@@ -3040,23 +3075,6 @@
       "titan",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "Witchcraft",
-   "category": "quests",
-   "folders": [
-    "Witchcraft"
-   ],
-   "stars": 13,
-   "summary": "Claude Code and Codex inside WoW Forever, with terminal tabs and a WoW MCP server for character context, quests and Lua errors. Free, open source, Windows.",
-   "updated": "2026-10-04",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Geraldlol/witchcraft",
-     "flavors": []
     }
    ]
   },
@@ -7188,7 +7206,7 @@
    ],
    "stars": 5,
    "summary": "Opinionated and highly optimized quality-of-life tweaks for WoW Forever in one neat package.",
-   "updated": "2026-10-20",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -7574,6 +7592,25 @@
      "repo": "zerbiniandrea/BuffReminders",
      "flavors": [
       "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "WoW Forever Japanese (\u65e5\u672c\u8a9e\u5316)",
+   "category": "quests",
+   "folders": [
+    "WoWForeverJapanese"
+   ],
+   "stars": 5,
+   "summary": "Play World of Warcraft: Forever in Japanese: quests, NPC dialogue, books, tooltips and the game's windows. Hold Alt for the game's own English. / World of Warcraft: Forever \u3092\u65e5\u672c\u8a9e\u3067",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "zyaga/wow-forever-japanese",
+     "flavors": [
+      "forever"
      ]
     }
    ]
@@ -8699,7 +8736,7 @@
    ],
    "stars": 4,
    "summary": "WoW addon for keeping track of the weekly rewards progress accross all your characters.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -8965,7 +9002,7 @@
    ],
    "stars": 4,
    "summary": "Your friendly UI overhowl for World of Warcraft: Forever",
-   "updated": "2026-10-23",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -9052,6 +9089,26 @@
       "bcc",
       "classic",
       "wrath"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "NugKeyFeedback",
+   "category": "actionbars",
+   "folders": [
+    "NugKeyFeedback"
+   ],
+   "stars": 4,
+   "summary": "Successful cast display line",
+   "updated": "2026-11-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "rgd87/NugKeyFeedback",
+     "flavors": [
+      "forever",
+      "mainline"
      ]
     }
    ]
@@ -9212,25 +9269,6 @@
      "type": "github",
      "repo": "xiaoyu20062032-ai/forleijun",
      "flavors": []
-    }
-   ]
-  },
-  {
-   "name": "WoW Forever Japanese (\u65e5\u672c\u8a9e\u5316)",
-   "category": "quests",
-   "folders": [
-    "WoWForeverJapanese"
-   ],
-   "stars": 4,
-   "summary": "Play World of Warcraft: Forever in Japanese: quests, NPC dialogue, books, tooltips and the game's windows. Hold Alt for the game's own English. / World of Warcraft: Forever \u3092\u65e5\u672c\u8a9e\u3067",
-   "updated": "2026-11-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "zyaga/wow-forever-japanese",
-     "flavors": [
-      "forever"
-     ]
     }
    ]
   },
@@ -10242,7 +10280,7 @@
    ],
    "stars": 3,
    "summary": "Lightweight WoW Forever addon that adds available quest markers to Blizzard\u2019s native world map using automatically generated ATT quest data.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -10431,7 +10469,7 @@
    ],
    "stars": 3,
    "summary": "This is a World of Warcraft addon that automatically takes screenshots of selected gameplay moments.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -11252,14 +11290,16 @@
    ]
   },
   {
-   "name": "LoreForever_Voice_Female_MoreQuests2",
-   "category": "quests",
+   "name": "LoreForever_Voice_Female",
+   "category": "raids",
    "folders": [
-    "LoreForever_Voice_Female_MoreQuests2"
+    "LoreForever_Voice_Female",
+    "LoreForever_Voice_Female_Alliance",
+    "LoreForever_Voice_Female_Horde"
    ],
    "stars": 3,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -12057,7 +12097,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-31",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -13701,7 +13741,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that tracks gold and currencies across characters.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -13724,7 +13764,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that makes item tooltips more informative.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -13747,7 +13787,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that records the duration and results of supported boss encounters.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -13767,7 +13807,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that provides the shared foundation for all Arcane Wizard addons.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -13790,7 +13830,7 @@
    ],
    "stars": 2,
    "summary": "This is a World of Warcraft addon that tracks times in supported races, including Skyriding, Skyrocketing, and Breakneck (D.R.I.V.E.).",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -14331,7 +14371,7 @@
    ],
    "stars": 2,
    "summary": "Bored? Bory's got a plan. WoW Retail addon + Windows Companion: Bory the cat picks what to do now from your own game data, one step at a time with map pins \ud83e\udd29\ud83e\udded",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -14427,7 +14467,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-10-25",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -14446,7 +14486,7 @@
    ],
    "stars": 2,
    "summary": "\u9b54\u517d\u4e16\u754c\u59d3\u540d\u677f\u63d2\u4ef6",
-   "updated": "2026-10-27",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -15441,7 +15481,7 @@
    ],
    "stars": 2,
    "summary": "Shaman totem coordination addon for WoW TBC Anniversary (like PallyPower for Paladins)",
-   "updated": "2026-10-21",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -15511,7 +15551,7 @@
    ],
    "stars": 2,
    "summary": "Class-aware WoW Forever companions for all nine classes: live resources, upkeep, target cues, learned abilities, and racials.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -15908,7 +15948,7 @@
    ],
    "stars": 1,
    "summary": "Cast Ahead - predicts trash casts in Mythic+ and tells you what to do about them",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -17406,7 +17446,7 @@
    ],
    "stars": 1,
    "summary": "A free World of Warcraft addon that explains why, not just what: weekly planning, Great Vault advice, Delves coaching, a beginner professions course and a class keybind coach. Seven languages built in, no dependencies.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -17767,7 +17807,7 @@
    ],
    "stars": 1,
    "summary": "World of Warcraft addon for content creators: an in-game 9:16 crop frame with YouTube Shorts, TikTok and Instagram Reels safe zones. Lay out your UI for vertical video before you hit record. Retail, Classic and WoW Forev",
-   "updated": "2026-10-15",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -20830,7 +20870,7 @@
    ],
    "stars": 1,
    "summary": "Know exactly how far you are from the title. A World of Warcraft addon with live Mythic+ rating cutoffs for the top 0.1% title and every percentile bracket, updated daily.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -21017,7 +21057,7 @@
    ],
    "stars": 1,
    "summary": "This is a World of Warcraft addon that makes everyday gameplay more convenient.",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -24116,7 +24156,7 @@
    ],
    "stars": 1,
    "summary": "BGNext\uff1a\u57fa\u4e8e BGLite 2.4.0 \u7684\u975e\u5b98\u65b9\u793e\u533a\u7ef4\u62a4\u4e0e\u539f\u521b\u589e\u5f3a\u9879\u76ee",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -25451,7 +25491,7 @@
    "sources": [
     {
      "type": "github",
-     "repo": "Adam5288/StatCoach",
+     "repo": "Adam5288/StatCap",
      "flavors": [
       "mainline"
      ]
@@ -28519,7 +28559,7 @@
    ],
    "stars": 0,
    "summary": "A World of Warcraft addon that extends the default chat.",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -28542,7 +28582,7 @@
    ],
    "stars": 0,
    "summary": "A World of Warcraft addon that extends the default mailbox.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -30098,10 +30138,10 @@
    ]
   },
   {
-   "name": "ElansHub",
-   "category": "maps",
+   "name": "ElansHunterHelper",
+   "category": "class",
    "folders": [
-    "ElansHub"
+    "ElansHunterHelper"
    ],
    "stars": 0,
    "summary": "Elan's Outpost: a Windows companion app for WoW Forever. Installs and updates Elan's addons, Atlas game reference, talent calculator, 3D world map, and the Lodge guild server.",
@@ -30731,7 +30771,7 @@
    ],
    "stars": 0,
    "summary": "Prominent on screen experience bar which includes tracking for rested XP and basic levelling stats",
-   "updated": "2026-10-13",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -30748,7 +30788,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft addon to remind you to apply buffs and more",
-   "updated": "2026-10-16",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -34814,7 +34854,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft addon for improving data and analytics around all things crafting.",
-   "updated": "2026-10-24",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -35987,7 +36027,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -36852,7 +36892,7 @@
    ],
    "stars": 0,
    "summary": "Addon for the Spectrum Federation - Garona Guild",
-   "updated": "2026-10-29",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -37075,7 +37115,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft addon for WoW: Forever: in-game guild finder where players and guilds post ads and search each other with filters, shared player to player.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -37095,7 +37135,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft addon for WoW: Forever: many small quality-of-life improvements (bags, chat, quests, tooltips, widgets and more), each switchable on its own.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -39072,7 +39112,7 @@
    ],
    "stars": 0,
    "summary": "Own guild window with milestones, events, rules, group search and guild chat for WoW Retail and Forever (English/German) \u00b7 Eigenes Gildenfenster mit Meilensteinen, Events, Regeln, Gruppensuche und Gildenchat f\u00fcr WoW Reta",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -41385,6 +41425,25 @@
      "type": "github",
      "repo": "Swochz/GuildSheet",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "Whisper Manager",
+   "category": "chat",
+   "folders": [
+    "Whisper-Manager"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-11-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Synarious/Whisper-Manager",
+     "flavors": [
+      "mainline"
+     ]
     }
    ]
   },
@@ -43793,7 +43852,7 @@
    ],
    "stars": 0,
    "summary": "Addon World of Warcraft Forever pour la gestion de raid : presets de groupes pr\u00e9-plac\u00e9s pour les membres de la guilde, ready check (/rc), compatible FR/EN et EllesmereUI.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -46329,7 +46388,7 @@
    ],
    "stars": 0,
    "summary": "Shadowlands instance map module for the World of Warcraft Atlas addon. Requires the Atlas core addon.",
-   "updated": "2026-10-21",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -48243,7 +48302,7 @@
    ],
    "stars": 0,
    "summary": "set addonu pro WoW Forever lanku",
-   "updated": "2026-10-31",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -54194,7 +54253,7 @@
    ],
    "stars": 0,
    "summary": "A desktop companion for World of Warcraft: Forever",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -54621,7 +54680,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -58412,6 +58471,23 @@
    ]
   },
   {
+   "name": "NickHubTracker",
+   "category": "qol",
+   "folders": [
+    "NickHubTracker"
+   ],
+   "stars": 0,
+   "summary": "Custom WoW addon that logs a WoW Forever 1-60 run and publishes it to a live site through a Cloudflare Worker",
+   "updated": "2026-11-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "nick-noob/nickhub-addon",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "Tevoll Tweaks",
    "category": "qol",
    "folders": [
@@ -59566,7 +59642,7 @@
    ],
    "stars": 0,
    "summary": "League-style PvP rank bars with per-spec percentiles for WoW (Midnight)",
-   "updated": "2026-10-27",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -60930,7 +61006,7 @@
    ],
    "stars": 0,
    "summary": "Downloads for Saga and Saga Companion, WoW addons for Forever and Retail that record your character's story, and the optional SagaUploader",
-   "updated": "2026-10-23",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
@@ -65139,7 +65215,7 @@
    ],
    "stars": 0,
    "summary": "World of Warcraft Retail equipment inspection and recommendations with optional EllesmereUI styling",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "sources": [
     {
      "type": "github",
