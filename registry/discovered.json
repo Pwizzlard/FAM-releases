@@ -98,7 +98,7 @@
    ],
    "stars": 267,
    "summary": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -274,7 +274,7 @@
    ],
    "stars": 101,
    "summary": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -614,24 +614,6 @@
       "forever",
       "mainline"
      ]
-    }
-   ]
-  },
-  {
-   "name": "ForeverBots",
-   "category": "qol",
-   "folders": [
-    "ForeverBots",
-    "ForeverDots"
-   ],
-   "stars": 49,
-   "summary": "",
-   "updated": "2026-11-05",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Karrz1/Karrz-playerbots-wow-forever",
-     "flavors": []
     }
    ]
   },
@@ -1219,7 +1201,7 @@
    "folders": [
     "MaxDps"
    ],
-   "stars": 28,
+   "stars": 29,
    "summary": "",
    "updated": "2026-11-05",
    "sources": [
@@ -1465,7 +1447,7 @@
    ],
    "stars": 24,
    "summary": "An ElvUI Plugin containing many features not available in ElvUI alongside DPS/Tank/Healer profiles and settings for other addons",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -2983,6 +2965,25 @@
    ]
   },
   {
+   "name": "Forever Voiceover",
+   "category": "qol",
+   "folders": [
+    "ForeverVO"
+   ],
+   "stars": 14,
+   "summary": "Voiceovers for WoW forever with chatterbox",
+   "updated": "2026-11-05",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "quinn-dougherty/forever-vo",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "KeyUI",
    "category": "actionbars",
    "folders": [
@@ -3237,7 +3238,7 @@
    ],
    "stars": 13,
    "summary": "Naowh's all-in-one companion addon for World of Warcraft Forever. Discord: https://discord.gg/V2eSJMBynn",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -3268,25 +3269,6 @@
    ]
   },
   {
-   "name": "Forever Voiceover",
-   "category": "qol",
-   "folders": [
-    "ForeverVO"
-   ],
-   "stars": 13,
-   "summary": "Voiceovers for WoW forever with chatterbox",
-   "updated": "2026-10-12",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "quinn-dougherty/forever-vo",
-     "flavors": [
-      "forever"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Horizon Suite",
    "category": "ui",
    "folders": [
@@ -3301,6 +3283,31 @@
      "repo": "Crystilac93/Horizon-Suite",
      "flavors": [
       "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Whisper Messenger",
+   "category": "chat",
+   "folders": [
+    "WhisperMessenger"
+   ],
+   "stars": 12,
+   "summary": "",
+   "updated": "2026-11-05",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "F0rty-Tw0/WhisperMessenger",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "forever",
+      "mainline",
+      "mists",
+      "wrath"
      ]
     }
    ]
@@ -3535,31 +3542,6 @@
    ]
   },
   {
-   "name": "Whisper Messenger",
-   "category": "chat",
-   "folders": [
-    "WhisperMessenger"
-   ],
-   "stars": 11,
-   "summary": "",
-   "updated": "2026-11-04",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "F0rty-Tw0/WhisperMessenger",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "wrath"
-     ]
-    }
-   ]
-  },
-  {
    "name": "NoobTacoUI - ElvUI",
    "category": "ui",
    "folders": [
@@ -3693,7 +3675,7 @@
    ],
    "stars": 11,
    "summary": "Lua addon for playing quest sounds in natural AI voice.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -3986,7 +3968,7 @@
    ],
    "stars": 10,
    "summary": "Track recipes, reagents, cooldowns, patron orders, and more",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -4427,6 +4409,23 @@
      "flavors": [
       "mainline"
      ]
+    }
+   ]
+  },
+  {
+   "name": "OpenMap",
+   "category": "maps",
+   "folders": [
+    "OpenMap"
+   ],
+   "stars": 9,
+   "summary": "An open source, seamless world map addon for WoW Forever that prioritizes the original Vanilla art style. Finally zoom and pan in the world map with a truly open source community built map addon. ",
+   "updated": "2026-11-01",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "openmap-world/openmap",
+     "flavors": []
     }
    ]
   },
@@ -4949,23 +4948,6 @@
       "classic",
       "wrath"
      ]
-    }
-   ]
-  },
-  {
-   "name": "OpenMap",
-   "category": "maps",
-   "folders": [
-    "OpenMap"
-   ],
-   "stars": 8,
-   "summary": "An open source, seamless world map addon for WoW Forever that prioritizes the original Vanilla art style. Finally zoom and pan in the world map with a truly open source community built map addon. ",
-   "updated": "2026-11-01",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "openmap-world/openmap",
-     "flavors": []
     }
    ]
   },
@@ -7425,7 +7407,7 @@
    ],
    "stars": 5,
    "summary": "Developer Tools Addon for World of Warcraft",
-   "updated": "2026-11-04",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -7508,7 +7490,7 @@
    ],
    "stars": 5,
    "summary": "Your friendly UI overhowl for World of Warcraft: Forever",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -7527,7 +7509,7 @@
    ],
    "stars": 5,
    "summary": "",
-   "updated": "2026-10-14",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -7535,6 +7517,7 @@
      "flavors": [
       "bcc",
       "classic",
+      "forever",
       "mainline",
       "mists"
      ]
@@ -7956,7 +7939,7 @@
     "GuildRosterExport"
    ],
    "stars": 4,
-   "summary": "World of Warcraft addon for exporting the guild roster to CSV, HTML, JSON, XML or YAML.",
+   "summary": "World of Warcraft addon for exporting the guild roster to CSV, HTML, JSON, MD, XML or YAML.",
    "updated": "2026-11-05",
    "sources": [
     {
@@ -9182,16 +9165,14 @@
    ]
   },
   {
-   "name": "LoreForever_Voice_Female",
-   "category": "raids",
+   "name": "LoreForever_Voice_Default_MoreQuests2",
+   "category": "quests",
    "folders": [
-    "LoreForever_Voice_Female",
-    "LoreForever_Voice_Female_Alliance",
-    "LoreForever_Voice_Female_Horde"
+    "LoreForever_Voice_Default_MoreQuests2"
    ],
    "stars": 4,
    "summary": "Zone, quest and dungeon lore for WoW Forever, with narrated stories for every starting zone.",
-   "updated": "2026-11-04",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -9267,7 +9248,7 @@
    ],
    "stars": 4,
    "summary": "Fires up spell activation overlay for some reactive classic abilities",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -10433,7 +10414,7 @@
    ],
    "stars": 3,
    "summary": "Adds icons to your items to show their collection status",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -11059,6 +11040,30 @@
    ]
   },
   {
+   "name": "MaxDps_Shaman",
+   "category": "combat",
+   "folders": [
+    "MaxDps_Shaman"
+   ],
+   "stars": 3,
+   "summary": "",
+   "updated": "2026-11-05",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "kaminaris/MaxDps-Shaman",
+     "flavors": [
+      "bcc",
+      "cata",
+      "classic",
+      "forever",
+      "mainline",
+      "mists"
+     ]
+    }
+   ]
+  },
+  {
    "name": "MaxDps_Warrior",
    "category": "combat",
    "folders": [
@@ -11677,7 +11682,7 @@
    ],
    "stars": 3,
    "summary": "Class-aware WoW Forever companions for all nine classes: live resources, upkeep, target cues, learned abilities, and racials.",
-   "updated": "2026-11-03",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -11736,7 +11741,7 @@
    ],
    "stars": 3,
    "summary": "A World of Warcraft addon for WoW: Forever that adds to and changes the default UI in small, separate modules. It doesn't replace the UI: every change is meant to look like Blizzard shipped it, needs no setup, and can be",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -14236,7 +14241,7 @@
    ],
    "stars": 2,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -14599,7 +14604,7 @@
    ],
    "stars": 2,
    "summary": "A World of Warcraft addon to add the click to cast bindings you can currently cast to the tooltip.",
-   "updated": "2026-10-13",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -14731,30 +14736,6 @@
      "flavors": [
       "bcc",
       "classic"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "MaxDps_Shaman",
-   "category": "combat",
-   "folders": [
-    "MaxDps_Shaman"
-   ],
-   "stars": 2,
-   "summary": "",
-   "updated": "2026-11-05",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "kaminaris/MaxDps-Shaman",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
      ]
     }
    ]
@@ -15406,7 +15387,7 @@
    ],
    "stars": 2,
    "summary": "A World of Warcraft addon providing real-time currency exchange rates and WoW token prices across all regions.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -15875,7 +15856,7 @@
    ],
    "stars": 1,
    "summary": "Official WoW AddOn of the <Worgen Cub Clubbing Club>-Defias Brotherhood/Doomhammer EU",
-   "updated": "2026-07-01",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -16272,7 +16253,7 @@
    ],
    "stars": 1,
    "summary": "ZugZug \u2014 ZUGZUG.io talent builds in your WoW talent frame. Raid & M+ builds with boss/dungeon context, updated daily.",
-   "updated": "2026-11-04",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -16511,7 +16492,7 @@
    ],
    "stars": 1,
    "summary": "Tradeskill Addon for WoW Forever",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -17732,12 +17713,11 @@
    "name": "Glyphic: Immersive RP Languages",
    "category": "roleplay",
    "folders": [
-    "Glyphic",
-    "TonguesOfAzeroth"
+    "Glyphic"
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-04",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -17850,7 +17830,7 @@
    ],
    "stars": 1,
    "summary": "WoW Forever addon that records each character's road from level 1 to 60 and replays it on the world map, with an app that keeps it backed up on every PC.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -18137,6 +18117,27 @@
      "repo": "Larsj02/LinkTranslate",
      "flavors": [
       "mainline"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Completao!!",
+   "category": "raids",
+   "folders": [
+    "Completao"
+   ],
+   "stars": 1,
+   "summary": "WoW Forever addon: quest chain trees for every dungeon and raid, with requirements, map locations and TomTom waypoints",
+   "updated": "2026-11-06",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "LechuckThePirate/Completao",
+     "flavors": [
+      "bcc",
+      "classic",
+      "forever"
      ]
     }
    ]
@@ -18546,7 +18547,7 @@
    ],
    "stars": 1,
    "summary": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -19448,7 +19449,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-10-13",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -19988,7 +19989,7 @@
    ],
    "stars": 1,
    "summary": "High Fidelity World Map for World of Warcraft (currently only supported on WoW Forever) Replaces the default paper-style world map art with a satellite-style view stitched from the game's minimap terrain tiles.",
-   "updated": "2026-11-02",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -20673,7 +20674,7 @@
    ],
    "stars": 1,
    "summary": "Browse, track, craft, and place every World of Warcraft housing decoration -- full catalog with 3D previews, sources, account-wide collection tracking, and one-click in-editor placement.",
-   "updated": "2026-10-31",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -21433,14 +21434,14 @@
    ]
   },
   {
-   "name": "Adventure Guide Forever",
+   "name": "Adventure Guide Forever - story levelling and quest routes",
    "category": "quests",
    "folders": [
     "AdventureGuideForever"
    ],
    "stars": 1,
    "summary": "WoW: Forever addon: where to go next, for your level, on the world map.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -21578,7 +21579,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -21644,6 +21645,25 @@
       "mists",
       "titan",
       "wrath"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lodestar",
+   "category": "qol",
+   "folders": [
+    "Lodestar"
+   ],
+   "stars": 1,
+   "summary": "",
+   "updated": "2026-11-03",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "danielcosta42/lodestar",
+     "flavors": [
+      "forever"
      ]
     }
    ]
@@ -22009,7 +22029,7 @@
    ],
    "stars": 1,
    "summary": "One click to buff back whoever just buffed you, and nearby players missing yours. For WoW Forever.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -22373,7 +22393,7 @@
    ],
    "stars": 1,
    "summary": "A World of Warcraft addon that adds a convenient button to the spellbook window for quick access to click-to-cast bindings.",
-   "updated": "2026-10-13",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -23729,7 +23749,7 @@
    ],
    "stars": 1,
    "summary": "WoW addon to show FPS and latency information in real time.",
-   "updated": "2026-10-14",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -24682,7 +24702,7 @@
    ],
    "stars": 1,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -26136,6 +26156,23 @@
     {
      "type": "github",
      "repo": "Akito0723/MiniAbsorbOverlay",
+     "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "WallOfShameForever",
+   "category": "qol",
+   "folders": [
+    "WallOfShameForever"
+   ],
+   "stars": 0,
+   "summary": "",
+   "updated": "2026-11-05",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Alencruser/wall-of-shame-forever",
      "flavors": []
     }
    ]
@@ -30547,10 +30584,10 @@
    ]
   },
   {
-   "name": "ElansHub",
-   "category": "maps",
+   "name": "ElansHunterHelper",
+   "category": "class",
    "folders": [
-    "ElansHub"
+    "ElansHunterHelper"
    ],
    "stars": 0,
    "summary": "Elan's Outpost: a Windows companion app for WoW Forever. Installs and updates Elan's addons, Atlas game reference, talent calculator, 3D world map, and the Lodge guild server.",
@@ -31032,6 +31069,23 @@
    ]
   },
   {
+   "name": "ForeverWowCraftScanner",
+   "category": "professions",
+   "folders": [
+    "ForeverWowCraftScanner"
+   ],
+   "stars": 0,
+   "summary": "The scanner addon for World of Warcraft: Forever, and the helper that runs beside the game",
+   "updated": "2026-11-06",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "ForeverWowCraft/ForeverWowCraft-Helper",
+     "flavors": []
+    }
+   ]
+  },
+  {
    "name": "ForeverBiS",
    "category": "class",
    "folders": [
@@ -31090,7 +31144,7 @@
    ],
    "stars": 0,
    "summary": "Addon Player Reviews for World of Warcraft",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -34005,7 +34059,7 @@
    ],
    "stars": 0,
    "summary": "Krool World Forever: quality-of-life feature bundle addon for World of Warcraft: Forever (Quest Trash, Kill Value). Each feature toggleable.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -34082,7 +34136,7 @@
    ],
    "stars": 0,
    "summary": "KullThranUI is an addon consisting of multiple fully customizable modules, with the option to disable them if you prefer not to use them.",
-   "updated": "2026-11-04",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -34342,7 +34396,7 @@
    ],
    "stars": 0,
    "summary": "WoW Retail addon: bolsa unica con filtros y pestanas personalizadas",
-   "updated": "2026-11-03",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -34364,7 +34418,7 @@
    ],
    "stars": 0,
    "summary": "WoW professions addon: browse recipes, plan what to craft, and find where to get every recipe and ingredient. Retail, TBC, Classic Era and Forever",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -35205,7 +35259,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-03",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -35565,7 +35619,7 @@
    ],
    "stars": 0,
    "summary": "Wow addon",
-   "updated": "2026-10-27",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -35585,7 +35639,7 @@
    ],
    "stars": 0,
    "summary": "A package of custom glows that are consumed by LibOrbitGlow.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -35605,7 +35659,7 @@
    ],
    "stars": 0,
    "summary": "Orbit: Portal gives quick access to your character's portals, favorites and travel items.",
-   "updated": "2026-10-25",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -37575,7 +37629,7 @@
    ],
    "stars": 0,
    "summary": "Addon for the Spectrum Federation - Garona Guild",
-   "updated": "2026-11-03",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -38255,7 +38309,7 @@
     "QuestPump_Lines"
    ],
    "stars": 0,
-   "summary": "Every quest you turn in asks for a few moves at your desk. Beat your own records. A free World of Warcraft add-on, with QuestPump for Mac and Windows.",
+   "summary": "Every quest you turn in asks for a few push-ups, squats or stretches at your desk. Beat your own records. A free add-on for World of Warcraft, with QuestPump for Mac and Windows.",
    "updated": "2026-11-05",
    "sources": [
     {
@@ -38536,7 +38590,7 @@
    ],
    "stars": 0,
    "summary": "Hotswap is a keybind management tool for wow: forever",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -42517,7 +42571,7 @@
    ],
    "stars": 0,
    "summary": "A ledger of your characters' progress, shared with friends who run it. An addon for World of Warcraft (WoW Forever and retail).",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -42721,7 +42775,7 @@
    ],
    "stars": 0,
    "summary": "Profession Tracker for guilds",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -47847,7 +47901,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -49282,7 +49336,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -50658,25 +50712,6 @@
      "repo": "danielcosta42/PartyLens",
      "flavors": [
       "bcc"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Lodestar",
-   "category": "qol",
-   "folders": [
-    "Lodestar"
-   ],
-   "stars": 0,
-   "summary": "",
-   "updated": "2026-11-03",
-   "sources": [
-    {
-     "type": "github",
-     "repo": "danielcosta42/lodestar",
-     "flavors": [
-      "forever"
      ]
     }
    ]
@@ -52769,6 +52804,25 @@
     {
      "type": "github",
      "repo": "fl0renzi/BeastXP",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fletcher",
+   "category": "economy",
+   "folders": [
+    "Fletcher"
+   ],
+   "stars": 0,
+   "summary": "World of Warcraft: Forever hunter addon. Refills your quiver or ammo pouch with the best ammo the vendor sells, and marks it in the vendor window.",
+   "updated": "2026-11-06",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "fl0renzi/Fletcher",
      "flavors": [
       "forever"
      ]
@@ -55273,12 +55327,13 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-30",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
      "repo": "joshespi/EspiBagRules",
      "flavors": [
+      "forever",
       "mainline"
      ]
     }
@@ -57512,7 +57567,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever addon for shared chat and online rosters across guilds on one realm",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -58841,6 +58896,44 @@
    ]
   },
   {
+   "name": "Clean Ranged Sounds",
+   "category": "class",
+   "folders": [
+    "CleanRangedSounds"
+   ],
+   "stars": 0,
+   "summary": "WoW Forever addon. Mutes the bow creak before each shot and any other bow, crossbow or gun sound you pick.",
+   "updated": "2026-11-05",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "miyankooo/CleanRangedSounds",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Item Flow",
+   "category": "bags",
+   "folders": [
+    "ItemFlow"
+   ],
+   "stars": 0,
+   "summary": "WoW Forever addon. Fast looting, auto junk selling and repairs, full-stack buying and marks for what to drop.",
+   "updated": "2026-11-05",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "miyankooo/ItemFlow",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Kroth's Scrolling Battle Text",
    "category": "qol",
    "folders": [
@@ -59803,7 +59896,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -62016,7 +62109,7 @@
    ],
    "stars": 0,
    "summary": "WoW Forever addon: the UI hides like Alt+Z and comes back only for combat, a target or a window. Map, bags, loot and chat on their own; no map arrow.",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -63842,7 +63935,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -63879,7 +63972,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-10-17",
+   "updated": "2026-11-05",
    "sources": [
     {
      "type": "github",
@@ -65572,7 +65665,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -65629,7 +65722,7 @@
    ],
    "stars": 0,
    "summary": "",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
@@ -65665,7 +65758,7 @@
    ],
    "stars": 0,
    "summary": "Quality-of-life tools for EllesmereUI on WoW Forever: mage utilities, merchant tools, offline inventory, mail, tooltips and crafting profit.",
-   "updated": "2026-10-24",
+   "updated": "2026-11-06",
    "sources": [
     {
      "type": "github",
