@@ -5,45 +5,18 @@
   {
    "name": "Deadly Boss Mods",
    "folders": [
-    "DBM-Brawlers",
     "DBM-Core",
+    "DBM-Affixes",
+    "DBM-Brawlers",
+    "DBM-KhazAlgar",
+    "DBM-Raids-WarWithin",
     "DBM-GUI",
-    "DBM-Lairs-Midnight",
-    "DBM-Midnight",
-    "DBM-Raids-Midnight",
     "DBM-StatusBarTimers",
-    "DBM-VPVEM"
+    "DBM-VPVEM",
+    "DBM-Test",
+    "DBM-Test-WarWithin"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "DeadlyBossMods/DeadlyBossMods",
-     "stars": 282,
-     "updated": "2026-11-07",
-     "summary": "The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it. - DeadlyBossMods/DeadlyBossMods",
-     "release_json": true,
-     "version": "12.1.20",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "DBM-Brawlers",
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Lairs-Midnight",
-      "DBM-Midnight",
-      "DBM-Raids-Midnight",
-      "DBM-StatusBarTimers",
-      "DBM-VPVEM"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "8814",
@@ -69,7 +42,7 @@
      "id": 3358,
      "flavors": [],
      "updated": "2026-07-27",
-     "cf_downloads": 640964666,
+     "cf_downloads": 641019629,
      "summary": "The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.",
      "cf_categories": [
       "Boss Encounters",
@@ -79,138 +52,28 @@
      "folders": []
     }
    ],
-   "summary": "The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it. - DeadlyBossMods/DeadlyBossMods",
-   "stars": 282,
-   "category": "raids"
-  },
-  {
-   "name": "BigWigs",
-   "folders": [
-    "BigWigs",
-    "BigWigs_Core",
-    "BigWigs_MarchOnQuelDanas",
-    "BigWigs_MidnightLairs",
-    "BigWigs_MidnightWorld",
-    "BigWigs_Options",
-    "BigWigs_Plugins",
-    "BigWigs_Sporefall",
-    "BigWigs_TheDreamrift",
-    "BigWigs_TheUnbindingOfKithix",
-    "BigWigs_TheVenomousAbyss",
-    "BigWigs_TheVoidspire"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "BigWigsMods/BigWigs",
-     "stars": 275,
-     "updated": "2026-10-23",
-     "summary": "Modular and lightweight approach to providing you with the tools you need to beat any boss encounter. - BigWigsMods/BigWigs",
-     "release_json": true,
-     "version": "v427.8",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "BigWigs",
-      "BigWigs_Core",
-      "BigWigs_MarchOnQuelDanas",
-      "BigWigs_MidnightLairs",
-      "BigWigs_MidnightWorld",
-      "BigWigs_Options",
-      "BigWigs_Plugins",
-      "BigWigs_Sporefall",
-      "BigWigs_TheDreamrift",
-      "BigWigs_TheUnbindingOfKithix",
-      "BigWigs_TheVenomousAbyss",
-      "BigWigs_TheVoidspire"
-     ]
-    },
-    {
-     "type": "wowinterface",
-     "id": "5086",
-     "version": "v427.8",
-     "updated": "2026-10-23",
-     "category_id": 45,
-     "folders": [
-      "BigWigs",
-      "BigWigs_Core",
-      "BigWigs_Options",
-      "BigWigs_Plugins",
-      "BigWigs_TheVoidspire",
-      "BigWigs_TheDreamrift",
-      "BigWigs_MarchOnQuelDanas",
-      "BigWigs_MidnightWorld",
-      "BigWigs_Sporefall",
-      "BigWigs_TheVenomousAbyss",
-      "BigWigs_MidnightLairs",
-      "BigWigs_TheUnbindingOfKithix"
-     ]
-    }
-   ],
-   "summary": "Modular and lightweight approach to providing you with the tools you need to beat any boss encounter. - BigWigsMods/BigWigs",
-   "stars": 275,
+   "summary": "The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.",
+   "stars": null,
    "category": "raids"
   },
   {
    "name": "LittleWigs",
    "folders": [
     "LittleWigs",
-    "LittleWigs_BattleForAzeroth",
-    "LittleWigs_BurningCrusade",
-    "LittleWigs_Cataclysm",
-    "LittleWigs_Classic",
-    "LittleWigs_Dragonflight",
     "LittleWigs_Forever",
-    "LittleWigs_Legion",
+    "LittleWigs_Classic",
+    "LittleWigs_BurningCrusade",
+    "LittleWigs_WrathOfTheLichKing",
+    "LittleWigs_Cataclysm",
     "LittleWigs_MistsOfPandaria",
-    "LittleWigs_Shadowlands",
-    "LittleWigs_TheWarWithin",
     "LittleWigs_WarlordsOfDraenor",
-    "LittleWigs_WrathOfTheLichKing"
+    "LittleWigs_Legion",
+    "LittleWigs_BattleForAzeroth",
+    "LittleWigs_Shadowlands",
+    "LittleWigs_Dragonflight",
+    "LittleWigs_TheWarWithin"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "BigWigsMods/LittleWigs",
-     "stars": 115,
-     "updated": "2026-11-04",
-     "summary": "Boss warnings for 5-man dungeons & scenarios.",
-     "release_json": true,
-     "version": "v12.1.23",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "LittleWigs",
-      "LittleWigs_BattleForAzeroth",
-      "LittleWigs_BurningCrusade",
-      "LittleWigs_Cataclysm",
-      "LittleWigs_Classic",
-      "LittleWigs_Dragonflight",
-      "LittleWigs_Forever",
-      "LittleWigs_Legion",
-      "LittleWigs_MistsOfPandaria",
-      "LittleWigs_Shadowlands",
-      "LittleWigs_TheWarWithin",
-      "LittleWigs_WarlordsOfDraenor",
-      "LittleWigs_WrathOfTheLichKing"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "9577",
@@ -241,7 +104,7 @@
       "forever"
      ],
      "updated": "2026-11-04",
-     "cf_downloads": 133151839,
+     "cf_downloads": 133154791,
      "summary": "A BigWigs content plugin for dungeons, delves, and scenarios.",
      "cf_categories": [
       "Boss Encounters",
@@ -250,8 +113,8 @@
      "folders": []
     }
    ],
-   "summary": "Boss warnings for 5-man dungeons & scenarios.",
-   "stars": 115,
+   "summary": "A BigWigs content plugin for dungeons, delves, and scenarios.",
+   "stars": null,
    "category": "raids"
   },
   {
@@ -266,7 +129,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 374380255,
+     "cf_downloads": 374506502,
      "summary": "Complete combat analysis, gathering damage, healing, and other importante stuff.",
      "cf_categories": [
       "Boss Encounters",
@@ -292,7 +155,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 39808054,
+     "cf_downloads": 39809676,
      "summary": "Modular damage meter.",
      "cf_categories": [
       "Boss Encounters",
@@ -306,85 +169,16 @@
    "category": "combat"
   },
   {
-   "name": "Metails",
-   "folders": [
-    "Metails"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Pwizzlard/Metails",
-     "stars": 0,
-     "updated": "2026-10-09",
-     "summary": "Personal combat meter for WoW Forever. Tracks your own damage, healing, interrupts, deaths and more. Nobody else's. - Pwizzlard/Metails",
-     "release_json": true,
-     "version": "v2.14.0",
-     "flavors": [
-      "forever"
-     ],
-     "folders": [
-      "Metails"
-     ]
-    }
-   ],
-   "summary": "Personal combat meter for WoW Forever. Tracks your own damage, healing, interrupts, deaths and more. Nobody else's. - Pwizzlard/Metails",
-   "stars": 0,
-   "category": "combat"
-  },
-  {
    "name": "WeakAuras",
-   "folders": [
-    "WeakAuras",
-    "WeakAurasArchive",
-    "WeakAurasModelPaths",
-    "WeakAurasOptions",
-    "WeakAurasTemplates"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "WeakAuras/WeakAuras2",
-     "stars": 1448,
-     "updated": "2026-10-10",
-     "summary": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen. - WeakAuras/WeakAuras2",
-     "release_json": true,
-     "version": "5.22.1",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "WeakAuras",
-      "WeakAurasArchive",
-      "WeakAurasModelPaths",
-      "WeakAurasOptions",
-      "WeakAurasTemplates"
-     ]
-    },
-    {
-     "type": "wowinterface",
-     "id": "24910",
-     "version": "5.22.1",
-     "updated": "2026-10-10",
-     "category_id": 27,
-     "folders": [
-      "WeakAuras",
-      "WeakAurasOptions",
-      "WeakAurasModelPaths",
-      "WeakAurasTemplates",
-      "WeakAurasArchive"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "weakauras-2",
      "id": 65387,
      "flavors": [],
      "updated": "2026-11-02",
-     "cf_downloads": 255685335,
+     "cf_downloads": 255687311,
      "summary": "A powerful, comprehensive utilty for displaying graphics and information based on buffs, debuffs, and other triggers.",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -395,48 +189,21 @@
      "folders": []
     }
    ],
-   "summary": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen. - WeakAuras/WeakAuras2",
-   "stars": 1448,
+   "summary": "A powerful, comprehensive utilty for displaying graphics and information based on buffs, debuffs, and other triggers.",
+   "stars": null,
    "category": "auras"
   },
   {
    "name": "Hekili",
-   "folders": [
-    "Hekili"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Hekili/hekili",
-     "stars": 488,
-     "updated": "2025-11-01",
-     "summary": "Hekili Priority Helper for The War Within.",
-     "release_json": true,
-     "version": "v11.2.5-1.0.0",
-     "flavors": [
-      "mainline"
-     ],
-     "folders": [
-      "Hekili"
-     ]
-    },
-    {
-     "type": "wowinterface",
-     "id": "24608",
-     "version": "v11.2.5-1.0.0",
-     "updated": "2025-11-01",
-     "category_id": 25,
-     "folders": [
-      "Hekili"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "hekili",
      "id": 69254,
      "flavors": [],
      "updated": "2025-11-01",
-     "cf_downloads": 61709195,
+     "cf_downloads": 61709369,
      "summary": "Sim-based priority/rotation helper for DPS and tanking specializations.",
      "cf_categories": [
       "Damage Dealer",
@@ -447,8 +214,8 @@
      "folders": []
     }
    ],
-   "summary": "Hekili Priority Helper for The War Within.",
-   "stars": 488,
+   "summary": "Sim-based priority/rotation helper for DPS and tanking specializations.",
+   "stars": null,
    "category": "class"
   },
   {
@@ -458,26 +225,6 @@
     "OmniCC_Config"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "tullamods/OmniCC",
-     "stars": 107,
-     "updated": "2025-12-14",
-     "summary": "Cooldown count for everything.",
-     "release_json": true,
-     "version": "11.2.8",
-     "flavors": [
-      "bcc",
-      "classic",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "OmniCC",
-      "OmniCC_Config"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "4836",
@@ -495,7 +242,7 @@
      "id": 2057,
      "flavors": [],
      "updated": "2025-12-14",
-     "cf_downloads": 65923770,
+     "cf_downloads": 65924050,
      "summary": "Cooldown count for everything",
      "cf_categories": [
       "Battle Pets",
@@ -507,8 +254,8 @@
      "folders": []
     }
    ],
-   "summary": "Cooldown count for everything.",
-   "stars": 107,
+   "summary": "Cooldown count for everything",
+   "stars": null,
    "category": "auras"
   },
   {
@@ -533,10 +280,7 @@
       "mists",
       "wrath"
      ],
-     "folders": [
-      "ClassicCastbars",
-      "ClassicCastbars_Options"
-     ]
+     "folders": []
     },
     {
      "type": "wowinterface",
@@ -556,45 +300,15 @@
   },
   {
    "name": "Quartz",
-   "folders": [
-    "Quartz"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Nevcairiel/Quartz",
-     "stars": 32,
-     "updated": "2026-01-18",
-     "summary": "Quartz is a modular approach to a casting bar addon for World of Warcraft - Nevcairiel/Quartz",
-     "release_json": true,
-     "version": "3.7.17",
-     "flavors": [
-      "bcc",
-      "classic",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "Quartz"
-     ]
-    },
-    {
-     "type": "wowinterface",
-     "id": "7158",
-     "version": "3.7.17",
-     "updated": "2026-01-18",
-     "category_id": 112,
-     "folders": [
-      "Quartz"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "quartz",
      "id": 4558,
      "flavors": [],
      "updated": "2026-01-18",
-     "cf_downloads": 32839482,
+     "cf_downloads": 32839700,
      "summary": "Modular casting bar.",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -603,8 +317,8 @@
      "folders": []
     }
    ],
-   "summary": "Quartz is a modular approach to a casting bar addon for World of Warcraft - Nevcairiel/Quartz",
-   "stars": 32,
+   "summary": "Modular casting bar.",
+   "stars": null,
    "category": "auras"
   },
   {
@@ -613,25 +327,6 @@
     "ThreatClassic2"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "dfherr/ThreatClassic2",
-     "stars": 37,
-     "updated": "2026-11-07",
-     "summary": "A  simple threat meter for WoW Classic & TBC Classic, successor of ClassicThreatMeter. - dfherr/ThreatClassic2",
-     "release_json": true,
-     "version": "2.77",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "ThreatClassic2"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "25966",
@@ -643,36 +338,9 @@
      ]
     }
    ],
-   "summary": "A  simple threat meter for WoW Classic & TBC Classic, successor of ClassicThreatMeter. - dfherr/ThreatClassic2",
-   "stars": 37,
+   "summary": "",
+   "stars": null,
    "category": "combat"
-  },
-  {
-   "name": "Decursive",
-   "folders": [
-    "Decursive"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "2072/Decursive",
-     "stars": 11,
-     "updated": "2026-11-04",
-     "summary": "https://www.wowace.com/projects/decursive - 2072/Decursive",
-     "release_json": true,
-     "version": "2.9.0-RC4",
-     "flavors": [
-      "mainline",
-      "titan"
-     ],
-     "folders": [
-      "Decursive"
-     ]
-    }
-   ],
-   "summary": "https://www.wowace.com/projects/decursive - 2072/Decursive",
-   "stars": 11,
-   "category": "class"
   },
   {
    "name": "Method Raid Tools",
@@ -686,7 +354,7 @@
       "forever"
      ],
      "updated": "2026-10-13",
-     "cf_downloads": 54433433,
+     "cf_downloads": 54433914,
      "summary": "Helpful addon for raiding",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -703,26 +371,8 @@
   },
   {
    "name": "Simulationcraft",
-   "folders": [
-    "Simulationcraft"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "simulationcraft/simc-addon",
-     "stars": 71,
-     "updated": "2026-11-05",
-     "summary": "SimulationCraft WoW Addon.",
-     "release_json": true,
-     "version": "12.1.5-04",
-     "flavors": [
-      "forever",
-      "mainline"
-     ],
-     "folders": [
-      "Simulationcraft"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "simulationcraft",
@@ -731,7 +381,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 52471593,
+     "cf_downloads": 52475051,
      "summary": "An addon that generates a Simulationcraft profile for your character",
      "cf_categories": [
       "Development Tools",
@@ -740,37 +390,14 @@
      "folders": []
     }
    ],
-   "summary": "SimulationCraft WoW Addon.",
-   "stars": 71,
+   "summary": "An addon that generates a Simulationcraft profile for your character",
+   "stars": null,
    "category": "class"
   },
   {
    "name": "Questie",
-   "folders": [
-    "Questie",
-    "QuestieDB"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Questie/Questie",
-     "stars": 1133,
-     "updated": "2026-11-07",
-     "summary": "The WoW Classic quest helper.",
-     "release_json": true,
-     "version": null,
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mists",
-      "wrath"
-     ],
-     "folders": [
-      "Questie",
-      "QuestieDB"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "questie",
@@ -779,7 +406,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 216280642,
+     "cf_downloads": 216528512,
      "summary": "The Classic Quest Helper",
      "cf_categories": [
       "Quests & Leveling",
@@ -789,36 +416,14 @@
      "folders": []
     }
    ],
-   "summary": "The WoW Classic quest helper.",
-   "stars": 1133,
+   "summary": "The Classic Quest Helper",
+   "stars": null,
    "category": "quests"
   },
   {
    "name": "Guidelime",
-   "folders": [
-    "Guidelime"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "max-ri/Guidelime",
-     "stars": 175,
-     "updated": "2026-11-05",
-     "summary": "A WoW Classic addon for leveling guides with automatic progress updates - max-ri/Guidelime",
-     "release_json": true,
-     "version": null,
-     "flavors": [
-      "cataclysm",
-      "classic",
-      "forever",
-      "mists",
-      "tbc",
-      "wrath"
-     ],
-     "folders": [
-      "Guidelime"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "guidelime",
@@ -827,7 +432,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 5546135,
+     "cf_downloads": 5547939,
      "summary": "A WoW Classic addon for leveling guides with automatic progress updates",
      "cf_categories": [
       "Quests & Leveling"
@@ -835,39 +440,14 @@
      "folders": []
     }
    ],
-   "summary": "A WoW Classic addon for leveling guides with automatic progress updates - max-ri/Guidelime",
-   "stars": 175,
+   "summary": "A WoW Classic addon for leveling guides with automatic progress updates",
+   "stars": null,
    "category": "quests"
   },
   {
    "name": "WoW-Pro Guides",
-   "folders": [
-    "WoWPro",
-    "WoWPro_Achievements",
-    "WoWPro_Dailies",
-    "WoWPro_Leveling",
-    "WoWPro_Profession",
-    "WoWPro_WorldEvents"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Ludovicus-Maior/WoW-Pro-Guides",
-     "stars": 144,
-     "updated": "2026-11-05",
-     "summary": "A World of Warcraft addon bringing guides into the game. - Ludovicus-Maior/WoW-Pro-Guides",
-     "release_json": false,
-     "version": "20261105",
-     "flavors": [],
-     "folders": [
-      "WoWPro",
-      "WoWPro_Achievements",
-      "WoWPro_Dailies",
-      "WoWPro_Leveling",
-      "WoWPro_Profession",
-      "WoWPro_WorldEvents"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "wow-pro",
@@ -876,7 +456,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 3644121,
+     "cf_downloads": 3644363,
      "summary": "Questing and Leveling guides from the WoW-Pro community!",
      "cf_categories": [
       "Quests & Leveling"
@@ -884,55 +464,8 @@
      "folders": []
     }
    ],
-   "summary": "A World of Warcraft addon bringing guides into the game. - Ludovicus-Maior/WoW-Pro-Guides",
-   "stars": 144,
-   "category": "quests"
-  },
-  {
-   "name": "RXPGuides",
-   "folders": [
-    "RXPGuides"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "RestedXP/RXPGuides",
-     "stars": 184,
-     "updated": "2026-11-06",
-     "summary": "RXPGuides is a platform to write in-game leveling guides for WoW Classic - RestedXP/RXPGuides",
-     "release_json": true,
-     "version": "v4.11.34",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "RXPGuides"
-     ]
-    },
-    {
-     "type": "curseforge",
-     "slug": "herebedragons",
-     "id": 94348,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-03",
-     "cf_downloads": 277560,
-     "summary": "HereBeDragons is a data API for the World of Warcraft mapping system",
-     "cf_categories": [
-      "Libraries",
-      "Map & Minimap"
-     ],
-     "folders": []
-    }
-   ],
-   "summary": "RXPGuides is a platform to write in-game leveling guides for WoW Classic - RestedXP/RXPGuides",
-   "stars": 184,
+   "summary": "Questing and Leveling guides from the WoW-Pro community!",
+   "stars": null,
    "category": "quests"
   },
   {
@@ -959,7 +492,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 92556077,
+     "cf_downloads": 92596510,
      "summary": "Acts as your portable navigation assistant",
      "cf_categories": [
       "Map & Minimap"
@@ -978,25 +511,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "Nevcairiel/HandyNotes",
-     "stars": 20,
-     "updated": "2026-11-03",
-     "summary": "Handy Notes for your maps. .",
-     "release_json": true,
-     "version": "v1.6.32",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "HandyNotes"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "15716",
      "version": "v1.6.32",
@@ -1014,7 +528,7 @@
       "forever"
      ],
      "updated": "2026-11-03",
-     "cf_downloads": 61598285,
+     "cf_downloads": 61602615,
      "summary": "Handy notes for your maps",
      "cf_categories": [
       "Map & Minimap"
@@ -1022,8 +536,8 @@
      "folders": []
     }
    ],
-   "summary": "Handy Notes for your maps. .",
-   "stars": 20,
+   "summary": "Handy notes for your maps",
+   "stars": null,
    "category": "maps"
   },
   {
@@ -1032,22 +546,6 @@
     "Mapster"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Nevcairiel/Mapster",
-     "stars": 21,
-     "updated": "2026-10-03",
-     "summary": "Mapster is a very simple world map enhacement addon for World of Warcraft - Nevcairiel/Mapster",
-     "release_json": true,
-     "version": "1.14.0",
-     "flavors": [
-      "forever",
-      "mainline"
-     ],
-     "folders": [
-      "Mapster"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "8306",
@@ -1066,7 +564,7 @@
       "forever"
      ],
      "updated": "2026-10-03",
-     "cf_downloads": 10911720,
+     "cf_downloads": 10912133,
      "summary": "Simple Map Mod",
      "cf_categories": [
       "Map & Minimap"
@@ -1074,8 +572,8 @@
      "folders": []
     }
    ],
-   "summary": "Mapster is a very simple world map enhacement addon for World of Warcraft - Nevcairiel/Mapster",
-   "stars": 21,
+   "summary": "Simple Map Mod",
+   "stars": null,
    "category": "maps"
   },
   {
@@ -1093,12 +591,9 @@
      "stars": 31,
      "updated": "2026-11-06",
      "summary": "GatherMate2 is an addon to collect and track herbs, mines, fishing pools, gas clouds, archaelogy finds and treasures for World of Warcraft - Nevcairiel/GatherMate2",
-     "release_json": true,
+     "release_json": false,
      "version": "1.52.5",
-     "flavors": [
-      "forever",
-      "mainline"
-     ],
+     "flavors": [],
      "folders": [
       "GatherMate2",
       "GatherMate2Storage_Dragonflight",
@@ -1127,7 +622,7 @@
       "forever"
      ],
      "updated": "2026-11-06",
-     "cf_downloads": 35587914,
+     "cf_downloads": 35596181,
      "summary": "Collects Herbs, Mines, Gas Clouds, Archaeology, Treasure and Fishing locations and adds them to the worldmap and minimap",
      "cf_categories": [
       "Map & Minimap",
@@ -1144,35 +639,15 @@
   },
   {
    "name": "Routes",
-   "folders": [
-    "Routes"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Nevcairiel/Routes",
-     "stars": 13,
-     "updated": "2026-05-13",
-     "summary": "Routes WoW Addon.",
-     "release_json": true,
-     "version": "v1.8.7",
-     "flavors": [
-      "bcc",
-      "classic",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "Routes"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "routes",
      "id": 14599,
      "flavors": [],
      "updated": "2026-05-13",
-     "cf_downloads": 4338200,
+     "cf_downloads": 4338297,
      "summary": "Routes on your maps!",
      "cf_categories": [
       "Map & Minimap",
@@ -1181,51 +656,9 @@
      "folders": []
     }
    ],
-   "summary": "Routes WoW Addon.",
-   "stars": 13,
+   "summary": "Routes on your maps!",
+   "stars": null,
    "category": "maps"
-  },
-  {
-   "name": "AtlasLootClassic",
-   "folders": [
-    "AtlasLootClassic",
-    "AtlasLootClassic_Collections",
-    "AtlasLootClassic_Crafting",
-    "AtlasLootClassic_Data",
-    "AtlasLootClassic_DungeonsAndRaids",
-    "AtlasLootClassic_Factions",
-    "AtlasLootClassic_Options",
-    "AtlasLootClassic_PvP"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Hoizame/AtlasLootClassic",
-     "stars": 91,
-     "updated": "2023-10-22",
-     "summary": "AtlasLootClassic.",
-     "release_json": true,
-     "version": "v3.2.0",
-     "flavors": [
-      "bcc",
-      "classic",
-      "wrath"
-     ],
-     "folders": [
-      "AtlasLootClassic",
-      "AtlasLootClassic_Collections",
-      "AtlasLootClassic_Crafting",
-      "AtlasLootClassic_Data",
-      "AtlasLootClassic_DungeonsAndRaids",
-      "AtlasLootClassic_Factions",
-      "AtlasLootClassic_Options",
-      "AtlasLootClassic_PvP"
-     ]
-    }
-   ],
-   "summary": "AtlasLootClassic.",
-   "stars": 91,
-   "category": "raids"
   },
   {
    "name": "Immersion",
@@ -1233,26 +666,6 @@
     "Immersion"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "seblindfors/Immersion",
-     "stars": 35,
-     "updated": "2026-09-24",
-     "summary": "Replaces WoW's quest and gossip frames with a cinematic dialogue box that paces the text to encourage reading the lore. - seblindfors/Immersion",
-     "release_json": true,
-     "version": "1.4.61",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "Immersion"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "24714",
@@ -1271,19 +684,19 @@
       "forever"
      ],
      "updated": "2026-09-24",
-     "cf_downloads": 8459702,
+     "cf_downloads": 8460342,
      "summary": "An immersive questing experience, without any extra fuss.",
      "cf_categories": [
-      "Achievements",
       "Quests & Leveling",
+      "Achievements",
       "Artwork",
       "Roleplay"
      ],
      "folders": []
     }
    ],
-   "summary": "Replaces WoW's quest and gossip frames with a cinematic dialogue box that paces the text to encourage reading the lore. - seblindfors/Immersion",
-   "stars": 35,
+   "summary": "An immersive questing experience, without any extra fuss.",
+   "stars": null,
    "category": "quests"
   },
   {
@@ -1298,7 +711,7 @@
       "forever"
      ],
      "updated": "2026-11-06",
-     "cf_downloads": 76354301,
+     "cf_downloads": 76370311,
      "summary": "Powerful and modular quality of life addon with a small resource footprint.  Supports all WoW games including Midnight and Burning Crusade Classic Anniversary (as well as all the others).",
      "cf_categories": [
       "Chat & Communication",
@@ -1326,7 +739,7 @@
       "forever"
      ],
      "updated": "2026-11-06",
-     "cf_downloads": 42944849,
+     "cf_downloads": 42958893,
      "summary": "Enhancements for your maps.  Supports all WoW games including Midnight and Burning Crusade Classic Anniversary (as well as all the others).",
      "cf_categories": [
       "Quests & Leveling",
@@ -1347,28 +760,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "funkydude/SexyMap",
-     "stars": 57,
-     "updated": "2026-11-05",
-     "summary": "Spice up your minimap in World of Warcraft with some sexy options. - funkydude/SexyMap",
-     "release_json": true,
-     "version": "v12.1.7",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "SexyMap"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "21538",
      "version": "v12.1.7",
@@ -1386,7 +777,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 37441176,
+     "cf_downloads": 37444108,
      "summary": "Spice up your minimap with some sexy options.",
      "cf_categories": [
       "Map & Minimap"
@@ -1394,8 +785,8 @@
      "folders": []
     }
    ],
-   "summary": "Spice up your minimap in World of Warcraft with some sexy options. - funkydude/SexyMap",
-   "stars": 57,
+   "summary": "Spice up your minimap with some sexy options.",
+   "stars": null,
    "category": "maps"
   },
   {
@@ -1408,7 +799,7 @@
      "id": 366310,
      "flavors": [],
      "updated": "2026-11-04",
-     "cf_downloads": 38223618,
+     "cf_downloads": 38224746,
      "summary": "Classic WoW world buff timers and pre buff drop warnings so you never miss a buff.",
      "cf_categories": [
       "Chat & Communication",
@@ -1435,7 +826,7 @@
       "forever"
      ],
      "updated": "2026-10-31",
-     "cf_downloads": 19162507,
+     "cf_downloads": 19164033,
      "summary": "Track instance lockouts with detailed stats about your time in an instance. Money Trade logs. Alts rested XP amounts. And more.",
      "cf_categories": [
       "Miscellaneous",
@@ -1461,7 +852,7 @@
       "forever"
      ],
      "updated": "2026-11-06",
-     "cf_downloads": 13287182,
+     "cf_downloads": 13292003,
      "summary": "Attunement progress",
      "cf_categories": [
       "Data Export",
@@ -1498,54 +889,11 @@
    "category": "quests"
   },
   {
-   "name": "AutoBiographer",
-   "folders": [
-    "AutoBiographer"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "AaronV-T/AutoBiographer",
-     "stars": 10,
-     "updated": "2024-09-30",
-     "summary": "Classic WoW addon.",
-     "release_json": false,
-     "version": "4.0.1",
-     "flavors": [],
-     "folders": [
-      "AutoBiographer"
-     ]
-    }
-   ],
-   "summary": "Classic WoW addon.",
-   "stars": 10,
-   "category": "quests"
-  },
-  {
    "name": "Bartender4",
    "folders": [
     "Bartender4"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Nevcairiel/Bartender4",
-     "stars": 76,
-     "updated": "2026-11-03",
-     "summary": "ActionBar AddOn for World of Warcraft.",
-     "release_json": true,
-     "version": "4.18.4",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "Bartender4"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "11190",
@@ -1564,7 +912,7 @@
       "forever"
      ],
      "updated": "2026-11-03",
-     "cf_downloads": 82453317,
+     "cf_downloads": 82457697,
      "summary": "Simple and Advanced combined - Bartender4 ActionBar AddOn",
      "cf_categories": [
       "Action Bars"
@@ -1572,8 +920,8 @@
      "folders": []
     }
    ],
-   "summary": "ActionBar AddOn for World of Warcraft.",
-   "stars": 76,
+   "summary": "Simple and Advanced combined - Bartender4 ActionBar AddOn",
+   "stars": null,
    "category": "actionbars"
   },
   {
@@ -1587,31 +935,6 @@
     "Masque_Dominos"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "tullamods/Dominos",
-     "stars": 83,
-     "updated": "2026-11-07",
-     "summary": "A main actionbar replacement.",
-     "release_json": true,
-     "version": "11.5.3",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "Dominos",
-      "Dominos_Cast",
-      "Dominos_Config",
-      "Dominos_Progress",
-      "Dominos_Roll",
-      "Masque_Dominos"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "9085",
@@ -1635,7 +958,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 22973084,
+     "cf_downloads": 22976550,
      "summary": "A main action bar replacement",
      "cf_categories": [
       "Action Bars"
@@ -1643,8 +966,8 @@
      "folders": []
     }
    ],
-   "summary": "A main actionbar replacement.",
-   "stars": 83,
+   "summary": "A main action bar replacement",
+   "stars": null,
    "category": "actionbars"
   },
   {
@@ -1696,28 +1019,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "SFX-WoW/Masque",
-     "stars": 54,
-     "updated": "2026-11-02",
-     "summary": "A button-skinning engine for World of Warcraft.",
-     "release_json": true,
-     "version": "12.1.8",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "Masque"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "12097",
      "version": "12.1.8",
@@ -1735,7 +1036,7 @@
       "forever"
      ],
      "updated": "2026-11-02",
-     "cf_downloads": 9596638,
+     "cf_downloads": 9597179,
      "summary": "A skinning engine for button-based add-ons.",
      "cf_categories": [
       "Action Bars",
@@ -1747,38 +1048,14 @@
      "folders": []
     }
    ],
-   "summary": "A button-skinning engine for World of Warcraft.",
-   "stars": 54,
+   "summary": "A skinning engine for button-based add-ons.",
+   "stars": null,
    "category": "actionbars"
   },
   {
    "name": "MoveAny",
-   "folders": [
-    "MoveAny"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "d4kir92/MoveAny",
-     "stars": 10,
-     "updated": "2026-11-07",
-     "summary": "Move Addon.",
-     "release_json": true,
-     "version": "v1.14.11",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "MoveAny"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "moveany",
@@ -1787,7 +1064,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 22458693,
+     "cf_downloads": 22461901,
      "summary": "Move any Blizzard Ui Element/Window",
      "cf_categories": [
       "HUDs",
@@ -1799,74 +1076,8 @@
      "folders": []
     }
    ],
-   "summary": "Move Addon.",
-   "stars": 10,
-   "category": "ui"
-  },
-  {
-   "name": "ConsolePort",
-   "folders": [
-    "ConsolePort",
-    "ConsolePort_Bar",
-    "ConsolePort_Config",
-    "ConsolePort_Cursor",
-    "ConsolePort_Keyboard",
-    "ConsolePort_Menu",
-    "ConsolePort_Rings",
-    "ConsolePort_Target",
-    "ConsolePort_World"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "seblindfors/ConsolePort",
-     "stars": 262,
-     "updated": "2026-10-30",
-     "summary": "Game Controller Addon for World of Warcraft - seblindfors/ConsolePort",
-     "release_json": true,
-     "version": "3.3.13",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "ConsolePort",
-      "ConsolePort_Bar",
-      "ConsolePort_Config",
-      "ConsolePort_Cursor",
-      "ConsolePort_Keyboard",
-      "ConsolePort_Menu",
-      "ConsolePort_Rings",
-      "ConsolePort_Target",
-      "ConsolePort_World"
-     ]
-    },
-    {
-     "type": "curseforge",
-     "slug": "console-port",
-     "id": 91376,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-10-30",
-     "cf_downloads": 4334886,
-     "summary": "The Gamepad Addon",
-     "cf_categories": [
-      "Quests & Leveling",
-      "Unit Frames",
-      "Action Bars",
-      "Libraries",
-      "Combat"
-     ],
-     "folders": []
-    }
-   ],
-   "summary": "Game Controller Addon for World of Warcraft - seblindfors/ConsolePort",
-   "stars": 262,
+   "summary": "Move any Blizzard Ui Element/Window",
+   "stars": null,
    "category": "ui"
   },
   {
@@ -1876,20 +1087,6 @@
     "ls_UI_Options"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "ls-/ls_UI",
-     "stars": 44,
-     "updated": "2025-12-08",
-     "summary": "Development repository of ls: UI.",
-     "release_json": false,
-     "version": "110207.02",
-     "flavors": [],
-     "folders": [
-      "ls_UI",
-      "ls_UI_Options"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "22662",
@@ -1902,8 +1099,8 @@
      ]
     }
    ],
-   "summary": "Development repository of ls: UI.",
-   "stars": 44,
+   "summary": "",
+   "stars": null,
    "category": "ui"
   },
   {
@@ -1912,19 +1109,6 @@
     "ls_Toasts"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "ls-/ls_Toasts",
-     "stars": 30,
-     "updated": "2026-11-01",
-     "summary": "Development repository for LS: Toasts.",
-     "release_json": false,
-     "version": "120105.04",
-     "flavors": [],
-     "folders": [
-      "ls_Toasts"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "24123",
@@ -1941,7 +1125,7 @@
      "id": 101604,
      "flavors": [],
      "updated": "2026-11-01",
-     "cf_downloads": 1266568,
+     "cf_downloads": 1266621,
      "summary": "Replacement for the default alert system. Better toasts, cheers!",
      "cf_categories": [
       "Quests & Leveling",
@@ -1952,8 +1136,8 @@
      "folders": []
     }
    ],
-   "summary": "Development repository for LS: Toasts.",
-   "stars": 30,
+   "summary": "Replacement for the default alert system. Better toasts, cheers!",
+   "stars": null,
    "category": "qol"
   },
   {
@@ -1963,27 +1147,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "Stanzilla/AdvancedInterfaceOptions",
-     "stars": 58,
-     "updated": "2026-09-27",
-     "summary": "WoW Addon that restores access to removed interface options in Legion - Stanzilla/AdvancedInterfaceOptions",
-     "release_json": true,
-     "version": "2.1.14",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "wrath"
-     ],
-     "folders": [
-      "AdvancedInterfaceOptions"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "25002",
      "version": "2.1.14",
@@ -1992,72 +1155,11 @@
      "folders": [
       "AdvancedInterfaceOptions"
      ]
-    },
-    {
-     "type": "curseforge",
-     "slug": "advancedinterfaceoptions",
-     "id": 99982,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-09-27",
-     "cf_downloads": 12393207,
-     "summary": "Restores access to removed interface options in Legion",
-     "cf_categories": [
-      "Miscellaneous"
-     ],
-     "folders": []
     }
    ],
-   "summary": "WoW Addon that restores access to removed interface options in Legion - Stanzilla/AdvancedInterfaceOptions",
-   "stars": 58,
+   "summary": "",
+   "stars": null,
    "category": "qol"
-  },
-  {
-   "name": "TipTac",
-   "folders": [
-    "TipTac",
-    "TipTacItemRef",
-    "TipTacOptions",
-    "TipTacTalents"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "frozn/TipTac",
-     "stars": 135,
-     "updated": "2026-09-03",
-     "summary": "WoW AddOn TipTac Reborn.",
-     "release_json": false,
-     "version": "v26.09.03-release",
-     "flavors": [],
-     "folders": [
-      "TipTac",
-      "TipTacItemRef",
-      "TipTacOptions",
-      "TipTacTalents"
-     ]
-    },
-    {
-     "type": "curseforge",
-     "slug": "tiptac-reborn",
-     "id": 695153,
-     "flavors": [],
-     "updated": "2026-09-03",
-     "cf_downloads": 2834820,
-     "summary": "An Advanced Tooltip Addon (for retail/MN, classic/MoPC, anniversary/TBC and classic era/Vanilla)",
-     "cf_categories": [
-      "Tooltip",
-      "Buffs & Debuffs",
-      "Class",
-      "HUDs"
-     ],
-     "folders": []
-    }
-   ],
-   "summary": "WoW AddOn TipTac Reborn.",
-   "stars": 135,
-   "category": "tooltips"
   },
   {
    "name": "Titan Panel",
@@ -2118,7 +1220,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 2429603,
+     "cf_downloads": 2438879,
      "summary": "A stylish smooth chat frame revamp (includes Forever support)",
      "cf_categories": [
       "Chat & Communication"
@@ -2154,7 +1256,7 @@
       "forever"
      ],
      "updated": "2026-11-04",
-     "cf_downloads": 35365084,
+     "cf_downloads": 35366851,
      "summary": "Chat addon, filtering messages and UI changes",
      "cf_categories": [
       "Chat & Communication"
@@ -2173,26 +1275,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "Legacy-of-Sylvanaar/wow-instant-messenger",
-     "stars": 19,
-     "updated": "2026-11-08",
-     "summary": "WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant messenger feel to communication in game. - Legacy-of-Sylvanaar/wow-instant-messenger",
-     "release_json": true,
-     "version": "3.19.4",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "WIM"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "5342",
      "version": "3.19.4",
@@ -2201,25 +1283,10 @@
      "folders": [
       "WIM"
      ]
-    },
-    {
-     "type": "curseforge",
-     "slug": "wim-3",
-     "id": 7474,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-11-08",
-     "cf_downloads": 23392970,
-     "summary": "Give whispers an instant messenger feel.",
-     "cf_categories": [
-      "Chat & Communication"
-     ],
-     "folders": []
     }
    ],
-   "summary": "WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant messenger feel to communication in game. - Legacy-of-Sylvanaar/wow-instant-messenger",
-   "stars": 19,
+   "summary": "",
+   "stars": null,
    "category": "chat"
   },
   {
@@ -2234,7 +1301,7 @@
       "forever"
      ],
      "updated": "2026-10-22",
-     "cf_downloads": 12382936,
+     "cf_downloads": 12383442,
      "summary": "Bind actions to a pop-up radial menu.",
      "cf_categories": [
       "Action Bars",
@@ -2254,28 +1321,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "funkydude/BugSack",
-     "stars": 47,
-     "updated": "2026-10-26",
-     "summary": "A simple display for collected errors in World of Warcraft. - funkydude/BugSack",
-     "release_json": true,
-     "version": "v12.1.9",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "BugSack"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "5995",
      "version": "v12.1.9",
@@ -2293,7 +1338,7 @@
       "forever"
      ],
      "updated": "2026-10-26",
-     "cf_downloads": 18107325,
+     "cf_downloads": 18109418,
      "summary": "Toss those bugs inna sack.",
      "cf_categories": [
       "Development Tools",
@@ -2302,8 +1347,8 @@
      "folders": []
     }
    ],
-   "summary": "A simple display for collected errors in World of Warcraft. - funkydude/BugSack",
-   "stars": 47,
+   "summary": "Toss those bugs inna sack.",
+   "stars": null,
    "category": "libraries"
   },
   {
@@ -2318,7 +1363,7 @@
       "forever"
      ],
      "updated": "2026-10-21",
-     "cf_downloads": 19426500,
+     "cf_downloads": 19429174,
      "summary": "Grabs bugs for the bug sack.",
      "cf_categories": [
       "Development Tools"
@@ -2332,35 +1377,8 @@
   },
   {
    "name": "Narcissus",
-   "folders": [
-    "Narcissus",
-    "Narcissus_Achievements",
-    "Narcissus_BagFilter",
-    "Narcissus_Barbershop",
-    "Narcissus_Database_Item",
-    "Narcissus_Database_NPC",
-    "Narcissus_GamePad"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Peterodox/Narcissus",
-     "stars": 34,
-     "updated": "2026-11-07",
-     "summary": "World of Warcraft Character UI, Photo Mode Add-On.",
-     "release_json": false,
-     "version": "v1.8.7-c",
-     "flavors": [],
-     "folders": [
-      "Narcissus",
-      "Narcissus_Achievements",
-      "Narcissus_BagFilter",
-      "Narcissus_Barbershop",
-      "Narcissus_Database_Item",
-      "Narcissus_Database_NPC",
-      "Narcissus_GamePad"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "narcissus",
@@ -2369,99 +1387,26 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 13399851,
+     "cf_downloads": 13404105,
      "summary": "An immersive character pane and in-game studio",
      "cf_categories": [
       "Transmogrification",
-      "Achievements",
       "Artwork",
       "Roleplay",
+      "Achievements",
       "HUDs"
      ],
      "folders": []
     }
    ],
-   "summary": "World of Warcraft Character UI, Photo Mode Add-On.",
-   "stars": 34,
+   "summary": "An immersive character pane and in-game studio",
+   "stars": null,
    "category": "ui"
   },
   {
-   "name": "Kui Nameplates",
-   "folders": [
-    "Kui_Media",
-    "Kui_Nameplates",
-    "Kui_Nameplates_Core",
-    "Kui_Nameplates_Core_Config"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "kesava-wow/kuinameplates2",
-     "stars": 84,
-     "updated": "2025-07-08",
-     "summary": "Prettier nameplates.",
-     "release_json": true,
-     "version": "2.29.20",
-     "flavors": [
-      "classic",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "Kui_Media",
-      "Kui_Nameplates",
-      "Kui_Nameplates_Core",
-      "Kui_Nameplates_Core_Config"
-     ]
-    },
-    {
-     "type": "curseforge",
-     "slug": "kuinameplates",
-     "id": 35095,
-     "flavors": [],
-     "updated": "2026-03-21",
-     "cf_downloads": 11566793,
-     "summary": "Prettier nameplates.",
-     "cf_categories": [
-      "Damage Dealer",
-      "Unit Frames",
-      "Tank",
-      "Combat",
-      "PvP"
-     ],
-     "folders": []
-    }
-   ],
-   "summary": "Prettier nameplates.",
-   "stars": 84,
-   "category": "nameplates"
-  },
-  {
    "name": "Plater Nameplates",
-   "folders": [
-    "Plater"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Tercioo/Plater-Nameplates",
-     "stars": 106,
-     "updated": "2026-11-04",
-     "summary": "Source code for World of Warcraft addon Plater Nameplates. - Tercioo/Plater-Nameplates",
-     "release_json": true,
-     "version": "Plater-v663",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "Plater"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "plater-nameplates",
@@ -2470,7 +1415,7 @@
       "forever"
      ],
      "updated": "2026-11-04",
-     "cf_downloads": 104927891,
+     "cf_downloads": 104937609,
      "summary": "Highly customizable nameplate with support to scripts and animations.",
      "cf_categories": [
       "Unit Frames"
@@ -2478,8 +1423,8 @@
      "folders": []
     }
    ],
-   "summary": "Source code for World of Warcraft addon Plater Nameplates. - Tercioo/Plater-Nameplates",
-   "stars": 106,
+   "summary": "Highly customizable nameplate with support to scripts and animations.",
+   "stars": null,
    "category": "nameplates"
   },
   {
@@ -2497,56 +1442,19 @@
      "folders": [
       "TidyPlates_ThreatPlates"
      ]
-    },
-    {
-     "type": "github",
-     "repo": "Backupiseasy/ThreatPlates",
-     "stars": 45,
-     "updated": "2026-11-06",
-     "summary": "Nameplate addon for World of Warcraft.",
-     "release_json": true,
-     "version": "13.3.6",
-     "flavors": [
-      "bcc",
-      "classic",
-      "forever",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "TidyPlates_ThreatPlates"
-     ]
     }
    ],
-   "summary": "Nameplate addon for World of Warcraft.",
-   "stars": 45,
+   "summary": "",
+   "stars": null,
    "category": "nameplates"
   },
   {
    "name": "Shadowed Unit Frames",
    "folders": [
-    "ShadowedUF_Options",
-    "ShadowedUnitFrames"
+    "ShadowedUnitFrames",
+    "ShadowedUF_Options"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "Nevcairiel/ShadowedUnitFrames",
-     "stars": 58,
-     "updated": "2026-01-18",
-     "summary": "Unit frames that focus on simplicity and ease of use - Nevcairiel/ShadowedUnitFrames",
-     "release_json": true,
-     "version": "v4.3.9-classic",
-     "flavors": [
-      "bcc",
-      "classic",
-      "mists"
-     ],
-     "folders": [
-      "ShadowedUF_Options",
-      "ShadowedUnitFrames"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "13494",
@@ -2564,7 +1472,7 @@
      "id": 19268,
      "flavors": [],
      "updated": "2026-01-18",
-     "cf_downloads": 19499703,
+     "cf_downloads": 19499804,
      "summary": "\"Debug\" code free since '93!",
      "cf_categories": [
       "Boss Encounters",
@@ -2576,8 +1484,8 @@
      "folders": []
     }
    ],
-   "summary": "Unit frames that focus on simplicity and ease of use - Nevcairiel/ShadowedUnitFrames",
-   "stars": 58,
+   "summary": "\"Debug\" code free since '93!",
+   "stars": null,
    "category": "unitframes"
   },
   {
@@ -2587,25 +1495,6 @@
     "PitBull4_DogTagTexts"
    ],
    "sources": [
-    {
-     "type": "github",
-     "repo": "nebularg/PitBull4",
-     "stars": 29,
-     "updated": "2026-06-14",
-     "summary": "Woof. Arf. Yip.",
-     "release_json": true,
-     "version": "v4.2.50",
-     "flavors": [
-      "bcc",
-      "cata",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "PitBull4",
-      "PitBull4_DogTagTexts"
-     ]
-    },
     {
      "type": "wowinterface",
      "id": "20021",
@@ -2618,41 +1507,14 @@
      ]
     }
    ],
-   "summary": "Woof. Arf. Yip.",
-   "stars": 29,
+   "summary": "",
+   "stars": null,
    "category": "unitframes"
   },
   {
    "name": "Grid2",
-   "folders": [
-    "Grid2",
-    "Grid2LDB",
-    "Grid2Options",
-    "Grid2RaidDebuffs",
-    "Grid2RaidDebuffsOptions"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "michaelnpsp/Grid2",
-     "stars": 31,
-     "updated": "2026-10-22",
-     "summary": "Grid2 is a party/raid unit frame addon for World of Warcraft. - michaelnpsp/Grid2",
-     "release_json": true,
-     "version": "2.9.36",
-     "flavors": [
-      "bcc",
-      "classic",
-      "mists"
-     ],
-     "folders": [
-      "Grid2",
-      "Grid2LDB",
-      "Grid2Options",
-      "Grid2RaidDebuffs",
-      "Grid2RaidDebuffsOptions"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "grid2",
@@ -2661,7 +1523,7 @@
       "forever"
      ],
      "updated": "2026-10-21",
-     "cf_downloads": 15510787,
+     "cf_downloads": 15511526,
      "summary": "A modular, lightweight and screen-estate saving grid of party/raid unit frames",
      "cf_categories": [
       "Raid Frames",
@@ -2671,8 +1533,8 @@
      "folders": []
     }
    ],
-   "summary": "Grid2 is a party/raid unit frame addon for World of Warcraft. - michaelnpsp/Grid2",
-   "stars": 31,
+   "summary": "A modular, lightweight and screen-estate saving grid of party/raid unit frames",
+   "stars": null,
    "category": "unitframes"
   },
   {
@@ -2685,7 +1547,7 @@
     {
      "type": "wowinterface",
      "id": "14239",
-     "version": "v3.221-alpha-3",
+     "version": "v3.221-alpha-4",
      "updated": "2026-11-08",
      "category_id": 45,
      "folders": [
@@ -2701,7 +1563,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 30234989,
+     "cf_downloads": 30236871,
      "summary": "Raid Frames providing click-heal functionality, buff and debuff control, main tank management and much more.",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -2765,7 +1627,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 20729845,
+     "cf_downloads": 20737239,
      "summary": "Simply powerful click-casting interface",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -2786,26 +1648,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "enderneko/Cell",
-     "stars": 216,
-     "updated": "2026-01-22",
-     "summary": "A World of Warcraft raid frame addon.",
-     "release_json": true,
-     "version": "r274-release",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "mainline",
-      "mists",
-      "titan"
-     ],
-     "folders": [
-      "Cell"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "26244",
      "version": "r279-beta",
@@ -2816,8 +1658,8 @@
      ]
     }
    ],
-   "summary": "A World of Warcraft raid frame addon.",
-   "stars": 216,
+   "summary": "",
+   "stars": null,
    "category": "unitframes"
   },
   {
@@ -2832,7 +1674,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 170277569,
+     "cf_downloads": 170297218,
      "summary": "All in one displays for your inventory, bank, guild and vault",
      "cf_categories": [
       "Bags & Inventory",
@@ -2850,37 +1692,15 @@
   },
   {
    "name": "AdiBags",
-   "folders": [
-    "AdiBags",
-    "AdiBags_Config"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "AdiAddons/AdiBags",
-     "stars": 152,
-     "updated": "2024-09-08",
-     "summary": "WoW Addon \u2014 Adirelle's bag addon.",
-     "release_json": true,
-     "version": "v1.10.29",
-     "flavors": [
-      "bcc",
-      "classic",
-      "mainline",
-      "wrath"
-     ],
-     "folders": [
-      "AdiBags",
-      "AdiBags_Config"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "adibags",
      "id": 23350,
      "flavors": [],
      "updated": "2024-09-08",
-     "cf_downloads": 9900350,
+     "cf_downloads": 9900365,
      "summary": "Adirelle's bag addon.",
      "cf_categories": [
       "Bags & Inventory"
@@ -2888,8 +1708,8 @@
      "folders": []
     }
    ],
-   "summary": "WoW Addon \u2014 Adirelle's bag addon.",
-   "stars": 152,
+   "summary": "Adirelle's bag addon.",
+   "stars": null,
    "category": "bags"
   },
   {
@@ -2904,7 +1724,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 41328149,
+     "cf_downloads": 41348572,
      "summary": "Easy to use and powerful bags in categories or single view layouts (includes Forever support)",
      "cf_categories": [
       "Bags & Inventory"
@@ -2928,7 +1748,7 @@
       "forever"
      ],
      "updated": "2026-11-03",
-     "cf_downloads": 30233829,
+     "cf_downloads": 30238527,
      "summary": "Tracks your items, and searches for them in all your characters' bags, banks, mails, auctions and guilds (includes Forever support)",
      "cf_categories": [
       "Bags & Inventory",
@@ -2948,28 +1768,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "Xruptor/BagSync",
-     "stars": 34,
-     "updated": "2026-11-07",
-     "summary": "BagSync tracks your characters items and displays it within tooltips. - Xruptor/BagSync",
-     "release_json": true,
-     "version": "v20.39",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mainline",
-      "mists",
-      "titan",
-      "wrath"
-     ],
-     "folders": [
-      "BagSync"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "15351",
      "version": "v20.39",
@@ -2987,7 +1785,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 4983118,
+     "cf_downloads": 4984520,
      "summary": "BagSync tracks your characters items and displays it within tooltips.",
      "cf_categories": [
       "Bags & Inventory",
@@ -2997,8 +1795,8 @@
      "folders": []
     }
    ],
-   "summary": "BagSync tracks your characters items and displays it within tooltips. - Xruptor/BagSync",
-   "stars": 34,
+   "summary": "BagSync tracks your characters items and displays it within tooltips.",
+   "stars": null,
    "category": "bags"
   },
   {
@@ -3013,7 +1811,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 206182809,
+     "cf_downloads": 206290992,
      "summary": "Makes it easier to use the auction house and track the value of items",
      "cf_categories": [
       "Auction & Economy",
@@ -3050,7 +1848,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 63888751,
+     "cf_downloads": 63901480,
      "summary": "Powerful addon to help you make gold from crafting to selling on the auction house to buying vendor items and much more!",
      "cf_categories": [
       "Auction & Economy",
@@ -3075,7 +1873,7 @@
      "id": 14502,
      "flavors": [],
      "updated": "2026-10-02",
-     "cf_downloads": 35701723,
+     "cf_downloads": 35701919,
      "summary": "Postal: Enhanced Mailbox Support",
      "cf_categories": [
       "Mail"
@@ -3111,7 +1909,7 @@
       "forever"
      ],
      "updated": "2026-11-02",
-     "cf_downloads": 130903994,
+     "cf_downloads": 130911956,
      "summary": "Pawn helps you compare items and find upgrades.",
      "cf_categories": [
       "Bags & Inventory",
@@ -3133,25 +1931,6 @@
    ],
    "sources": [
     {
-     "type": "github",
-     "repo": "Rottenbeer/ItemRack",
-     "stars": 43,
-     "updated": "2024-11-28",
-     "summary": "ItemRack working for WoW Classic.",
-     "release_json": true,
-     "version": "4.23",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "wrath"
-     ],
-     "folders": [
-      "ItemRack",
-      "ItemRackOptions"
-     ]
-    },
-    {
      "type": "wowinterface",
      "id": "4148",
      "version": "3.46",
@@ -3168,7 +1947,7 @@
      "id": 1186,
      "flavors": [],
      "updated": "2026-04-22",
-     "cf_downloads": 756070,
+     "cf_downloads": 756139,
      "summary": "ItemRack",
      "cf_categories": [
       "Bags & Inventory"
@@ -3176,8 +1955,8 @@
      "folders": []
     }
    ],
-   "summary": "ItemRack working for WoW Classic.",
-   "stars": 43,
+   "summary": "ItemRack",
+   "stars": null,
    "category": "bags"
   },
   {
@@ -3192,7 +1971,7 @@
       "forever"
      ],
      "updated": "2026-10-15",
-     "cf_downloads": 33076588,
+     "cf_downloads": 33080007,
      "summary": "Sells all your junk when you visit a merchant. Intuitive & Easy to use.",
      "cf_categories": [
       "Auction & Economy",
@@ -3282,110 +2061,6 @@
    "category": "bags"
   },
   {
-   "name": "Rarity",
-   "folders": [
-    "Rarity",
-    "Rarity_Options"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "WowRarity/Rarity",
-     "stars": 74,
-     "updated": "2026-01-03",
-     "summary": "Collectibles and statistics tracking addon for World of Warcraft - WowRarity/Rarity",
-     "release_json": true,
-     "version": "r751-release",
-     "flavors": [
-      "classic",
-      "mainline",
-      "mists"
-     ],
-     "folders": [
-      "Rarity",
-      "Rarity_Options"
-     ]
-    }
-   ],
-   "summary": "Collectibles and statistics tracking addon for World of Warcraft - WowRarity/Rarity",
-   "stars": 74,
-   "category": "collections"
-  },
-  {
-   "name": "RatingBuster",
-   "folders": [
-    "RatingBuster",
-    "StatLogic"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "raethkcj/RatingBuster",
-     "stars": 61,
-     "updated": "2026-11-06",
-     "summary": "An item comparison tool for WoW Classic.",
-     "release_json": true,
-     "version": "2.9.8",
-     "flavors": [
-      "bcc",
-      "cata",
-      "classic",
-      "forever",
-      "mists",
-      "wrath"
-     ],
-     "folders": [
-      "RatingBuster",
-      "StatLogic"
-     ]
-    },
-    {
-     "type": "curseforge",
-     "slug": "ratingbuster-classic",
-     "id": 837687,
-     "flavors": [
-      "forever"
-     ],
-     "updated": "2026-11-06",
-     "cf_downloads": 794446,
-     "summary": "An item comparison tool for all flavors of WoW Classic.",
-     "cf_categories": [
-      "Tooltip"
-     ],
-     "folders": []
-    }
-   ],
-   "summary": "An item comparison tool for WoW Classic.",
-   "stars": 61,
-   "category": "tooltips"
-  },
-  {
-   "name": "CharacterStatsClassic",
-   "folders": [
-    "CharacterStatsClassic"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "getov/CharacterStatsClassic",
-     "stars": 10,
-     "updated": "2026-07-24",
-     "summary": "WoW Classic Addon for displaying TBC-like character stats interface - getov/CharacterStatsClassic",
-     "release_json": true,
-     "version": null,
-     "flavors": [
-      "classic"
-     ],
-     "folders": [
-      "CharacterStatsClassic"
-     ]
-    }
-   ],
-   "summary": "WoW Classic Addon for displaying TBC-like character stats interface - getov/CharacterStatsClassic",
-   "stars": 10,
-   "category": "qol"
-  },
-  {
    "name": "OlympusMute",
    "folders": [
     "OlympusMute"
@@ -3399,7 +2074,7 @@
       "forever"
      ],
      "updated": "2026-11-01",
-     "cf_downloads": 98780,
+     "cf_downloads": 99183,
      "summary": "Hides chat, bubbles, and invites from guilds you choose (\"Olympus\" by default), plus any words you filter. Client-side only, and nobody is notified.",
      "cf_categories": [
       "Chat & Communication"
@@ -3421,7 +2096,7 @@
      "id": 19430,
      "flavors": [],
      "updated": "2026-06-20",
-     "cf_downloads": 2592667,
+     "cf_downloads": 2592711,
      "summary": "The Spy addon scans for enemy players and announces their presence when they are detected.",
      "cf_categories": [
       "PvP",
@@ -3437,44 +2112,27 @@
   },
   {
    "name": "AutoTurnIn",
-   "folders": [
-    "AutoTurnIn"
-   ],
+   "folders": [],
    "sources": [
-    {
-     "type": "github",
-     "repo": "lure/AutoTurnIn",
-     "stars": 13,
-     "updated": "2026-11-07",
-     "summary": "Wow addon. .",
-     "release_json": true,
-     "version": "12.0.6",
-     "flavors": [
-      "mainline"
-     ],
-     "folders": [
-      "AutoTurnIn"
-     ]
-    },
     {
      "type": "curseforge",
      "slug": "autoturnin",
      "id": 35859,
      "flavors": [],
      "updated": "2026-11-07",
-     "cf_downloads": 3153458,
+     "cf_downloads": 3153997,
      "summary": "Quest handling automation. Map coordinates. Sell junk. Quest Level display.  Skip cinematics.  Auto repair.",
      "cf_categories": [
-      "Roleplay",
       "Quests & Leveling",
       "Professions",
-      "Achievements"
+      "Achievements",
+      "Roleplay"
      ],
      "folders": []
     }
    ],
-   "summary": "Wow addon. .",
-   "stars": 13,
+   "summary": "Quest handling automation. Map coordinates. Sell junk. Quest Level display.  Skip cinematics.  Auto repair.",
+   "stars": null,
    "category": "quests"
   },
   {
@@ -3489,7 +2147,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 7430751,
+     "cf_downloads": 7431405,
      "summary": "Complete sound file browser, mute game sounds, find mob sounds, sound kit finder,  everything sound related in one addon.",
      "cf_categories": [
       "Development Tools",
@@ -3501,30 +2159,6 @@
    ],
    "summary": "Complete sound file browser, mute game sounds, find mob sounds, sound kit finder,  everything sound related in one addon.",
    "stars": null,
-   "category": "qol"
-  },
-  {
-   "name": "Hardcore",
-   "folders": [
-    "Hardcore"
-   ],
-   "sources": [
-    {
-     "type": "github",
-     "repo": "Zarant/WoW_Hardcore",
-     "stars": 24,
-     "updated": "2025-07-21",
-     "summary": "World of Warcraft addon for the Hardcore community - Zarant/WoW_Hardcore",
-     "release_json": false,
-     "version": "0.11.57b",
-     "flavors": [],
-     "folders": [
-      "Hardcore"
-     ]
-    }
-   ],
-   "summary": "World of Warcraft addon for the Hardcore community - Zarant/WoW_Hardcore",
-   "stars": 24,
    "category": "qol"
   }
  ]
