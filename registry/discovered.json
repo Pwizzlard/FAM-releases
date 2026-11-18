@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-17",
+ "built": "2026-11-18T2",
  "tier": "discovered",
  "addons": [
   {
@@ -82750,6 +82750,25 @@
      "type": "github",
      "repo": "zodac-75/CorePlan",
      "flavors": []
+    }
+   ]
+  },
+  {
+   "name": "SoloMeter",
+   "category": "combat",
+   "folders": [
+    "SoloMeter"
+   ],
+   "stars": 0,
+   "summary": "Blizzard's built-in damage meter for WoW Forever, showing only you.",
+   "updated": "2026-11-18",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Pwizzlard/SoloMeter",
+     "flavors": [
+      "forever"
+     ]
     }
    ]
   }
