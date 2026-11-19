@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-18",
+ "built": "2026-11-18T2247",
  "tier": "discovered",
  "addons": [
   {
@@ -288,6 +288,24 @@
      ],
      "updated": "2026-11-17",
      "cf_downloads": 19499157
+    }
+   ]
+  },
+  {
+   "name": "Nova Instance Tracker",
+   "summary": "Track instance lockouts with detailed stats about your time in an instance. Money Trade logs. Alts rested XP amounts. And more.",
+   "updated": "2026-10-31",
+   "category": "raids",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "nova-instance-tracker",
+     "id": 393085,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-10-31",
+     "cf_downloads": 19175740
     }
    ]
   },
