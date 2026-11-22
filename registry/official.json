@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-21T1327",
+ "built": "2026-11-21T1909",
  "addons": [
   {
    "name": "Deadly Boss Mods",
@@ -69,12 +69,12 @@
      "id": 3358,
      "flavors": [],
      "updated": "2026-07-27",
-     "cf_downloads": 643815131,
+     "cf_downloads": 643828214,
      "summary": "A Swiss Army knife that gives you fight info & tools for dungeons & raids. Supporting  Midnight, Forever, Mists of Pandaria, Wrath Titan, Burning Crusade, Vanilla.",
      "cf_categories": [
-      "Combat",
+      "PvP",
       "Boss Encounters",
-      "PvP"
+      "Combat"
      ],
      "folders": []
     }
@@ -241,7 +241,7 @@
       "forever"
      ],
      "updated": "2026-11-04",
-     "cf_downloads": 133307993,
+     "cf_downloads": 133309574,
      "summary": "A BigWigs content plugin for dungeons, delves, and scenarios.",
      "cf_categories": [
       "Boss Encounters",
@@ -266,7 +266,7 @@
       "forever"
      ],
      "updated": "2026-11-09",
-     "cf_downloads": 377065604,
+     "cf_downloads": 377079013,
      "summary": "Complete combat analysis, gathering damage, healing, and other importante stuff.",
      "cf_categories": [
       "Boss Encounters",
@@ -292,7 +292,7 @@
       "forever"
      ],
      "updated": "2026-11-21",
-     "cf_downloads": 39901560,
+     "cf_downloads": 39904530,
      "summary": "Modular damage meter.",
      "cf_categories": [
       "Boss Encounters",
@@ -383,8 +383,8 @@
      "slug": "weakauras-2",
      "id": 65387,
      "flavors": [],
-     "updated": "2026-11-16",
-     "cf_downloads": 255781874,
+     "updated": "2026-11-21",
+     "cf_downloads": 255783288,
      "summary": "A powerful, comprehensive utilty for displaying graphics and information based on buffs, debuffs, and other triggers.",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -436,7 +436,7 @@
      "id": 69254,
      "flavors": [],
      "updated": "2025-11-01",
-     "cf_downloads": 61718387,
+     "cf_downloads": 61718543,
      "summary": "Sim-based priority/rotation helper for DPS and tanking specializations.",
      "cf_categories": [
       "Damage Dealer",
@@ -495,7 +495,7 @@
      "id": 2057,
      "flavors": [],
      "updated": "2025-12-14",
-     "cf_downloads": 65941457,
+     "cf_downloads": 65941740,
      "summary": "Cooldown count for everything",
      "cf_categories": [
       "Action Bars",
@@ -597,7 +597,7 @@
       "forever"
      ],
      "updated": "2026-11-13",
-     "cf_downloads": 32905046,
+     "cf_downloads": 32906042,
      "summary": "Modular casting bar.",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -620,10 +620,10 @@
      "type": "github",
      "repo": "dfherr/ThreatClassic2",
      "stars": 37,
-     "updated": "2026-11-07",
+     "updated": "2026-11-21",
      "summary": "A  simple threat meter for WoW Classic & TBC Classic, successor of ClassicThreatMeter. - dfherr/ThreatClassic2",
      "release_json": true,
-     "version": "2.77",
+     "version": "2.78",
      "flavors": [
       "bcc",
       "classic",
@@ -638,8 +638,8 @@
     {
      "type": "wowinterface",
      "id": "25966",
-     "version": "2.77",
-     "updated": "2026-11-07",
+     "version": "2.78",
+     "updated": "2026-11-21",
      "category_id": 161,
      "folders": [
       "ThreatClassic2"
@@ -689,7 +689,7 @@
       "forever"
      ],
      "updated": "2026-10-13",
-     "cf_downloads": 54464272,
+     "cf_downloads": 54464765,
      "summary": "Helpful addon for raiding",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -734,7 +734,7 @@
       "forever"
      ],
      "updated": "2026-11-20",
-     "cf_downloads": 52727485,
+     "cf_downloads": 52749580,
      "summary": "An addon that generates a Simulationcraft profile for your character",
      "cf_categories": [
       "Data Export",
@@ -784,7 +784,7 @@
       "forever"
      ],
      "updated": "2026-11-21",
-     "cf_downloads": 228525407,
+     "cf_downloads": 228924468,
      "summary": "The Classic Quest Helper",
      "cf_categories": [
       "Quests & Leveling",
@@ -832,7 +832,7 @@
       "forever"
      ],
      "updated": "2026-11-21",
-     "cf_downloads": 5793434,
+     "cf_downloads": 5803571,
      "summary": "A WoW Classic addon for leveling guides with automatic progress updates",
      "cf_categories": [
       "Quests & Leveling"
@@ -881,7 +881,7 @@
       "forever"
      ],
      "updated": "2026-11-21",
-     "cf_downloads": 3681188,
+     "cf_downloads": 3683717,
      "summary": "Questing and Leveling guides from the WoW-Pro community!",
      "cf_categories": [
       "Quests & Leveling"
@@ -903,10 +903,10 @@
      "type": "github",
      "repo": "RestedXP/RXPGuides",
      "stars": 207,
-     "updated": "2026-11-18",
+     "updated": "2026-11-21",
      "summary": "RXPGuides is a platform to write in-game leveling guides for WoW Classic - RestedXP/RXPGuides",
      "release_json": true,
-     "version": "v4.11.37",
+     "version": "v4.11.38",
      "flavors": [
       "bcc",
       "classic",
@@ -927,7 +927,7 @@
       "forever"
      ],
      "updated": "2026-10-03",
-     "cf_downloads": 278751,
+     "cf_downloads": 278773,
      "summary": "HereBeDragons is a data API for the World of Warcraft mapping system",
      "cf_categories": [
       "Libraries",
@@ -964,7 +964,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 93393767,
+     "cf_downloads": 93400185,
      "summary": "Acts as your portable navigation assistant",
      "cf_categories": [
       "Map & Minimap"
@@ -1019,7 +1019,7 @@
       "forever"
      ],
      "updated": "2026-11-03",
-     "cf_downloads": 61831227,
+     "cf_downloads": 61833808,
      "summary": "Handy notes for your maps",
      "cf_categories": [
       "Map & Minimap"
@@ -1071,7 +1071,7 @@
       "forever"
      ],
      "updated": "2026-10-03",
-     "cf_downloads": 10929468,
+     "cf_downloads": 10929661,
      "summary": "Simple Map Mod",
      "cf_categories": [
       "Map & Minimap"
@@ -1132,7 +1132,7 @@
       "forever"
      ],
      "updated": "2026-11-13",
-     "cf_downloads": 36523124,
+     "cf_downloads": 36529793,
      "summary": "Collects Herbs, Mines, Gas Clouds, Archaeology, Treasure and Fishing locations and adds them to the worldmap and minimap",
      "cf_categories": [
       "Map & Minimap",
@@ -1180,7 +1180,7 @@
       "forever"
      ],
      "updated": "2026-11-18",
-     "cf_downloads": 4411688,
+     "cf_downloads": 4412866,
      "summary": "Routes on your maps!",
      "cf_categories": [
       "Professions",
@@ -1279,7 +1279,7 @@
       "forever"
      ],
      "updated": "2026-09-24",
-     "cf_downloads": 8489121,
+     "cf_downloads": 8489501,
      "summary": "An immersive questing experience, without any extra fuss.",
      "cf_categories": [
       "Quests & Leveling",
@@ -1306,7 +1306,7 @@
       "forever"
      ],
      "updated": "2026-11-20",
-     "cf_downloads": 79931769,
+     "cf_downloads": 79990618,
      "summary": "Powerful and modular quality of life addon with a small resource footprint.  Supports all WoW games including Midnight and Burning Crusade Classic Anniversary (as well as all the others).",
      "cf_categories": [
       "Chat & Communication",
@@ -1334,7 +1334,7 @@
       "forever"
      ],
      "updated": "2026-11-20",
-     "cf_downloads": 45953809,
+     "cf_downloads": 46016421,
      "summary": "Enhancements for your maps.  Supports all WoW games including Midnight and Burning Crusade Classic Anniversary (as well as all the others).",
      "cf_categories": [
       "Quests & Leveling",
@@ -1394,7 +1394,7 @@
       "forever"
      ],
      "updated": "2026-11-05",
-     "cf_downloads": 37543074,
+     "cf_downloads": 37544330,
      "summary": "Spice up your minimap with some sexy options.",
      "cf_categories": [
       "Map & Minimap"
@@ -1416,7 +1416,7 @@
      "id": 366310,
      "flavors": [],
      "updated": "2026-11-11",
-     "cf_downloads": 38363306,
+     "cf_downloads": 38364414,
      "summary": "Classic WoW world buff timers and pre buff drop warnings so you never miss a buff.",
      "cf_categories": [
       "Chat & Communication",
@@ -1443,7 +1443,7 @@
       "forever"
      ],
      "updated": "2026-10-31",
-     "cf_downloads": 19235567,
+     "cf_downloads": 19236558,
      "summary": "Track instance lockouts with detailed stats about your time in an instance. Money Trade logs. Alts rested XP amounts. And more.",
      "cf_categories": [
       "Miscellaneous",
@@ -1469,7 +1469,7 @@
       "forever"
      ],
      "updated": "2026-11-20",
-     "cf_downloads": 14843560,
+     "cf_downloads": 14863375,
      "summary": "Attunement progress",
      "cf_categories": [
       "Data Export",
@@ -1572,7 +1572,7 @@
       "forever"
      ],
      "updated": "2026-11-19",
-     "cf_downloads": 83363737,
+     "cf_downloads": 83376176,
      "summary": "Simple and Advanced combined - Bartender4 ActionBar AddOn",
      "cf_categories": [
       "Action Bars"
@@ -1599,10 +1599,10 @@
      "type": "github",
      "repo": "tullamods/Dominos",
      "stars": 83,
-     "updated": "2026-11-17",
+     "updated": "2026-11-21",
      "summary": "A main actionbar replacement.",
      "release_json": true,
-     "version": "12.0.4",
+     "version": "12.1.0",
      "flavors": [
       "bcc",
       "classic",
@@ -1623,8 +1623,8 @@
     {
      "type": "wowinterface",
      "id": "9085",
-     "version": "12.0.4",
-     "updated": "2026-11-17",
+     "version": "12.1.0",
+     "updated": "2026-11-21",
      "category_id": 19,
      "folders": [
       "Dominos",
@@ -1642,8 +1642,8 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-11-17",
-     "cf_downloads": 23148839,
+     "updated": "2026-11-21",
+     "cf_downloads": 23149808,
      "summary": "A main action bar replacement",
      "cf_categories": [
       "Action Bars"
@@ -1743,7 +1743,7 @@
       "forever"
      ],
      "updated": "2026-11-02",
-     "cf_downloads": 9617805,
+     "cf_downloads": 9618039,
      "summary": "A skinning engine for button-based add-ons.",
      "cf_categories": [
       "Action Bars",
@@ -1795,7 +1795,7 @@
       "forever"
      ],
      "updated": "2026-11-20",
-     "cf_downloads": 23465687,
+     "cf_downloads": 23474402,
      "summary": "Move any Blizzard Ui Element/Window",
      "cf_categories": [
       "HUDs",
@@ -1861,7 +1861,7 @@
       "forever"
      ],
      "updated": "2026-11-17",
-     "cf_downloads": 4387196,
+     "cf_downloads": 4387935,
      "summary": "The Gamepad Addon",
      "cf_categories": [
       "Quests & Leveling",
@@ -1951,7 +1951,7 @@
       "forever"
      ],
      "updated": "2026-11-17",
-     "cf_downloads": 1288727,
+     "cf_downloads": 1288862,
      "summary": "Replacement for the default alert system. Better toasts, cheers!",
      "cf_categories": [
       "Bags & Inventory",
@@ -2011,7 +2011,7 @@
       "forever"
      ],
      "updated": "2026-09-27",
-     "cf_downloads": 12413285,
+     "cf_downloads": 12413559,
      "summary": "Restores access to removed interface options in Legion",
      "cf_categories": [
       "Miscellaneous"
@@ -2056,7 +2056,7 @@
       "forever"
      ],
      "updated": "2026-11-11",
-     "cf_downloads": 2860827,
+     "cf_downloads": 2861041,
      "summary": "An Advanced Tooltip Addon (for retail/MN, forever/4ever, classic/MoPC, anniversary/TBC and classic era/Vanilla)",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -2130,7 +2130,7 @@
       "forever"
      ],
      "updated": "2026-11-18",
-     "cf_downloads": 3003566,
+     "cf_downloads": 3005403,
      "summary": "A stylish smooth chat frame revamp (includes Forever support)",
      "cf_categories": [
       "Chat & Communication"
@@ -2166,7 +2166,7 @@
       "forever"
      ],
      "updated": "2026-11-08",
-     "cf_downloads": 35606121,
+     "cf_downloads": 35607883,
      "summary": "Chat addon, filtering messages and UI changes",
      "cf_categories": [
       "Chat & Communication"
@@ -2222,7 +2222,7 @@
       "forever"
      ],
      "updated": "2026-11-20",
-     "cf_downloads": 23901998,
+     "cf_downloads": 23916585,
      "summary": "Give whispers an instant messenger feel.",
      "cf_categories": [
       "Chat & Communication"
@@ -2246,7 +2246,7 @@
       "forever"
      ],
      "updated": "2026-11-17",
-     "cf_downloads": 12566353,
+     "cf_downloads": 12567809,
      "summary": "Bind actions to a pop-up radial menu.",
      "cf_categories": [
       "Action Bars",
@@ -2305,7 +2305,7 @@
       "forever"
      ],
      "updated": "2026-10-26",
-     "cf_downloads": 18224023,
+     "cf_downloads": 18225768,
      "summary": "Toss those bugs inna sack.",
      "cf_categories": [
       "Development Tools",
@@ -2330,7 +2330,7 @@
       "forever"
      ],
      "updated": "2026-10-21",
-     "cf_downloads": 19543842,
+     "cf_downloads": 19545175,
      "summary": "Grabs bugs for the bug sack.",
      "cf_categories": [
       "Development Tools"
@@ -2381,7 +2381,7 @@
       "forever"
      ],
      "updated": "2026-11-07",
-     "cf_downloads": 13481709,
+     "cf_downloads": 13482506,
      "summary": "An immersive character pane and in-game studio",
      "cf_categories": [
       "Transmogrification",
@@ -2432,7 +2432,7 @@
      "id": 35095,
      "flavors": [],
      "updated": "2026-11-20",
-     "cf_downloads": 11569703,
+     "cf_downloads": 11569817,
      "summary": "Prettier nameplates.",
      "cf_categories": [
       "Damage Dealer",
@@ -2482,7 +2482,7 @@
       "forever"
      ],
      "updated": "2026-11-15",
-     "cf_downloads": 105788326,
+     "cf_downloads": 105796300,
      "summary": "Highly customizable nameplate with support to scripts and animations.",
      "cf_categories": [
       "Unit Frames"
@@ -2576,7 +2576,7 @@
      "id": 19268,
      "flavors": [],
      "updated": "2026-01-18",
-     "cf_downloads": 19508683,
+     "cf_downloads": 19508777,
      "summary": "\"Debug\" code free since '93!",
      "cf_categories": [
       "Boss Encounters",
@@ -2668,7 +2668,7 @@
       "forever"
      ],
      "updated": "2026-11-15",
-     "cf_downloads": 15636555,
+     "cf_downloads": 15637282,
      "summary": "A modular, lightweight and screen-estate saving grid of party/raid unit frames",
      "cf_categories": [
       "Unit Frames",
@@ -2692,8 +2692,8 @@
     {
      "type": "wowinterface",
      "id": "14239",
-     "version": "v3.222-alpha-11",
-     "updated": "2026-11-21",
+     "version": "v3.222-alpha-12",
+     "updated": "2026-11-22",
      "category_id": 45,
      "folders": [
       "VuhDo",
@@ -2708,7 +2708,7 @@
       "forever"
      ],
      "updated": "2026-11-15",
-     "cf_downloads": 30385448,
+     "cf_downloads": 30387381,
      "summary": "Raid Frames providing click-heal functionality, buff and debuff control, main tank management and much more.",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -2772,7 +2772,7 @@
       "forever"
      ],
      "updated": "2026-11-08",
-     "cf_downloads": 20886962,
+     "cf_downloads": 20887578,
      "summary": "Simply powerful click-casting interface",
      "cf_categories": [
       "Buffs & Debuffs",
@@ -2839,7 +2839,7 @@
       "forever"
      ],
      "updated": "2026-11-18",
-     "cf_downloads": 173754533,
+     "cf_downloads": 173780896,
      "summary": "See your inventory, bank, guild and alts from anywhere",
      "cf_categories": [
       "Bags & Inventory",
@@ -2887,7 +2887,7 @@
      "id": 23350,
      "flavors": [],
      "updated": "2024-09-08",
-     "cf_downloads": 9903791,
+     "cf_downloads": 9903844,
      "summary": "Adirelle's bag addon.",
      "cf_categories": [
       "Bags & Inventory"
@@ -2910,8 +2910,8 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-11-20",
-     "cf_downloads": 46194509,
+     "updated": "2026-11-21",
+     "cf_downloads": 46329605,
      "summary": "Easy to use and powerful bags in categories or single view layouts (supports Forever with gamepad)",
      "cf_categories": [
       "Bags & Inventory"
@@ -2934,8 +2934,8 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-11-20",
-     "cf_downloads": 32208222,
+     "updated": "2026-11-21",
+     "cf_downloads": 32344583,
      "summary": "Tracks your items, and searches for them in all your characters' bags, banks, mails, auctions and guilds (includes Forever support)",
      "cf_categories": [
       "Bags & Inventory",
@@ -2994,7 +2994,7 @@
       "forever"
      ],
      "updated": "2026-11-17",
-     "cf_downloads": 5043915,
+     "cf_downloads": 5044261,
      "summary": "BagSync tracks your characters items and displays it within tooltips.",
      "cf_categories": [
       "Bags & Inventory",
@@ -3019,8 +3019,8 @@
      "flavors": [
       "forever"
      ],
-     "updated": "2026-11-18",
-     "cf_downloads": 215903598,
+     "updated": "2026-11-21",
+     "cf_downloads": 216294454,
      "summary": "Makes it easier to use the auction house and track the value of items",
      "cf_categories": [
       "Auction & Economy",
@@ -3057,7 +3057,7 @@
       "forever"
      ],
      "updated": "2026-11-20",
-     "cf_downloads": 64797518,
+     "cf_downloads": 64813036,
      "summary": "Powerful addon to help you make gold from crafting to selling on the auction house to buying vendor items and much more!",
      "cf_categories": [
       "Auction & Economy",
@@ -3082,7 +3082,7 @@
      "id": 14502,
      "flavors": [],
      "updated": "2026-10-02",
-     "cf_downloads": 35719847,
+     "cf_downloads": 35720142,
      "summary": "Postal: Enhanced Mailbox Support",
      "cf_categories": [
       "Mail"
@@ -3118,7 +3118,7 @@
       "forever"
      ],
      "updated": "2026-11-21",
-     "cf_downloads": 132907161,
+     "cf_downloads": 133053973,
      "summary": "Pawn helps you compare items and find upgrades.",
      "cf_categories": [
       "Bags & Inventory",
@@ -3175,7 +3175,7 @@
      "id": 1186,
      "flavors": [],
      "updated": "2026-04-22",
-     "cf_downloads": 756718,
+     "cf_downloads": 756723,
      "summary": "ItemRack",
      "cf_categories": [
       "Bags & Inventory"
@@ -3199,7 +3199,7 @@
       "forever"
      ],
      "updated": "2026-11-15",
-     "cf_downloads": 33745589,
+     "cf_downloads": 33749933,
      "summary": "Sells all your junk when you visit a merchant. Intuitive & Easy to use.",
      "cf_categories": [
       "Auction & Economy",
@@ -3330,7 +3330,7 @@
       "forever"
      ],
      "updated": "2026-11-14",
-     "cf_downloads": 705334,
+     "cf_downloads": 705363,
      "summary": "Shows the missing recipes/skills for a tradeskill and where to get them",
      "cf_categories": [
       "Professions",
@@ -3354,10 +3354,10 @@
      "type": "github",
      "repo": "raethkcj/RatingBuster",
      "stars": 61,
-     "updated": "2026-11-14",
+     "updated": "2026-11-21",
      "summary": "An item comparison tool for WoW Classic.",
      "release_json": true,
-     "version": "2.10.0",
+     "version": "2.10.1",
      "flavors": [
       "bcc",
       "cata",
@@ -3379,7 +3379,7 @@
       "forever"
      ],
      "updated": "2026-11-14",
-     "cf_downloads": 807836,
+     "cf_downloads": 807949,
      "summary": "An item comparison tool for all flavors of WoW Classic.",
      "cf_categories": [
       "Tooltip"
@@ -3431,7 +3431,7 @@
       "forever"
      ],
      "updated": "2026-11-15",
-     "cf_downloads": 159527,
+     "cf_downloads": 159858,
      "summary": "Hides chat, bubbles, and invites from guilds you choose (\"Olympus\" by default), plus any words you filter. Client-side only, and nobody is notified.",
      "cf_categories": [
       "Chat & Communication"
@@ -3453,7 +3453,7 @@
      "id": 19430,
      "flavors": [],
      "updated": "2026-06-20",
-     "cf_downloads": 2594509,
+     "cf_downloads": 2594536,
      "summary": "The Spy addon scans for enemy players and announces their presence when they are detected.",
      "cf_categories": [
       "PvP",
@@ -3494,7 +3494,7 @@
      "id": 35859,
      "flavors": [],
      "updated": "2026-11-07",
-     "cf_downloads": 3161343,
+     "cf_downloads": 3161386,
      "summary": "Quest handling automation. Map coordinates. Sell junk. Quest Level display.  Skip cinematics.  Auto repair.",
      "cf_categories": [
       "Roleplay",
@@ -3521,7 +3521,7 @@
       "forever"
      ],
      "updated": "2026-11-18",
-     "cf_downloads": 7562943,
+     "cf_downloads": 7564685,
      "summary": "Complete sound file browser, mute game sounds, find mob sounds, sound kit finder,  everything sound related in one addon.",
      "cf_categories": [
       "Development Tools",
