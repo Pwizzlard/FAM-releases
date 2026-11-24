@@ -1,8 +1,26 @@
 {
  "schema": 1,
- "built": "2026-11-23T1721",
+ "built": "2026-11-23T2136",
  "tier": "discovered",
  "addons": [
+  {
+   "name": "SellAdvisor",
+   "summary": "Compares vendor and Auctionator prices to add color-coded Sell, Hold, and Quest badges to item tooltips, with optional Baganator bag icons.",
+   "updated": "2026-11-23",
+   "category": "economy",
+   "sources": [
+    {
+     "type": "curseforge",
+     "slug": "selladvisor",
+     "id": 1825352,
+     "flavors": [
+      "forever"
+     ],
+     "updated": "2026-11-23",
+     "cf_downloads": 145
+    }
+   ]
+  },
   {
    "name": "RareScanner",
    "summary": "RareScanner, a World of Warcraft addon to alert you when a rare, event or treasure appear in your minimap.",
