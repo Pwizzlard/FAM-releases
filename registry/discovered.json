@@ -1,8 +1,27 @@
 {
  "schema": 1,
- "built": "2026-11-24T1735",
+ "built": "2026-11-24T2135",
  "tier": "discovered",
  "addons": [
+  {
+   "name": "QuestQuarry",
+   "category": "quests",
+   "folders": [
+    "QuestQuarry"
+   ],
+   "stars": 0,
+   "summary": "RestedXP-style quest target and item buttons for WoW Classic Forever (uses QuestieDB)",
+   "updated": "2026-11-24",
+   "sources": [
+    {
+     "type": "github",
+     "repo": "Pwizzlard/QuestQuarry",
+     "flavors": [
+      "forever"
+     ]
+    }
+   ]
+  },
   {
    "name": "NDui",
    "category": "ui",
